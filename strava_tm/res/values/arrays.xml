@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_charts_tabs">
+        <item>ELEVATION</item>
+        <item>SPEED</item>
+        <item>HEART RATE</item>
+    </string-array>
+    <string-array name="activity_type_default_name_afternoon">
+        <item>Afternoon Ride</item>
+        <item>Afternoon Run</item>
+        <item>Afternoon Swim</item>
+        <item>Afternoon Hike</item>
+        <item>Afternoon Walk</item>
+        <item>Afternoon Ride</item>
+        <item>Afternoon Push</item>
+        <item>Afternoon Activity</item>
+    </string-array>
+    <string-array name="activity_type_default_name_evening">
+        <item>Evening Ride</item>
+        <item>Evening Run</item>
+        <item>Evening Swim</item>
+        <item>Evening Hike</item>
+        <item>Evening Walk</item>
+        <item>Evening Ride</item>
+        <item>Evening Push</item>
+        <item>Evening Activity</item>
+    </string-array>
+    <string-array name="activity_type_default_name_lunch">
+        <item>Lunch Ride</item>
+        <item>Lunch Run</item>
+        <item>Lunch Swim</item>
+        <item>Lunch Hike</item>
+        <item>Lunch Walk</item>
+        <item>Lunch Ride</item>
+        <item>Lunch Push</item>
+        <item>Lunch Activity</item>
+    </string-array>
+    <string-array name="activity_type_default_name_morning">
+        <item>Morning Ride</item>
+        <item>Morning Run</item>
+        <item>Morning Swim</item>
+        <item>Morning Hike</item>
+        <item>Morning Walk</item>
+        <item>Morning Ride</item>
+        <item>Morning Push</item>
+        <item>Morning Activity</item>
+    </string-array>
+    <string-array name="activity_type_default_name_night">
+        <item>Night Ride</item>
+        <item>Night Run</item>
+        <item>Night Swim</item>
+        <item>Night Hike</item>
+        <item>Night Walk</item>
+        <item>Night Ride</item>
+        <item>Night Push</item>
+        <item>Night Activity</item>
+    </string-array>
+    <string-array name="activity_type_proper_noun">
+        <item>Ride</item>
+        <item>Run</item>
+        <item>Swim</item>
+        <item>Hike</item>
+        <item>Walk</item>
+        <item>Ride</item>
+        <item>Push</item>
+        <item>Alpine Ski</item>
+        <item>Backcountry Ski</item>
+        <item>Canoe</item>
+        <item>Cross-country Ski</item>
+        <item>Crossfit</item>
+        <item>Elliptical</item>
+        <item>Ice Skate</item>
+        <item>Inline Skate</item>
+        <item>Kayak</item>
+        <item>Kitesurf Session</item>
+        <item>Rock Climb</item>
+        <item>Roller Ski</item>
+        <item>Row</item>
+        <item>Snowboard</item>
+        <item>Snowshoe</item>
+        <item>Stair-Stepper</item>
+        <item>Stand Up Paddle</item>
+        <item>Surf</item>
+        <item>Weight Training</item>
+        <item>Windsurf Session</item>
+        <item>Workout</item>
+        <item>Yoga</item>
+        <item>Nordic Ski</item>
+        <item>Activity</item>
+        <item>Activity</item>
+    </string-array>
+    <string-array name="activity_type_share_body">
+        <item>Check out my %1$s Ride on Strava: %2$s</item>
+        <item>Check out my %1$s Run on Strava: %2$s</item>
+        <item>Check out my %1$s Swim on Strava: %2$s</item>
+        <item>Check out my %1$s Hike on Strava: %2$s</item>
+        <item>Check out my %1$s Walk on Strava: %2$s</item>
+        <item>Check out my %1$s Ride on Strava: %2$s</item>
+        <item>Check out my %1$s Push on Strava: %2$s</item>
+        <item>Check out my %1$s Activity on Strava: %2$s</item>
+    </string-array>
+    <string-array name="activity_type_share_body_with_photo">
+        <item>Check out my ride on Strava: %1$s</item>
+        <item>Check out my run on Strava: %1$s</item>
+        <item>Check out my swim on Strava: %1$s</item>
+        <item>Check out my hike on Strava: %1$s</item>
+        <item>Check out my walk on Strava: %1$s</item>
+        <item>Check out my ride on Strava: %1$s</item>
+        <item>Check out my push on Strava: %1$s</item>
+        <item>Check out my activity on Strava: %1$s</item>
+    </string-array>
+    <string-array name="activity_type_share_subject">
+        <item>Check out my %s Ride</item>
+        <item>Check out my %s Run</item>
+        <item>Check out my %s Swim</item>
+        <item>Check out my %s Hike</item>
+        <item>Check out my %s Walk</item>
+        <item>Check out my %s Ride</item>
+        <item>Check out my %s Push</item>
+        <item>Check out my %s Activity</item>
+    </string-array>
+    <string-array name="activity_type_upper_case">
+        <item>RIDE</item>
+        <item>RUN</item>
+        <item>SWIM</item>
+        <item>HIKE</item>
+        <item>WALK</item>
+        <item>RIDE</item>
+        <item>PUSH</item>
+        <item>ACTIVITY</item>
+    </string-array>
+    <string-array name="athlete_list_activity_related_activities_title">
+        <item>Group Ride</item>
+        <item>Group Run</item>
+        <item>Group Activity</item>
+    </string-array>
+    <string-array name="audio_updater_format_hours">
+        <item>zero hours</item>
+        <item>one hour</item>
+        <item>two hours</item>
+        <item>three hours</item>
+        <item>four hours</item>
+        <item>five hours</item>
+        <item>six hours</item>
+        <item>seven hours</item>
+        <item>eight hours</item>
+        <item>nine hours</item>
+        <item>ten hours</item>
+        <item>eleven hours</item>
+        <item>twelve hours</item>
+        <item>thirteen hours</item>
+        <item>fourteen hours</item>
+        <item>fifteen hours</item>
+        <item>sixteen hours</item>
+        <item>seventeen hours</item>
+        <item>eighteen hours</item>
+        <item>nineteen hours</item>
+        <item>twenty hours</item>
+        <item>twenty one hours</item>
+        <item>twenty two hours</item>
+        <item>twenty three hours</item>
+        <item>twenty four hours</item>
+    </string-array>
+    <string-array name="audio_updater_format_minutes">
+        <item>zero minutes</item>
+        <item>one minute</item>
+        <item>two minutes</item>
+        <item>three minutes</item>
+        <item>four minutes</item>
+        <item>five minutes</item>
+        <item>six minutes</item>
+        <item>seven minutes</item>
+        <item>eight minutes</item>
+        <item>nine minutes</item>
+        <item>ten minutes</item>
+        <item>eleven minutes</item>
+        <item>twelve minutes</item>
+        <item>thirteen minutes</item>
+        <item>fourteen minutes</item>
+        <item>fifteen minutes</item>
+        <item>sixteen minutes</item>
+        <item>seventeen minutes</item>
+        <item>eighteen minutes</item>
+        <item>nineteen minutes</item>
+        <item>twenty minutes</item>
+        <item>twenty one minutes</item>
+        <item>twenty two minutes</item>
+        <item>twenty three minutes</item>
+        <item>twenty four minutes</item>
+        <item>twenty five minutes</item>
+        <item>twenty six minutes</item>
+        <item>twenty seven minutes</item>
+        <item>twenty eight minutes</item>
+        <item>twenty nine minutes</item>
+        <item>thirty minutes</item>
+        <item>thirty one minutes</item>
+        <item>thirty two minutes</item>
+        <item>thirty three minutes</item>
+        <item>thirty four minutes</item>
+        <item>thirty five minutes</item>
+        <item>thirty six minutes</item>
+        <item>thirty seven minutes</item>
+        <item>thirty eight minutes</item>
+        <item>thirty nine minutes</item>
+        <item>forty minutes</item>
+        <item>forty one minutes</item>
+        <item>forty two minutes</item>
+        <item>forty three minutes</item>
+        <item>forty four minutes</item>
+        <item>forty five minutes</item>
+        <item>forty six minutes</item>
+        <item>forty seven minutes</item>
+        <item>forty eight minutes</item>
+        <item>forty nine minutes</item>
+        <item>fifty minutes</item>
+        <item>fifty one minutes</item>
+        <item>fifty two minutes</item>
+        <item>fifty three minutes</item>
+        <item>fifty four minutes</item>
+        <item>fifty five minutes</item>
+        <item>fifty six minutes</item>
+        <item>fifty seven minutes</item>
+        <item>fifty eight minutes</item>
+        <item>fifty nine minutes</item>
+    </string-array>
+    <string-array name="audio_updater_format_seconds">
+        <item>zero seconds</item>
+        <item>one second</item>
+        <item>two seconds</item>
+        <item>three seconds</item>
+        <item>four seconds</item>
+        <item>five seconds</item>
+        <item>six seconds</item>
+        <item>seven seconds</item>
+        <item>eight seconds</item>
+        <item>nine seconds</item>
+        <item>ten seconds</item>
+        <item>eleven seconds</item>
+        <item>twelve seconds</item>
+        <item>thirteen seconds</item>
+        <item>fourteen seconds</item>
+        <item>fifteen seconds</item>
+        <item>sixteen seconds</item>
+        <item>seventeen seconds</item>
+        <item>eighteen seconds</item>
+        <item>nineteen seconds</item>
+        <item>twenty seconds</item>
+        <item>twenty one seconds</item>
+        <item>twenty two seconds</item>
+        <item>twenty three seconds</item>
+        <item>twenty four seconds</item>
+        <item>twenty five seconds</item>
+        <item>twenty six seconds</item>
+        <item>twenty seven seconds</item>
+        <item>twenty eight seconds</item>
+        <item>twenty nine seconds</item>
+        <item>thirty seconds</item>
+        <item>thirty one seconds</item>
+        <item>thirty two seconds</item>
+        <item>thirty three seconds</item>
+        <item>thirty four seconds</item>
+        <item>thirty five seconds</item>
+        <item>thirty six seconds</item>
+        <item>thirty seven seconds</item>
+        <item>thirty eight seconds</item>
+        <item>thirty nine seconds</item>
+        <item>forty seconds</item>
+        <item>forty one seconds</item>
+        <item>forty two seconds</item>
+        <item>forty three seconds</item>
+        <item>forty four seconds</item>
+        <item>forty five seconds</item>
+        <item>forty six seconds</item>
+        <item>forty seven seconds</item>
+        <item>forty eight seconds</item>
+        <item>forty nine seconds</item>
+        <item>fifty seconds</item>
+        <item>fifty one seconds</item>
+        <item>fifty two seconds</item>
+        <item>fifty three seconds</item>
+        <item>fifty four seconds</item>
+        <item>fifty five seconds</item>
+        <item>fifty six seconds</item>
+        <item>fifty seven seconds</item>
+        <item>fifty eight seconds</item>
+        <item>fifty nine seconds</item>
+    </string-array>
+    <string-array name="challenge_individual_leaderboard_tabs">
+        <item>OVERALL</item>
+        <item>FOLLOWING</item>
+    </string-array>
+    <string-array name="comments_list_empty_message">
+        <item>This ride does not currently have any comments</item>
+        <item>This run does not currently have any comments</item>
+        <item>This swim does not currently have any comments</item>
+        <item>This hike does not currently have any comments</item>
+        <item>This walk does not currently have any comments</item>
+        <item>This ride does not currently have any comments</item>
+        <item>This push does not currently have any comments</item>
+        <item>This activity does not currently have any comments</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="feed_tabs">
+        <item>FOLLOWING</item>
+        <item>YOU</item>
+        <item>CLUBS</item>
+    </string-array>
+    <string-array name="keep_screen_on_duration">
+        <item>15 sec</item>
+        <item>30 sec</item>
+        <item>1 min</item>
+        <item>3 min</item>
+        <item>5 min</item>
+        <item>No Dimming</item>
+    </string-array>
+    <string-array name="monthly_interval_options">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>Last</item>
+    </string-array>
+    <string-array name="months_full_header_capitalized">
+        <item>JANUARY</item>
+        <item>FEBRUARY</item>
+        <item>MARCH</item>
+        <item>APRIL</item>
+        <item>MAY</item>
+        <item>JUNE</item>
+        <item>JULY</item>
+        <item>AUGUST</item>
+        <item>SEPTEMBER</item>
+        <item>OCTOBER</item>
+        <item>NOVEMBER</item>
+        <item>DECEMBER</item>
+    </string-array>
+    <string-array name="months_full_header_title_case">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="months_short_header">
+        <item>JAN</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>APR</item>
+        <item>MAY</item>
+        <item>JUN</item>
+        <item>JUL</item>
+        <item>AUG</item>
+        <item>SEP</item>
+        <item>OCT</item>
+        <item>NOV</item>
+        <item>DEC</item>
+    </string-array>
+    <string-array name="new_ride_change_route_options">
+        <item>Switch Route</item>
+        <item>Clear Route</item>
+        <item>Route Back to Start</item>
+    </string-array>
+    <string-array name="nth_place_numeric">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+        <item>9th</item>
+        <item>10th</item>
+    </string-array>
+    <string-array name="pace_zones">
+        <item>Active Recovery</item>
+        <item>Endurance</item>
+        <item>Tempo</item>
+        <item>Threshold</item>
+        <item>VO2 Max</item>
+        <item>Anaerobic</item>
+    </string-array>
+    <string-array name="primary_sports">
+        <item>Running</item>
+        <item>Cycling</item>
+    </string-array>
+    <string-array name="profile_edit_picture">
+        <item>Take Picture</item>
+        <item>Select From Gallery</item>
+    </string-array>
+    <string-array name="record_route_options">
+        <item>Route Back to Start</item>
+        <item>Load Route</item>
+    </string-array>
+    <string-array name="save_activity_ride_tags">
+        <item>Select Type</item>
+        <item>None</item>
+        <item>Workout</item>
+        <item>Race</item>
+    </string-array>
+    <string-array name="save_activity_run_tags">
+        <item>Select Type</item>
+        <item>None</item>
+        <item>Long Run</item>
+        <item>Workout</item>
+        <item>Race</item>
+    </string-array>
+    <string-array name="save_activity_type_entries">
+        <item>Ride</item>
+        <item>Run</item>
+        <item>Swim</item>
+        <item>Hike</item>
+        <item>Walk</item>
+        <item>Handcycle</item>
+        <item>Wheelchair</item>
+        <item>Alpine Ski</item>
+        <item>Backcountry Ski</item>
+        <item>Canoe</item>
+        <item>Cross-country Ski</item>
+        <item>Crossfit</item>
+        <item>Elliptical</item>
+        <item>Ice Skate</item>
+        <item>Inline Skate</item>
+        <item>Kayaking</item>
+        <item>Kitesurf</item>
+        <item>Rock Climb</item>
+        <item>Roller Ski</item>
+        <item>Rowing</item>
+        <item>Snowboard</item>
+        <item>Snowshoe</item>
+        <item>Stair-Stepper</item>
+        <item>Stand Up Paddling</item>
+        <item>Surfing</item>
+        <item>Weight Training</item>
+        <item>Windsurf</item>
+        <item>Workout</item>
+        <item>Yoga</item>
+        <item>Nordic Ski</item>
+        <item>Virtual Ride</item>
+        <item>E-Bike Ride</item>
+    </string-array>
+    <string-array name="training_log_data_types">
+        <item>Distance</item>
+        <item>Time</item>
+        <item>Elevation</item>
+    </string-array>
+    <string-array name="weekly_interval_options">
+        <item>Every Week</item>
+        <item>Every 2 Weeks</item>
+        <item>Every 3 Weeks</item>
+        <item>Every 4 Weeks</item>
+    </string-array>
+    <array name="heart_rate_zone_colors">
+        <item>#ffff8f8f</item>
+        <item>#fffa5d5d</item>
+        <item>@color/red</item>
+        <item>#ffbf1b10</item>
+        <item>#ff9b1207</item>
+    </array>
+    <string-array name="instagram_handles">
+        <item>stravarun</item>
+        <item>stravacycling</item>
+    </string-array>
+    <string-array name="keep_screen_on_duration_values">
+        <item>@string/pref_value_screen_on_15_sec</item>
+        <item>@string/pref_value_screen_on_30_sec</item>
+        <item>@string/pref_value_screen_on_1_min</item>
+        <item>@string/pref_value_screen_on_3_min</item>
+        <item>@string/pref_value_screen_on_5_min</item>
+        <item>@string/pref_value_screen_no_dimming</item>
+    </string-array>
+    <array name="pace_zone_colors">
+        <item>#ff82f3fc</item>
+        <item>#ff6edbed</item>
+        <item>#ff49b0d1</item>
+        <item>#ff2d8bb6</item>
+        <item>#ff146ca2</item>
+        <item>#ff01518a</item>
+    </array>
+    <string-array name="pref_audio_update_live_segments_display">
+        <item>@string/pref_audio_live_segments_off_display</item>
+        <item>@string/pref_audio_live_segments_voice_display</item>
+        <item>@string/pref_audio_live_segments_chime_display</item>
+    </string-array>
+    <string-array name="pref_audio_update_live_segments_free_display">
+        <item>@string/pref_audio_live_segments_off_display</item>
+        <item>@string/pref_audio_live_segments_chime_display</item>
+    </string-array>
+    <string-array name="pref_audio_update_live_segments_free_values">
+        <item>@string/pref_audio_live_segments_off</item>
+        <item>@string/pref_audio_live_segments_chime</item>
+    </string-array>
+    <string-array name="pref_audio_update_live_segments_values">
+        <item>@string/pref_audio_live_segments_off</item>
+        <item>@string/pref_audio_live_segments_voice</item>
+        <item>@string/pref_audio_live_segments_chime</item>
+    </string-array>
+    <string-array name="pref_default_activity_highlight_display">
+        <item>@string/nav_activity_preference_highlight_photo_menu</item>
+        <item>@string/nav_activity_preference_highlight_map_menu</item>
+    </string-array>
+    <string-array name="pref_default_activity_highlight_values">
+        <item>@string/pref_default_activity_highlight_photo</item>
+        <item>@string/pref_default_activity_highlight_map</item>
+    </string-array>
+    <string-array name="pref_email_language_values">
+        <item>@string/pref_email_language_de_DE</item>
+        <item>@string/pref_email_language_en_US</item>
+        <item>@string/pref_email_language_es_ES</item>
+        <item>@string/pref_email_language_es_LA</item>
+        <item>@string/pref_email_language_fr_FR</item>
+        <item>@string/pref_email_language_it_IT</item>
+        <item>@string/pref_email_language_nl_NL</item>
+        <item>@string/pref_email_language_pt_BR</item>
+        <item>@string/pref_email_language_pt_PT</item>
+        <item>@string/pref_email_language_ru_RU</item>
+        <item>@string/pref_email_language_ko_KR</item>
+        <item>@string/pref_email_language_zh_TW</item>
+        <item>@string/pref_email_language_ja_JP</item>
+    </string-array>
+    <string-array name="pref_email_language_values_display">
+        <item>@string/pref_email_language_de_DE_display</item>
+        <item>@string/pref_email_language_en_US_display</item>
+        <item>@string/pref_email_language_es_ES_display</item>
+        <item>@string/pref_email_language_es_LA_display</item>
+        <item>@string/pref_email_language_fr_FR_display</item>
+        <item>@string/pref_email_language_it_IT_display</item>
+        <item>@string/pref_email_language_nl_NL_display</item>
+        <item>@string/pref_email_language_pt_BR_display</item>
+        <item>@string/pref_email_language_pt_PT_display</item>
+        <item>@string/pref_email_language_ru_RU_display</item>
+        <item>@string/pref_email_language_ko_KR_display</item>
+        <item>@string/pref_email_language_zh_TW_display</item>
+        <item>@string/pref_email_language_ja_JP_display</item>
+    </string-array>
+    <string-array name="pref_notification_types">
+        <item>@string/pref_notification_none</item>
+        <item>@string/pref_notification_email</item>
+        <item>@string/pref_notification_push</item>
+        <item>@string/pref_notification_email_push</item>
+    </string-array>
+    <string-array name="pref_notification_types_display">
+        <item>@string/pref_notification_none_display</item>
+        <item>@string/pref_notification_email_display</item>
+        <item>@string/pref_notification_push_display</item>
+        <item>@string/pref_notification_email_push_display</item>
+    </string-array>
+    <string-array name="pref_notification_types_email_or_push_and_email">
+        <item>@string/pref_notification_email</item>
+        <item>@string/pref_notification_email_push</item>
+    </string-array>
+    <string-array name="pref_notification_types_email_or_push_and_email_display">
+        <item>@string/pref_notification_email_display</item>
+        <item>@string/pref_notification_email_push_display</item>
+    </string-array>
+    <string-array name="pref_run_audio_update_display">
+        <item>@string/pref_audio_update_none_display</item>
+        <item>@string/pref_audio_update_whole_display_metric</item>
+        <item>@string/pref_audio_update_half_display_metric</item>
+    </string-array>
+    <string-array name="pref_run_audio_update_values">
+        <item>@string/pref_audio_update_none</item>
+        <item>@string/pref_audio_update_whole</item>
+        <item>@string/pref_audio_update_half</item>
+    </string-array>
+    <string-array name="pref_start_activity_display">
+        <item>@string/nav_activities_menu</item>
+        <item>@string/nav_record_menu</item>
+    </string-array>
+    <string-array name="pref_start_activity_values">
+        <item>@string/pref_start_activity_feed</item>
+        <item>@string/pref_start_activity_record</item>
+    </string-array>
+    <string-array name="pref_units_of_measure_display">
+        <item>@string/pref_uom_standard_display</item>
+        <item>@string/pref_uom_metric_display</item>
+    </string-array>
+    <string-array name="pref_units_of_measure_values">
+        <item>@string/pref_uom_standard</item>
+        <item>@string/pref_uom_metric</item>
+    </string-array>
+    <string-array name="training_log_data_types_values">
+        <item>@string/pref_value_training_log_distance</item>
+        <item>@string/pref_value_training_log_time</item>
+        <item>@string/pref_value_training_log_elevation</item>
+    </string-array>
+    <integer-array name="zendesk_article_section_ids">
+        <item>205714107</item>
+        <item>203774007</item>
+    </integer-array>
+</resources>

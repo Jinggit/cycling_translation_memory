@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="push_alias">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:hint">@string/alias_hint</item>
+    </style>
+    <style name="push_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:hint">@string/style_hint</item>
+        <item name="android:inputType">number</item>
+    </style>
+    <style name="push_tag">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:hint">@string/tag_hint</item>
+    </style>
+</resources>

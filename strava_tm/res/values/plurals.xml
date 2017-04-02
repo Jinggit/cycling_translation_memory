@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">in %d days</item>
+        <item quantity="one">tomorrow</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">in %d hours</item>
+        <item quantity="one">in 1 hour</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">in %d mins</item>
+        <item quantity="one">in 1 min</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">in %d secs</item>
+        <item quantity="one">in 1 sec</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">yesterday</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">1 hour ago</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d mins ago</item>
+        <item quantity="one">1 min ago</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d secs ago</item>
+        <item quantity="one">1 sec ago</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">in %d days</item>
+        <item quantity="one">tomorrow</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">in %d hours</item>
+        <item quantity="one">in 1 hour</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">in %d minutes</item>
+        <item quantity="one">in 1 minute</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">in %d seconds</item>
+        <item quantity="one">in 1 second</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">yesterday</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">1 hour ago</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">%d seconds ago</item>
+        <item quantity="one">1 second ago</item>
+    </plurals>
+    <plurals name="activity_segments_achievements_header">
+        <item quantity="other">%d ACHIEVEMENTS</item>
+        <item quantity="one">%d ACHIEVEMENT</item>
+    </plurals>
+    <plurals name="activity_segments_best_efforts_header">
+        <item quantity="other">%d BEST EFFORTS</item>
+        <item quantity="one">%d BEST EFFORT</item>
+    </plurals>
+    <plurals name="activity_segments_segments_header">
+        <item quantity="other">%d SEGMENTS</item>
+        <item quantity="one">%d SEGMENT</item>
+    </plurals>
+    <plurals name="activity_summary_fragment_and_n_more_achievements">
+        <item quantity="other">+%d more Achievements</item>
+        <item quantity="one">+1 more Achievement</item>
+    </plurals>
+    <plurals name="athlete_list_activity_kudos_given">
+        <item quantity="other">%d Kudos Given</item>
+        <item quantity="one">%d Kudo Given</item>
+    </plurals>
+    <plurals name="athlete_list_athletes_other_athlete_follows_plurals">
+        <item quantity="other">ATHLETES %s IS FOLLOWING</item>
+        <item quantity="one">ATHLETE %s IS FOLLOWING</item>
+    </plurals>
+    <plurals name="athlete_list_athletes_you_follow_plural">
+        <item quantity="other">ATHLETES YOU FOLLOW</item>
+        <item quantity="one">ATHLETE YOU FOLLOW</item>
+    </plurals>
+    <plurals name="athlete_list_contacts_header_text">
+        <item quantity="other">%d contacts on Strava</item>
+        <item quantity="one">%d contact on Strava</item>
+    </plurals>
+    <plurals name="athlete_list_facebook_header_text">
+        <item quantity="other">%d Friends on Strava</item>
+        <item quantity="one">%d Friend on Strava</item>
+    </plurals>
+    <plurals name="athlete_list_follower_header_logged_in_user_plurals">
+        <item quantity="other">ATHLETES FOLLOWING YOU</item>
+        <item quantity="one">ATHLETE FOLLOWING YOU</item>
+    </plurals>
+    <plurals name="athlete_list_follower_header_other_athlete_plurals">
+        <item quantity="other">ATHLETES FOLLOWING %s</item>
+        <item quantity="one">ATHLETE FOLLOWING %s</item>
+    </plurals>
+    <plurals name="athlete_list_follower_pending_header_plurals">
+        <item quantity="other">FOLLOWER REQUESTS</item>
+        <item quantity="one">FOLLOWER REQUEST</item>
+    </plurals>
+    <plurals name="athlete_list_following_pending_header_plural">
+        <item quantity="other">PENDING REQUESTS</item>
+        <item quantity="one">PENDING REQUEST</item>
+    </plurals>
+    <plurals name="audio_updater_full_split_imperial">
+        <item quantity="other">Distance, %1$d miles. Time, %2$s.</item>
+        <item quantity="one">Distance, %1$d mile. Time, %2$s.</item>
+    </plurals>
+    <plurals name="audio_updater_full_split_metric">
+        <item quantity="other">Distance, %1$d kilometers. Time, %2$s.</item>
+        <item quantity="one">Distance, %1$d kilometer. Time, %2$s.</item>
+    </plurals>
+    <plurals name="beacon_on_message_multiple_contacts">
+        <item quantity="other">Beacon is on! Your location will be sent to %1$s, %2$s, %3$s and %4$s others.</item>
+        <item quantity="one">Beacon is on! Your location will be sent to %1$s, %2$s, %3$s and %4$s other.</item>
+    </plurals>
+    <plurals name="beacon_walkthrough_multiple_contacts">
+        <item quantity="other">"Next time you start an activity, tap the Beacon button and we'll send your real-time location to %1$s, %2$s, %3$s and %4$s until your workout is over."</item>
+        <item quantity="one">"Next time you start an activity, tap the Beacon button and we'll send your real-time location to %1$s, %2$s, %3$s and %4$s until your workout is over."</item>
+    </plurals>
+    <plurals name="challenge_date_format_active_current">
+        <item quantity="other">%s Days Left</item>
+        <item quantity="one">%s Day Left</item>
+    </plurals>
+    <plurals name="challenge_date_format_current">
+        <item quantity="other">%s days left</item>
+        <item quantity="one">%s day left</item>
+    </plurals>
+    <plurals name="challenge_date_format_future">
+        <item quantity="other">in %s days</item>
+        <item quantity="one">in %s day</item>
+    </plurals>
+    <plurals name="challenge_date_format_past">
+        <item quantity="other">Ended %d days ago</item>
+        <item quantity="one">Ended %d day ago</item>
+    </plurals>
+    <plurals name="challenge_individual_days_from_start_value">
+        <item quantity="other">%s Days</item>
+        <item quantity="one">%s Day</item>
+    </plurals>
+    <plurals name="challenge_individual_participant_count">
+        <item quantity="other">%s Participants</item>
+        <item quantity="one">%s Participant</item>
+    </plurals>
+    <plurals name="challenge_joined_feed_more_friends">
+        <item quantity="other">%1$s %2$s and %3$d others joined a challenge</item>
+        <item quantity="one">%1$s %2$s and %3$d other joined a challenge</item>
+    </plurals>
+    <plurals name="challenge_joined_title_more">
+        <item quantity="other">You joined %s others on this Challenge</item>
+        <item quantity="one">You joined %s other on this Challenge</item>
+    </plurals>
+    <plurals name="club_activities_label">
+        <item quantity="other">ACTIVITIES</item>
+        <item quantity="one">ACTIVITY</item>
+    </plurals>
+    <plurals name="club_discussions_label">
+        <item quantity="other">DISCUSSIONS</item>
+        <item quantity="one">DISCUSSION</item>
+    </plurals>
+    <plurals name="club_members_athletes_label">
+        <item quantity="other">ATHLETES</item>
+        <item quantity="one">ATHLETE</item>
+    </plurals>
+    <plurals name="club_members_cyclists_label">
+        <item quantity="other">CYCLISTS</item>
+        <item quantity="one">CYCLIST</item>
+    </plurals>
+    <plurals name="club_members_other_athletes">
+        <item quantity="other">%s athletes</item>
+        <item quantity="one">%s athlete</item>
+    </plurals>
+    <plurals name="club_members_other_athletes_title_case">
+        <item quantity="other">%s Athletes</item>
+        <item quantity="one">%s Athlete</item>
+    </plurals>
+    <plurals name="club_members_other_cyclists">
+        <item quantity="other">%s cyclists</item>
+        <item quantity="one">%s cyclist</item>
+    </plurals>
+    <plurals name="club_members_other_cyclists_title_case">
+        <item quantity="other">%s Cyclists</item>
+        <item quantity="one">%s Cyclist</item>
+    </plurals>
+    <plurals name="club_members_other_runners">
+        <item quantity="other">%s runners</item>
+        <item quantity="one">%s runner</item>
+    </plurals>
+    <plurals name="club_members_other_runners_title_case">
+        <item quantity="other">%s Runners</item>
+        <item quantity="one">%s Runner</item>
+    </plurals>
+    <plurals name="club_members_other_triathletes">
+        <item quantity="other">%s triathletes</item>
+        <item quantity="one">%s triathlete</item>
+    </plurals>
+    <plurals name="club_members_other_triathletes_title_case">
+        <item quantity="other">%s Triathletes</item>
+        <item quantity="one">%s Triathlete</item>
+    </plurals>
+    <plurals name="club_members_runners_label">
+        <item quantity="other">RUNNERS</item>
+        <item quantity="one">RUNNER</item>
+    </plurals>
+    <plurals name="club_members_triathletes_label">
+        <item quantity="other">TRIATHLETES</item>
+        <item quantity="one">TRIATHLETE</item>
+    </plurals>
+    <plurals name="club_num_activities">
+        <item quantity="other">%s activities</item>
+        <item quantity="one">%s activity</item>
+    </plurals>
+    <plurals name="club_posts_label">
+        <item quantity="other">POSTS</item>
+        <item quantity="one">POST</item>
+    </plurals>
+    <plurals name="feed_empty_logged_out_title_unsynced">
+        <item quantity="other">%d New Activities</item>
+        <item quantity="one">%d New Activity</item>
+    </plurals>
+    <plurals name="feed_item_athlete_name">
+        <item quantity="other">%1$s %2$s &amp;amp; %3$d others</item>
+        <item quantity="one">%1$s %2$s &amp;amp; %3$d other</item>
+    </plurals>
+    <plurals name="feed_list_days_ago">
+        <item quantity="other">%s days ago</item>
+        <item quantity="one">%s day ago</item>
+    </plurals>
+    <plurals name="feed_list_hours_ago">
+        <item quantity="other">%s hours ago</item>
+        <item quantity="one">%s hour ago</item>
+    </plurals>
+    <plurals name="feed_list_minutes_ago">
+        <item quantity="other">%s minutes ago</item>
+        <item quantity="one">%s minute ago</item>
+    </plurals>
+    <plurals name="feed_list_months_ago">
+        <item quantity="other">%s months ago</item>
+        <item quantity="one">%s month ago</item>
+    </plurals>
+    <plurals name="feed_list_seconds_ago">
+        <item quantity="other">%s seconds ago</item>
+        <item quantity="one">%s second ago</item>
+    </plurals>
+    <plurals name="feed_list_weeks_ago">
+        <item quantity="other">%s weeks ago</item>
+        <item quantity="one">%s week ago</item>
+    </plurals>
+    <plurals name="feed_list_with_others">
+        <item quantity="other">with %s others</item>
+        <item quantity="one">with %s other</item>
+    </plurals>
+    <plurals name="feed_unsynced_cta">
+        <item quantity="other">Sync All</item>
+        <item quantity="one">Sync</item>
+    </plurals>
+    <plurals name="feed_unsynced_header">
+        <item quantity="other">"%d UNSYNC'D ACTIVITIES"</item>
+        <item quantity="one">"%d UNSYNC'D ACTIVITY"</item>
+    </plurals>
+    <plurals name="feed_unsynced_header_syncing">
+        <item quantity="other">SYNCING %d ACTIVITIES</item>
+        <item quantity="one">SYNCING %d ACTIVITY</item>
+    </plurals>
+    <plurals name="group_event_facepile_others_joined">
+        <item quantity="other">%s athletes are going</item>
+        <item quantity="one">One athlete is going</item>
+    </plurals>
+    <plurals name="group_event_facepile_user_and_others_joined">
+        <item quantity="other">You and %s other athletes are going</item>
+        <item quantity="one">You and one other athlete are going</item>
+    </plurals>
+    <plurals name="leaderboard_footer_total">
+        <item quantity="other">%s Total</item>
+        <item quantity="one">%s Total</item>
+    </plurals>
+    <plurals name="live_friends_count">
+        <item quantity="other">%s Active Friends</item>
+        <item quantity="one">%s Active Friend</item>
+    </plurals>
+    <plurals name="live_tracking_send_text_contacts_message_multiple_contacts">
+        <item quantity="other">Beacon will share your location via text message with %1$s and %2$s others.</item>
+        <item quantity="one">Beacon will share your location via text message with %1$s and %2$s other.</item>
+    </plurals>
+    <plurals name="preferences_external_devices_paired">
+        <item quantity="other">%s paired</item>
+        <item quantity="one">%s paired</item>
+    </plurals>
+    <plurals name="segment_summary_recent_results_count">
+        <item quantity="other">%s Efforts</item>
+        <item quantity="one">%s Effort</item>
+    </plurals>
+    <plurals name="sensor_settings_discovery_cta">
+        <item quantity="other">%d Sensors Nearby</item>
+        <item quantity="one">%d Sensor Nearby</item>
+    </plurals>
+    <plurals name="stat_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="suggested_follows_four_names_and_others">
+        <item quantity="other">Follow %1$s, %2$s, %3$s, %4$s &amp;amp; %5$s others</item>
+        <item quantity="one">Follow %1$s, %2$s, %3$s, %4$s &amp;amp; %5$s other</item>
+    </plurals>
+    <plurals name="suggested_follows_three_names_and_others">
+        <item quantity="other">Follow %1$s, %2$s, %3$s &amp;amp; %4$s others</item>
+        <item quantity="one">Follow %1$s, %2$s, %3$s &amp;amp; %4$s other</item>
+    </plurals>
+    <plurals name="unit_type_formatter_time_just_hours_progress">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+    </plurals>
+</resources>

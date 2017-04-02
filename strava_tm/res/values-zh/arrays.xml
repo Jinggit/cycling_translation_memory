@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_charts_tabs">
+        <item>海拔</item>
+        <item>速度</item>
+        <item>心率</item>
+    </string-array>
+    <string-array name="activity_type_default_name_afternoon">
+        <item>午后骑行</item>
+        <item>午后跑步</item>
+        <item>午后游泳</item>
+        <item>午后远足</item>
+        <item>午后健走</item>
+        <item>午后骑行</item>
+        <item>午后推行</item>
+        <item>午后活动</item>
+    </string-array>
+    <string-array name="activity_type_default_name_evening">
+        <item>傍晚骑行</item>
+        <item>傍晚跑步</item>
+        <item>傍晚游泳</item>
+        <item>傍晚远足</item>
+        <item>傍晚健走</item>
+        <item>傍晚骑行</item>
+        <item>傍晚推行</item>
+        <item>傍晚活动</item>
+    </string-array>
+    <string-array name="activity_type_default_name_lunch">
+        <item>午间骑行</item>
+        <item>午间跑步</item>
+        <item>午间游泳</item>
+        <item>午间远足</item>
+        <item>午间健走</item>
+        <item>午间骑行</item>
+        <item>午间推行</item>
+        <item>午间活动</item>
+    </string-array>
+    <string-array name="activity_type_default_name_morning">
+        <item>晨间骑行</item>
+        <item>晨间跑步</item>
+        <item>晨间游泳</item>
+        <item>晨间远足</item>
+        <item>晨间健走</item>
+        <item>晨间骑行</item>
+        <item>晨间推行</item>
+        <item>晨间活动</item>
+    </string-array>
+    <string-array name="activity_type_default_name_night">
+        <item>晚间骑行</item>
+        <item>晚间跑步</item>
+        <item>晚间游泳</item>
+        <item>晚间远足</item>
+        <item>晚间健走</item>
+        <item>晚间骑行</item>
+        <item>晚间推行</item>
+        <item>晚间活动</item>
+    </string-array>
+    <string-array name="activity_type_proper_noun">
+        <item>骑行</item>
+        <item>跑步</item>
+        <item>游泳</item>
+        <item>远足</item>
+        <item>健走</item>
+        <item>骑行</item>
+        <item>推行</item>
+        <item>高山滑雪</item>
+        <item>野外滑雪</item>
+        <item>独木舟</item>
+        <item>越野滑雪</item>
+        <item>全面健身</item>
+        <item>椭圆机</item>
+        <item>滑冰</item>
+        <item>直排轮滑</item>
+        <item>皮划艇</item>
+        <item>风筝冲浪项目</item>
+        <item>攀岩</item>
+        <item>滚轮滑雪</item>
+        <item>赛艇</item>
+        <item>单板滑雪</item>
+        <item>雪鞋</item>
+        <item>楼梯踏步机</item>
+        <item>立式划桨</item>
+        <item>冲浪</item>
+        <item>重量训练</item>
+        <item>风帆冲浪项目</item>
+        <item>锻炼</item>
+        <item>瑜伽</item>
+        <item>北欧滑雪</item>
+        <item>活动</item>
+        <item>活动</item>
+    </string-array>
+    <string-array name="activity_type_share_body">
+        <item>在 Strava 查看我的 %1$s 骑行：%2$s</item>
+        <item>在 Strava 查看我的 %1$s 跑步：%2$s</item>
+        <item>在 Strava 查看我的 %1$s 游泳：%2$s</item>
+        <item>在 Strava 查看我的 %1$s 远足：%2$s</item>
+        <item>在 Strava 查看我的 %1$s 健走：%2$s</item>
+        <item>在 Strava 查看我的 %1$s 骑行：%2$s</item>
+        <item>在 Strava 查看我的 %1$s 推行：%2$s</item>
+        <item>在 Strava 查看我的 %1$s 活动：%2$s</item>
+    </string-array>
+    <string-array name="activity_type_share_body_with_photo">
+        <item>在 Strava 查看我的骑行：%1$s</item>
+        <item>在 Strava 查看我的跑步：%1$s</item>
+        <item>在 Strava 查看我的游泳：%1$s</item>
+        <item>在 Strava 查看我的远足：%1$s</item>
+        <item>在 Strava 查看我的健走：%1$s</item>
+        <item>在 Strava 查看我的骑行：%1$s</item>
+        <item>在 Strava 查看我的推行：%1$s</item>
+        <item>在 Strava 查看我的活动：%1$s</item>
+    </string-array>
+    <string-array name="activity_type_share_subject">
+        <item>查看我的 %s 骑行</item>
+        <item>查看我的 %s 跑步</item>
+        <item>查看我的 %s 游泳</item>
+        <item>查看我的 %s 远足</item>
+        <item>查看我的 %s 健走</item>
+        <item>查看我的 %s 骑行</item>
+        <item>查看我的 %s 推行</item>
+        <item>查看我的 %s 活动</item>
+    </string-array>
+    <string-array name="activity_type_upper_case">
+        <item>骑行</item>
+        <item>跑步</item>
+        <item>游泳</item>
+        <item>远足</item>
+        <item>健走</item>
+        <item>骑行</item>
+        <item>推行</item>
+        <item>活动</item>
+    </string-array>
+    <string-array name="athlete_list_activity_related_activities_title">
+        <item>团体骑行</item>
+        <item>团体跑步</item>
+        <item>团体活动</item>
+    </string-array>
+    <string-array name="audio_updater_format_hours">
+        <item>零小时</item>
+        <item>一小时</item>
+        <item>两小时</item>
+        <item>三小时</item>
+        <item>四小时</item>
+        <item>五小时</item>
+        <item>六小时</item>
+        <item>七小时</item>
+        <item>八小时</item>
+        <item>九小时</item>
+        <item>十小时</item>
+        <item>十一小时</item>
+        <item>十二小时</item>
+        <item>十三小时</item>
+        <item>十四小时</item>
+        <item>十五小时</item>
+        <item>十六小时</item>
+        <item>十七小时</item>
+        <item>十八小时</item>
+        <item>十九小时</item>
+        <item>二十小时</item>
+        <item>二十一小时</item>
+        <item>二十二小时</item>
+        <item>二十三小时</item>
+        <item>二十四小时</item>
+    </string-array>
+    <string-array name="audio_updater_format_minutes">
+        <item>零分钟</item>
+        <item>一分钟</item>
+        <item>两分钟</item>
+        <item>三分钟</item>
+        <item>四分钟</item>
+        <item>五分钟</item>
+        <item>六分钟</item>
+        <item>七分钟</item>
+        <item>八分钟</item>
+        <item>九分钟</item>
+        <item>十分钟</item>
+        <item>十一分钟</item>
+        <item>十二分钟</item>
+        <item>十三分钟</item>
+        <item>十四分钟</item>
+        <item>十五分钟</item>
+        <item>十六分钟</item>
+        <item>十七分钟</item>
+        <item>十八分钟</item>
+        <item>十九分钟</item>
+        <item>二十分钟</item>
+        <item>二十一分钟</item>
+        <item>二十二分钟</item>
+        <item>二十三分钟</item>
+        <item>二十四分钟</item>
+        <item>二十五分钟</item>
+        <item>二十六分钟</item>
+        <item>二十七分钟</item>
+        <item>二十八分钟</item>
+        <item>二十九分钟</item>
+        <item>三十分钟</item>
+        <item>三十一分钟</item>
+        <item>三十二分钟</item>
+        <item>三十三分钟</item>
+        <item>三十四分钟</item>
+        <item>三十五分钟</item>
+        <item>三十六分钟</item>
+        <item>三十七分钟</item>
+        <item>三十八分钟</item>
+        <item>三十九分钟</item>
+        <item>四十分钟</item>
+        <item>四十一分钟</item>
+        <item>四十二分钟</item>
+        <item>四十三分钟</item>
+        <item>四十四分钟</item>
+        <item>四十五分钟</item>
+        <item>四十六分钟</item>
+        <item>四十七分钟</item>
+        <item>四十八分钟</item>
+        <item>四十九分钟</item>
+        <item>五十分钟</item>
+        <item>五十一分钟</item>
+        <item>五十二分钟</item>
+        <item>五十三分钟</item>
+        <item>五十四分钟</item>
+        <item>五十五分钟</item>
+        <item>五十六分钟</item>
+        <item>五十七分钟</item>
+        <item>五十八分钟</item>
+        <item>五十九分钟</item>
+    </string-array>
+    <string-array name="audio_updater_format_seconds">
+        <item>零秒</item>
+        <item>一秒</item>
+        <item>两秒</item>
+        <item>三秒</item>
+        <item>四秒</item>
+        <item>五秒</item>
+        <item>六秒</item>
+        <item>七秒</item>
+        <item>八秒</item>
+        <item>九秒</item>
+        <item>十秒</item>
+        <item>十一秒</item>
+        <item>十二秒</item>
+        <item>十三秒</item>
+        <item>十四秒</item>
+        <item>十五秒</item>
+        <item>十六秒</item>
+        <item>十七秒</item>
+        <item>十八秒</item>
+        <item>十九秒</item>
+        <item>二十秒</item>
+        <item>二十一秒</item>
+        <item>二十二秒</item>
+        <item>二十三秒</item>
+        <item>二十四秒</item>
+        <item>二十五秒</item>
+        <item>二十六秒</item>
+        <item>二十七秒</item>
+        <item>二十八秒</item>
+        <item>二十九秒</item>
+        <item>三十秒</item>
+        <item>三十一秒</item>
+        <item>三十二秒</item>
+        <item>三十三秒</item>
+        <item>三十四秒</item>
+        <item>三十五秒</item>
+        <item>三十六秒</item>
+        <item>三十七秒</item>
+        <item>三十八秒</item>
+        <item>三十九秒</item>
+        <item>四十秒</item>
+        <item>四十一秒</item>
+        <item>四十二秒</item>
+        <item>四十三秒</item>
+        <item>四十四秒</item>
+        <item>四十五秒</item>
+        <item>四十六秒</item>
+        <item>四十七秒</item>
+        <item>四十八秒</item>
+        <item>四十九秒</item>
+        <item>五十秒</item>
+        <item>五十一秒</item>
+        <item>五十二秒</item>
+        <item>五十三秒</item>
+        <item>五十四秒</item>
+        <item>五十五秒</item>
+        <item>五十六秒</item>
+        <item>五十七秒</item>
+        <item>五十八秒</item>
+        <item>五十九秒</item>
+    </string-array>
+    <string-array name="challenge_individual_leaderboard_tabs">
+        <item>整体</item>
+        <item>正在关注</item>
+    </string-array>
+    <string-array name="comments_list_empty_message">
+        <item>此骑行目前并无任何评论</item>
+        <item>此跑步目前并无任何评论</item>
+        <item>此游泳目前并无任何评论</item>
+        <item>此远足目前并无任何评论</item>
+        <item>此健走目前并无任何评论</item>
+        <item>此骑行目前并无任何评论</item>
+        <item>此推行目前并无任何评论</item>
+        <item>此活动目前并无任何评论</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+    <string-array name="feed_tabs">
+        <item>正在关注</item>
+        <item>你</item>
+        <item>俱乐部</item>
+    </string-array>
+    <string-array name="keep_screen_on_duration">
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分钟</item>
+        <item>3 分钟</item>
+        <item>5 分钟</item>
+        <item>不变暗</item>
+    </string-array>
+    <string-array name="monthly_interval_options">
+        <item>第 1 个</item>
+        <item>第 2 个</item>
+        <item>第 3 个</item>
+        <item>第 4 个</item>
+        <item>最后一个</item>
+    </string-array>
+    <string-array name="months_full_header_capitalized">
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+    <string-array name="months_full_header_title_case">
+        <item>一月份</item>
+        <item>二月份</item>
+        <item>三月份</item>
+        <item>四月份</item>
+        <item>五月份</item>
+        <item>六月份</item>
+        <item>七月份</item>
+        <item>八月份</item>
+        <item>九月份</item>
+        <item>十月份</item>
+        <item>十一月份</item>
+        <item>十二月份</item>
+    </string-array>
+    <string-array name="months_short_header">
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+    <string-array name="new_ride_change_route_options">
+        <item>切换路线</item>
+        <item>清除路线</item>
+        <item>返回路线起点</item>
+    </string-array>
+    <string-array name="nth_place_numeric">
+        <item>第一</item>
+        <item>第二</item>
+        <item>第三</item>
+        <item>第四</item>
+        <item>第五</item>
+        <item>第六</item>
+        <item>第七</item>
+        <item>第八</item>
+        <item>第九</item>
+        <item>第十</item>
+    </string-array>
+    <string-array name="pace_zones">
+        <item>动态恢复</item>
+        <item>耐力</item>
+        <item>节奏</item>
+        <item>临界值</item>
+        <item>最大摄氧量</item>
+        <item>厌氧</item>
+    </string-array>
+    <string-array name="primary_sports">
+        <item>跑步</item>
+        <item>骑车</item>
+    </string-array>
+    <string-array name="profile_edit_picture">
+        <item>拍照</item>
+        <item>从图库中选择</item>
+    </string-array>
+    <string-array name="record_route_options">
+        <item>返回路线起点</item>
+        <item>加载路线</item>
+    </string-array>
+    <string-array name="save_activity_ride_tags">
+        <item>选择类型</item>
+        <item>无</item>
+        <item>锻炼</item>
+        <item>比赛</item>
+    </string-array>
+    <string-array name="save_activity_run_tags">
+        <item>选择类型</item>
+        <item>无</item>
+        <item>长跑</item>
+        <item>锻炼</item>
+        <item>比赛</item>
+    </string-array>
+    <string-array name="save_activity_type_entries">
+        <item>骑行</item>
+        <item>跑步</item>
+        <item>游泳</item>
+        <item>远足</item>
+        <item>步行</item>
+        <item>手动自行车运动</item>
+        <item>轮椅运动</item>
+        <item>高山滑雪</item>
+        <item>野外滑雪</item>
+        <item>独木舟</item>
+        <item>越野滑雪</item>
+        <item>全面健身</item>
+        <item>椭圆机</item>
+        <item>滑冰</item>
+        <item>直排轮滑</item>
+        <item>皮划艇</item>
+        <item>风筝冲浪项目</item>
+        <item>攀岩</item>
+        <item>滚轮滑雪</item>
+        <item>赛艇</item>
+        <item>单板滑雪</item>
+        <item>雪鞋</item>
+        <item>楼梯踏步机</item>
+        <item>立式划桨</item>
+        <item>冲浪</item>
+        <item>重量训练</item>
+        <item>风帆冲浪项目</item>
+        <item>锻炼</item>
+        <item>瑜伽</item>
+        <item>北欧滑雪</item>
+        <item>模拟骑行</item>
+        <item>E-Bike 骑行</item>
+    </string-array>
+    <string-array name="training_log_data_types">
+        <item>距离</item>
+        <item>时间</item>
+        <item>海拔</item>
+    </string-array>
+    <string-array name="weekly_interval_options">
+        <item>每周</item>
+        <item>每 2 周</item>
+        <item>每 3 周</item>
+        <item>每 4 周</item>
+    </string-array>
+</resources>

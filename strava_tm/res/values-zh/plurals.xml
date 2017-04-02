@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_segments_achievements_header">
+        <item quantity="other">%d 成就</item>
+    </plurals>
+    <plurals name="activity_segments_best_efforts_header">
+        <item quantity="other">%d 最佳成绩</item>
+    </plurals>
+    <plurals name="activity_segments_segments_header">
+        <item quantity="other">%d 路段</item>
+    </plurals>
+    <plurals name="activity_summary_fragment_and_n_more_achievements">
+        <item quantity="other">还有 +%d 个成就</item>
+    </plurals>
+    <plurals name="athlete_list_activity_kudos_given">
+        <item quantity="other">给出 %d 个赞</item>
+    </plurals>
+    <plurals name="athlete_list_athletes_other_athlete_follows_plurals">
+        <item quantity="other">运动达人%s正在关注</item>
+    </plurals>
+    <plurals name="athlete_list_athletes_you_follow_plural">
+        <item quantity="other">你关注的运动达人</item>
+    </plurals>
+    <plurals name="athlete_list_contacts_header_text">
+        <item quantity="other">Strava 上的 %d 位联系人</item>
+    </plurals>
+    <plurals name="athlete_list_facebook_header_text">
+        <item quantity="other">%d 位好友在 Strava 上</item>
+    </plurals>
+    <plurals name="athlete_list_follower_header_logged_in_user_plurals">
+        <item quantity="other">关注你的运动达人</item>
+    </plurals>
+    <plurals name="athlete_list_follower_header_other_athlete_plurals">
+        <item quantity="other">运动达人正在关注%s</item>
+    </plurals>
+    <plurals name="athlete_list_follower_pending_header_plurals">
+        <item quantity="other">关注者请求</item>
+    </plurals>
+    <plurals name="athlete_list_following_pending_header_plural">
+        <item quantity="other">待定请求</item>
+    </plurals>
+    <plurals name="audio_updater_full_split_imperial">
+        <item quantity="other">距离，%1$d 英里。时间，%2$s。</item>
+    </plurals>
+    <plurals name="audio_updater_full_split_metric">
+        <item quantity="other">距离，%1$d 公里。时间，%2$s。</item>
+    </plurals>
+    <plurals name="beacon_on_message_multiple_contacts">
+        <item quantity="other">Beacon 已打开！你的位置将发送给 %1$s、%2$s、%3$s 和 %4$s。</item>
+    </plurals>
+    <plurals name="beacon_walkthrough_multiple_contacts">
+        <item quantity="other">下次开始活动时，轻按 Beacon 按钮，我们会将你的实时位置发送给 %1$s、%2$s、%3$s 和 %4$s，直至你完成锻炼。</item>
+    </plurals>
+    <plurals name="challenge_date_format_active_current">
+        <item quantity="other">剩余 %s 天</item>
+    </plurals>
+    <plurals name="challenge_date_format_current">
+        <item quantity="other">剩余 %s 天</item>
+    </plurals>
+    <plurals name="challenge_date_format_future">
+        <item quantity="other">%s 天内</item>
+    </plurals>
+    <plurals name="challenge_date_format_past">
+        <item quantity="other">%d 天前已结束</item>
+    </plurals>
+    <plurals name="challenge_individual_days_from_start_value">
+        <item quantity="other">%s 天</item>
+    </plurals>
+    <plurals name="challenge_individual_participant_count">
+        <item quantity="other">%s 位参与者</item>
+    </plurals>
+    <plurals name="challenge_joined_feed_more_friends">
+        <item quantity="other">%1$s %2$s 和另外 %3$d 人加入了挑战</item>
+    </plurals>
+    <plurals name="challenge_joined_title_more">
+        <item quantity="other">你在此挑战中加入了其他 %s 人</item>
+    </plurals>
+    <plurals name="club_activities_label">
+        <item quantity="other">活动</item>
+    </plurals>
+    <plurals name="club_discussions_label">
+        <item quantity="other">讨论</item>
+    </plurals>
+    <plurals name="club_members_athletes_label">
+        <item quantity="other">运动达人</item>
+    </plurals>
+    <plurals name="club_members_cyclists_label">
+        <item quantity="other">自行车手</item>
+    </plurals>
+    <plurals name="club_members_other_athletes">
+        <item quantity="other">%s 位运动达人</item>
+    </plurals>
+    <plurals name="club_members_other_athletes_title_case">
+        <item quantity="other">%s 位运动达人</item>
+    </plurals>
+    <plurals name="club_members_other_cyclists">
+        <item quantity="other">%s 位自行车手</item>
+    </plurals>
+    <plurals name="club_members_other_cyclists_title_case">
+        <item quantity="other">%s 位自行车手</item>
+    </plurals>
+    <plurals name="club_members_other_runners">
+        <item quantity="other">%s 位跑步者</item>
+    </plurals>
+    <plurals name="club_members_other_runners_title_case">
+        <item quantity="other">%s 位跑步者</item>
+    </plurals>
+    <plurals name="club_members_other_triathletes">
+        <item quantity="other">%s 位铁人三项运动达人</item>
+    </plurals>
+    <plurals name="club_members_other_triathletes_title_case">
+        <item quantity="other">%s 位铁人三项运动达人</item>
+    </plurals>
+    <plurals name="club_members_runners_label">
+        <item quantity="other">跑步者</item>
+    </plurals>
+    <plurals name="club_members_triathletes_label">
+        <item quantity="other">铁人三项运动达人</item>
+    </plurals>
+    <plurals name="club_num_activities">
+        <item quantity="other">%s 活动</item>
+    </plurals>
+    <plurals name="club_posts_label">
+        <item quantity="other">帖子</item>
+    </plurals>
+    <plurals name="feed_empty_logged_out_title_unsynced">
+        <item quantity="other">%d 个新活动</item>
+    </plurals>
+    <plurals name="feed_item_athlete_name">
+        <item quantity="other">%2$s%1$s 和另外 %3$d 人</item>
+    </plurals>
+    <plurals name="feed_list_days_ago">
+        <item quantity="other">%s 天前</item>
+    </plurals>
+    <plurals name="feed_list_hours_ago">
+        <item quantity="other">%s 小时前</item>
+    </plurals>
+    <plurals name="feed_list_minutes_ago">
+        <item quantity="other">%s 分钟前</item>
+    </plurals>
+    <plurals name="feed_list_months_ago">
+        <item quantity="other">%s 个月前</item>
+    </plurals>
+    <plurals name="feed_list_seconds_ago">
+        <item quantity="other">%s 秒前</item>
+    </plurals>
+    <plurals name="feed_list_weeks_ago">
+        <item quantity="other">%s 周前</item>
+    </plurals>
+    <plurals name="feed_list_with_others">
+        <item quantity="other">及另外 %s 人</item>
+    </plurals>
+    <plurals name="feed_unsynced_cta">
+        <item quantity="other">全部同步</item>
+    </plurals>
+    <plurals name="feed_unsynced_header">
+        <item quantity="other">%d 个未同步的活动</item>
+    </plurals>
+    <plurals name="feed_unsynced_header_syncing">
+        <item quantity="other">正在同步 %d 个活动</item>
+    </plurals>
+    <plurals name="group_event_facepile_others_joined">
+        <item quantity="other">%s 位运动达人正要前往</item>
+    </plurals>
+    <plurals name="group_event_facepile_user_and_others_joined">
+        <item quantity="other">你和另外 %s 位运动达人正要前往</item>
+    </plurals>
+    <plurals name="leaderboard_footer_total">
+        <item quantity="other">总计 %s</item>
+    </plurals>
+    <plurals name="live_friends_count">
+        <item quantity="other">%s 位活跃好友</item>
+    </plurals>
+    <plurals name="live_tracking_send_text_contacts_message_multiple_contacts">
+        <item quantity="other">Beacon 会通过短信与 %1$s 和其他 %2$s 人分享你的位置。</item>
+    </plurals>
+    <plurals name="preferences_external_devices_paired">
+        <item quantity="other">%s 已配对</item>
+    </plurals>
+    <plurals name="segment_summary_recent_results_count">
+        <item quantity="other">%s 项成绩</item>
+    </plurals>
+    <plurals name="sensor_settings_discovery_cta">
+        <item quantity="other">附近有 %d 个传感器</item>
+    </plurals>
+    <plurals name="stat_minutes">
+        <item quantity="other">%d 分钟</item>
+    </plurals>
+    <plurals name="suggested_follows_four_names_and_others">
+        <item quantity="other">关注 %1$s、%2$s、%3$s、%4$s 和其他 %5$s 人</item>
+    </plurals>
+    <plurals name="suggested_follows_three_names_and_others">
+        <item quantity="other">关注 %1$s、%2$s、%3$s 和其他 %4$s 人</item>
+    </plurals>
+    <plurals name="unit_type_formatter_time_just_hours_progress">
+        <item quantity="other">%d 小时</item>
+    </plurals>
+</resources>

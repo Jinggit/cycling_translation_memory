@@ -1,0 +1,2643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about">About</string>
+    <string name="about_message">This software uses map data provided by OpenStreetMap.org</string>
+    <string name="base">OSM base layer</string>
+    <string name="cyclemap">Cycle Map</string>
+    <string name="hills">Hills</string>
+    <string name="map_mode">Map Source</string>
+    <string name="my_location">My location</string>
+    <string name="topo">Topographic</string>
+    <string name="unknown">Unknown</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_path_point">添加途经点</string>
+    <string name="app_name">行者</string>
+    <string name="bike_shop_btn_create">添加</string>
+    <string name="bike_shop_create_btn_submit">提交</string>
+    <string name="bike_shop_create_hint_detail">地址，电话或者其他任何有帮助的信息(选填)</string>
+    <string name="bike_shop_create_hint_location">请在地图上选取位置</string>
+    <string name="bike_shop_create_hint_name">请填写名称</string>
+    <string name="bike_shop_create_label_detail">车店详情：</string>
+    <string name="bike_shop_create_label_location">车店位置：</string>
+    <string name="bike_shop_create_label_name">车店名称：</string>
+    <string name="bike_shop_create_tips_1">可以添加车店、修车补胎打气点</string>
+    <string name="bike_shop_create_tips_2">为方便骑友，请确保信息真实准确</string>
+    <string name="bike_shop_create_tips_3">添加不实信息，会被永久禁止添加</string>
+    <string name="bike_shop_create_title">添加车店</string>
+    <string name="bike_shop_create_verify_name_limit_3">车店名称字数不能少于3</string>
+    <string name="bike_shop_create_verify_name_null">车店名称不能为空</string>
+    <string name="bike_shop_create_verify_no_location">车店位置未设置</string>
+    <string name="bike_shop_label_show_shop">显示50公里内的车店</string>
+    <string name="bike_shop_toast_no_location">获取不到位置信息</string>
+    <string name="brackets_container_comment">( %1$s )</string>
+    <string name="brackets_container_like">( %1$s )</string>
+    <string name="cancel">取消</string>
+    <string name="choose">选择</string>
+    <string name="club">俱乐部</string>
+    <string name="club_announcement_btn_publish">发布</string>
+    <string name="club_announcement_content_hint">请输入公告内容(3–500)字</string>
+    <string name="club_announcement_limit_progressive_text">%1$d/%2$d</string>
+    <string name="club_announcement_text_limit">内容(15–500)字</string>
+    <string name="club_announcement_toast_input">请输入公告内容</string>
+    <string name="club_announcement_toast_too_short">公告内容太短</string>
+    <string name="club_click_to_setup_main_club">点击设置主俱乐部</string>
+    <string name="club_content_no_club">还没有创建和加入俱乐部</string>
+    <string name="club_create_btn_create">创建</string>
+    <string name="club_create_btn_delete">删除</string>
+    <string name="club_create_btn_save">保存</string>
+    <string name="club_create_dialog_creating">正在创建队伍…</string>
+    <string name="club_create_hint_desc">请输入简介内容</string>
+    <string name="club_create_hint_name">请输入俱乐部名称</string>
+    <string name="club_create_input_btn_add">添加</string>
+    <string name="club_create_label_avatar">车队标志</string>
+    <string name="club_create_label_city">城市</string>
+    <string name="club_create_label_desc">简介</string>
+    <string name="club_create_label_name">俱乐部名称</string>
+    <string name="club_create_label_tag">标签</string>
+    <string name="club_create_note_city">（必填）</string>
+    <string name="club_create_note_desc">（一名话描述你的俱乐部）</string>
+    <string name="club_create_note_name">（必填）</string>
+    <string name="club_create_note_tag">（必选不超过三个）</string>
+    <string name="club_create_title_create">创建俱乐部</string>
+    <string name="club_create_title_edit">编辑</string>
+    <string name="club_create_toast_tag_name_empty">标签名不能为空</string>
+    <string name="club_create_toast_tag_num_limit">最多只能选取三个标签</string>
+    <string name="club_create_verify_name_too_long">俱乐部名称太长。</string>
+    <string name="club_create_verify_name_too_short">俱乐部名称太短。</string>
+    <string name="club_create_verify_notice_too_long">公告内容过长。</string>
+    <string name="club_create_verify_select_city">请选择城市。</string>
+    <string name="club_description">队伍公告（选填）</string>
+    <string name="club_detail_btn_join">申请加入</string>
+    <string name="club_detail_btn_joining">申请加入中…</string>
+    <string name="club_detail_label_avatar">车队标志</string>
+    <string name="club_detail_label_captain">队长</string>
+    <string name="club_detail_label_city">城市</string>
+    <string name="club_detail_label_desc">简介</string>
+    <string name="club_detail_label_id">id</string>
+    <string name="club_detail_label_member">队员</string>
+    <string name="club_detail_label_month_distance">月度里程</string>
+    <string name="club_detail_label_name">名称</string>
+    <string name="club_detail_label_no_desc">俱乐部暂无简介</string>
+    <string name="club_detail_label_tag">标签</string>
+    <string name="club_detail_label_total_distance">总里程</string>
+    <string name="club_detail_title">俱乐部详情</string>
+    <string name="club_dialog_delete_content_club">删除后队友将不会在地图显示，且删除后不可恢复！</string>
+    <string name="club_dialog_delete_content_feed">确定要删除该动态？</string>
+    <string name="club_dialog_delete_content_member">确定要删除该队员？</string>
+    <string name="club_dialog_delete_title">删除确认</string>
+    <string name="club_dialog_leave_btn">退队</string>
+    <string name="club_dialog_leave_content">退队后将无法在地图上查看队友！</string>
+    <string name="club_dialog_leave_title">退队确认</string>
+    <string name="club_dialog_transfer_content">转让俱乐部队长管理权力，请联系行者工作人员。 QQ: 2093696425</string>
+    <string name="club_dialog_transfer_title">转让申请</string>
+    <string name="club_event_publish_btn_create">创建</string>
+    <string name="club_event_publish_btn_select">选择</string>
+    <string name="club_event_publish_title">选择活动</string>
+    <string name="club_goto_setup_main_club">你还没有设置主俱乐部，请前往进行设置！</string>
+    <string name="club_hint_search">搜索编号、名称、关键字</string>
+    <string name="club_list_group_my_create">我创建的俱乐部</string>
+    <string name="club_list_group_my_join">我加入的俱乐部</string>
+    <string name="club_list_item_member_num">%1$d人</string>
+    <string name="club_main_club">主俱乐部</string>
+    <string name="club_main_club_config">确认</string>
+    <string name="club_main_club_desc">设置主俱乐部后，您上传轨迹所产生的热度值将导入 主俱乐部中。</string>
+    <string name="club_main_club_dialog_desc">设置完成后个人轨迹产生的热度值会导入改俱乐部，3日后才能再次更改。</string>
+    <string name="club_main_club_dialog_title">确定设置“%1$s”为您的主俱乐部吗？</string>
+    <string name="club_main_club_set_on_failure">设置失败</string>
+    <string name="club_main_club_set_on_success">设置成功</string>
+    <string name="club_main_club_wait_a_moment">再考虑一下</string>
+    <string name="club_manager_subtitle_admin_setting">管理员设置</string>
+    <string name="club_manager_subtitle_delete_member">删除成员</string>
+    <string name="club_manager_subtitle_edit_club">编辑俱乐部</string>
+    <string name="club_manager_subtitle_event">发布活动</string>
+    <string name="club_manager_subtitle_publish">发布公告</string>
+    <string name="club_manager_subtitle_transform_club">转让俱乐部</string>
+    <string name="club_member_list_btn_add">添加</string>
+    <string name="club_member_list_group_tag_admin">管理员</string>
+    <string name="club_member_list_group_tag_all">全部排名</string>
+    <string name="club_member_list_group_tag_captain">队长</string>
+    <string name="club_member_list_group_tag_member">队员</string>
+    <string name="club_member_list_group_tag_month_hots">月贡献热度</string>
+    <string name="club_member_list_group_tag_month_miles">月度里程</string>
+    <string name="club_member_list_group_tag_ranking">排名</string>
+    <string name="club_member_list_group_tag_total_hots">总贡献热度</string>
+    <string name="club_member_list_group_tag_year_hots">年贡献热度</string>
+    <string name="club_member_list_group_tag_year_miles">年度里程</string>
+    <string name="club_member_list_how_many_miles">%1$s</string>
+    <string name="club_member_list_operate_add">添加</string>
+    <string name="club_member_list_operate_remove">移除</string>
+    <string name="club_member_list_search_hint">搜索队员名称</string>
+    <string name="club_member_list_sort_default">成员身份排序</string>
+    <string name="club_member_list_sort_join_time_asc">按加入时间排序</string>
+    <string name="club_member_list_sort_join_time_desc">按时间降序</string>
+    <string name="club_member_list_sort_month_distance_asc">月度里程升序</string>
+    <string name="club_member_list_sort_month_distance_desc">月度里程降序</string>
+    <string name="club_member_list_sort_month_hots">月贡献热度排序</string>
+    <string name="club_member_list_sort_month_miles">月度里程排序</string>
+    <string name="club_member_list_sort_year_distance_desc">年度里程降序</string>
+    <string name="club_member_list_sort_year_hots">年贡献热度排序</string>
+    <string name="club_member_list_sort_year_miles">年度里程排序</string>
+    <string name="club_member_list_title_add_admin">添加管理员</string>
+    <string name="club_member_list_title_admin_setting">管理员设置</string>
+    <string name="club_member_list_title_delete_member">删除成员</string>
+    <string name="club_member_list_title_member">队员</string>
+    <string name="club_member_list_title_search_member">成员搜索</string>
+    <string name="club_member_list_user_ranking">%1$s 名</string>
+    <string name="club_menu_title_show_all">查看全部俱乐部</string>
+    <string name="club_name">队伍名称（必填*）</string>
+    <string name="club_ranking_group_tag_all">全部俱乐部</string>
+    <string name="club_ranking_group_tag_mine">我的俱乐部</string>
+    <string name="club_ranking_title_month">月度</string>
+    <string name="club_ranking_title_year">年度</string>
+    <string name="club_search_btn_cancel">取消</string>
+    <string name="club_search_btn_search">搜索</string>
+    <string name="club_search_toast_failed">搜索失败</string>
+    <string name="club_search_toast_no_result">没有搜索到任何匹配的俱乐部。</string>
+    <string name="club_setup_main_club">设置主俱乐部</string>
+    <string name="club_simple_btn_reply">回复</string>
+    <string name="club_simple_entry_group_chat">群聊</string>
+    <string name="club_simple_entry_manager">俱乐部管理</string>
+    <string name="club_simple_entry_member">成员</string>
+    <string name="club_simple_entry_notification">通知</string>
+    <string name="club_simple_entry_ranking">排行</string>
+    <string name="club_simple_entry_workout">轨迹</string>
+    <string name="club_simple_label_feed">俱乐部动态</string>
+    <string name="club_simple_label_reply">"回复: "</string>
+    <string name="club_simple_news_challenge_bronze_medal_fm">%1$d人获得铜牌勋章</string>
+    <string name="club_simple_news_challenge_finished_count_fm">%1$d人完成挑战</string>
+    <string name="club_simple_news_challenge_golden_medal_fm">%1$d人获得金牌勋章</string>
+    <string name="club_simple_news_challenge_monthly_fm">%1$d月行者挑战</string>
+    <string name="club_simple_news_challenge_silver_medal_fm">%1$d人获得银牌勋章</string>
+    <string name="club_simple_news_hots_ranking">热度贡献榜</string>
+    <string name="club_simple_news_join_activity_start_point_fm">比赛地点：%1$s</string>
+    <string name="club_simple_news_join_activity_start_time_fm">比赛时间：%1$s</string>
+    <string name="club_simple_news_join_activity_title_fm">我参加了活动%1$s</string>
+    <string name="club_simple_news_join_match_title_fm">我报名参加了赛事%1$s</string>
+    <string name="club_simple_news_liker_fm">%1$s 等%2$d人觉得行</string>
+    <string name="club_simple_news_madel_title_fm">我刚刚完成了挑战，获得了%1$s勋章。</string>
+    <string name="club_simple_news_reply">回复</string>
+    <string name="club_simple_news_segment_avg_speed_fm">均速：%1$s</string>
+    <string name="club_simple_news_segment_challenge_fm">%1$d人已挑战</string>
+    <string name="club_simple_news_segment_distance_fm">赛段里程：%1$skm</string>
+    <string name="club_simple_news_segment_duration_fm">用时：%1$s</string>
+    <string name="club_simple_news_segment_title_fm">我刚刚完成了%1$s赛段挑战，获得第%2$d名，超越了%3$s的对手。</string>
+    <string name="club_simple_news_sport_info">运动统计</string>
+    <string name="club_simple_news_statistic_city_ranking_fm">%1$s排名: %2$s</string>
+    <string name="club_simple_news_statistic_hots_fm">热度: %1$s</string>
+    <string name="club_simple_news_statistic_hots_with_unit">%1$d ℃</string>
+    <string name="club_simple_news_statistic_miles_fm">运动里程: %1$s</string>
+    <string name="club_simple_news_statistic_monthly">%1$d月运动月报</string>
+    <string name="club_simple_news_statistic_nationwide_ranking_fm">全国排名: %1$d</string>
+    <string name="club_simple_tag_event">活动</string>
+    <string name="club_simple_tag_match">赛事</string>
+    <string name="club_simple_tag_medal">勋章</string>
+    <string name="club_simple_tag_news_monthly">月报</string>
+    <string name="club_simple_tag_news_weekly">周报</string>
+    <string name="club_simple_tag_notice">公告</string>
+    <string name="club_simple_tag_segment">赛段</string>
+    <string name="club_simple_title">俱乐部</string>
+    <string name="club_simple_toast_empty">评论内容不能为空</string>
+    <string name="club_simple_toast_like_on_failure">点赞失败</string>
+    <string name="club_simple_toast_like_on_success">点赞成功</string>
+    <string name="club_simple_toast_reply_failed">回复失败</string>
+    <string name="club_simple_toast_request_group_chat_failed">获取群聊信息失败，请检查网络是否正常。</string>
+    <string name="club_tab_mine">我的</string>
+    <string name="club_tab_nearby">附近</string>
+    <string name="club_title_cannot_null">团队名称不可以为空。</string>
+    <string name="club_title_liker_list">%1$d人觉得行</string>
+    <string name="club_toast_not_member">您不是该俱乐部成员</string>
+    <string name="club_toast_request_club_failed">获取俱乐部失败</string>
+    <string name="club_toast_request_data_failed">获取信息失败</string>
+    <string name="collect">收藏</string>
+    <string name="collect_already">已收藏</string>
+    <string name="count">次数</string>
+    <string name="create">创建</string>
+    <string name="create_club">创建队伍</string>
+    <string name="create_success">恭喜创建成功。</string>
+    <string name="credits_btn_help">帮助</string>
+    <string name="credits_dialog_content_confirm">确认使用积分兑换吗？</string>
+    <string name="credits_dialog_content_exchange">保险优惠券兑换成功，是否前往提交保险订单？</string>
+    <string name="credits_dialog_title_exchange">兑换成功</string>
+    <string name="credits_expire_date">有效期至：</string>
+    <string name="credits_keycode_copied">兑换码已复制！</string>
+    <string name="credits_keycode_state_expired">已过期</string>
+    <string name="credits_keycode_state_used">已使用</string>
+    <string name="credits_state_purchased">已购买</string>
+    <string name="credits_state_rush_over">抢完了</string>
+    <string name="credits_tab_all">全部</string>
+    <string name="credits_tab_mine">我的</string>
+    <string name="credits_unit">积分</string>
+    <string name="credits_xingzhe_shop">行者官方网店</string>
+    <string name="cycling">骑行</string>
+    <string name="default_txt">默认</string>
+    <string name="delete">删除</string>
+    <string name="device_bici_info_btn_setting">设置</string>
+    <string name="device_bici_info_btn_sync">数据同步</string>
+    <string name="device_bici_info_label_ble_connect">蓝牙连接</string>
+    <string name="device_bici_info_switch_lock">已锁定</string>
+    <string name="device_bici_info_switch_unlock">已解锁</string>
+    <string name="device_bici_info_title">车辆信息</string>
+    <string name="device_bici_location_btn_update">更新位置</string>
+    <string name="device_bici_location_label_alarm_off">解除警报</string>
+    <string name="device_bici_location_label_alarm_on">警报</string>
+    <string name="device_bici_location_label_lock">已锁定</string>
+    <string name="device_bici_location_label_unlock">已解锁</string>
+    <string name="device_bici_location_title">位置</string>
+    <string name="device_bici_setting_btn_unbind">解除BiCi绑定</string>
+    <string name="device_bici_setting_desc_auto_connect">打开后将会自动连接BiCi自行车</string>
+    <string name="device_bici_setting_desc_auto_stop">打开后将在暂停10分钟后自动结束骑行</string>
+    <string name="device_bici_setting_dialog_ble_name_title">修改蓝牙名称</string>
+    <string name="device_bici_setting_dialog_format_btn">格式化</string>
+    <string name="device_bici_setting_dialog_format_content">格式化闪存将清空车内所有数据，确定要格式化？</string>
+    <string name="device_bici_setting_dialog_format_title">格式化闪存</string>
+    <string name="device_bici_setting_label_auto_connect">自动连接</string>
+    <string name="device_bici_setting_label_auto_stop">自动结束</string>
+    <string name="device_bici_setting_label_bike_id">车架编号</string>
+    <string name="device_bici_setting_label_color">颜色</string>
+    <string name="device_bici_setting_label_format">格式化</string>
+    <string name="device_bici_setting_label_fw_ver">固件版本</string>
+    <string name="device_bici_setting_label_model">型号</string>
+    <string name="device_bici_setting_label_name">设备名称</string>
+    <string name="device_bici_setting_label_remain_space">剩余空间</string>
+    <string name="device_bici_setting_label_total_cadence">总踏频</string>
+    <string name="device_bici_setting_label_total_distance">总里程</string>
+    <string name="device_bici_setting_label_width_light">示宽灯设置</string>
+    <string name="device_bici_setting_tag_device_info">设备信息</string>
+    <string name="device_bici_setting_tag_setting">设置</string>
+    <string name="device_bici_setting_title">信息</string>
+    <string name="device_bici_status_label_fw_upgrade">固件可更新</string>
+    <string name="device_bici_status_label_info">信息</string>
+    <string name="device_bici_status_label_location">位置</string>
+    <string name="device_bici_status_label_location_warning">异常</string>
+    <string name="device_bici_status_label_status_lock">已锁定</string>
+    <string name="device_bici_status_label_status_unlock">已解锁</string>
+    <string name="device_bici_status_title">基本概念</string>
+    <string name="device_bici_status_toast_connect_failed">连接失败</string>
+    <string name="device_bici_sync_btn_history">查看历史轨迹</string>
+    <string name="device_bici_sync_state_parse_failed">解析失败</string>
+    <string name="device_bici_sync_state_sync_failed">同步失败</string>
+    <string name="device_bici_sync_state_sync_successful">同步成功</string>
+    <string name="device_bici_sync_state_waiting">等待同步…</string>
+    <string name="device_bici_sync_title_disconnect">蓝牙连接断开</string>
+    <string name="device_bici_sync_title_history">轨迹记录</string>
+    <string name="device_bici_sync_title_sync">同步轨迹</string>
+    <string name="device_bici_sync_toast_get_file_failed">获取文件失败</string>
+    <string name="device_bici_sync_toast_syncing">正在同步中，请稍后再试。</string>
+    <string name="device_bici_sync_toast_syncing_keep_page">正在同步轨迹，请勿离开本页面!</string>
+    <string name="device_bici_unbind_btn_authcode">发送验证码</string>
+    <string name="device_bici_unbind_btn_sent">已发送(%1$d)</string>
+    <string name="device_bici_unbind_hint_authcode">验证码</string>
+    <string name="device_bici_unbind_hint_phone">手机号码</string>
+    <string name="device_bici_unbind_title">解除绑定</string>
+    <string name="device_bici_unbind_toast_get_authcode_successful">获取验证码成功。</string>
+    <string name="device_bici_unbind_toast_input_authcode">请输入正确的验证码。</string>
+    <string name="device_bici_unbind_toast_input_phone">请输入正确的手机号码。</string>
+    <string name="device_bici_unbind_toast_unbind_successful">解绑成功。</string>
+    <string name="device_bici_upgrade_btn">立即更新</string>
+    <string name="device_bici_upgrade_btn_bike_battery_low">智能车电量过低</string>
+    <string name="device_bici_upgrade_btn_phone_battery_low">手机电量过低</string>
+    <string name="device_bici_upgrade_btn_upgrading">更新中 请勿离开本页面（%1$s%%）</string>
+    <string name="device_bici_upgrade_btn_version_error">版本不符</string>
+    <string name="device_bici_upgrade_desc_prompt">固件升级时请确保手机不要远离车子，以免因信号不好导致升级失败！</string>
+    <string name="device_bici_upgrade_dialog_content_failed">升级失败，请稍后再试！</string>
+    <string name="device_bici_upgrade_dialog_content_successful">升级成功！</string>
+    <string name="device_bici_upgrade_dialog_title">固件升级</string>
+    <string name="device_bici_upgrade_label_change_log">更新日志</string>
+    <string name="device_bici_upgrade_label_cur_ver">当前版本：</string>
+    <string name="device_bici_upgrade_label_new_ver">最新版本：</string>
+    <string name="device_bici_upgrade_label_prompt">提示</string>
+    <string name="device_bici_upgrade_title">固件升级</string>
+    <string name="device_bici_upgrade_toast_battery_low">手机电量过低！</string>
+    <string name="device_bici_upgrade_toast_upgrading">更新中，请勿离开本页面!</string>
+    <string name="device_bryton_btn_bind_account">Bryton账号绑定</string>
+    <string name="device_bryton_dialog_btn_disconnect">断开</string>
+    <string name="device_bryton_dialog_content_disconnect_ble">断开蓝牙后将不会再记住此设备，确定要断开吗？</string>
+    <string name="device_bryton_dialog_title_disconnect_ble">断开蓝牙</string>
+    <string name="device_bryton_label_disconnect">断开</string>
+    <string name="device_bryton_label_history">历史记录</string>
+    <string name="device_bryton_label_name">我的码表</string>
+    <string name="device_bryton_title">百锐腾码表</string>
+    <string name="device_cadence_label_battery">电量</string>
+    <string name="device_cadence_label_name">名称</string>
+    <string name="device_cadence_label_wheel">轮径</string>
+    <string name="device_cadence_title">踏频器</string>
+    <string name="device_cadence_value_name">踏频器</string>
+    <string name="device_detail_btn_unbind">解除绑定</string>
+    <string name="device_detail_label_wheel_setting">设置轮径</string>
+    <string name="device_detail_state_connected">已连接</string>
+    <string name="device_detail_state_disconnect">未连接</string>
+    <string name="device_heartrate_label_battery">电量</string>
+    <string name="device_heartrate_label_name">名称</string>
+    <string name="device_heartrate_title">心率计</string>
+    <string name="device_heartrate_value_name">心率计</string>
+    <string name="device_qi_label_altitude">海拔</string>
+    <string name="device_qi_label_fw_ver">固件版本: %1$s</string>
+    <string name="device_qi_label_pressure">气压</string>
+    <string name="device_qi_label_temperature">温度</string>
+    <string name="device_qi_title">鳍</string>
+    <string name="device_watch_item_android">安卓手表</string>
+    <string name="device_watch_item_maibu">麦步手表</string>
+    <string name="device_watch_item_pebble">Pebble手表</string>
+    <string name="device_watch_item_tencent">腾讯手表</string>
+    <string name="device_watch_title">智能手表</string>
+    <string name="device_x1_label_setting">设置</string>
+    <string name="device_x1_setting_dialog_title">请输入体重+车重之和(Kg)</string>
+    <string name="device_x1_setting_label_unit">使用国标单位</string>
+    <string name="device_x1_setting_label_weight">体重+车重</string>
+    <string name="device_x1_setting_title">设置X1码表</string>
+    <string name="device_x1_setting_toast_empty">输入不能为空。。</string>
+    <string name="device_x1_title">我的手表</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_btn_goto">前往</string>
+    <string name="dialog_btn_known">知道了</string>
+    <string name="dialog_btn_no">否</string>
+    <string name="dialog_btn_ok">确定</string>
+    <string name="dialog_btn_share">分享</string>
+    <string name="dialog_choose_image">选择图片来源</string>
+    <string name="dialog_committing">正在提交，请稍等…</string>
+    <string name="dialog_connecting">正在连接…</string>
+    <string name="dialog_content_processing">正在处理…</string>
+    <string name="dialog_content_share_club">分享 俱乐部[%1$s] 到聊天？</string>
+    <string name="dialog_content_share_event">分享 活动[%1$s] 到聊天？</string>
+    <string name="dialog_content_share_lushu">分享 路书[%1$s] 到聊天？</string>
+    <string name="dialog_content_share_workout">分享 轨迹[%1$s] 到聊天？</string>
+    <string name="dialog_deleting">正在删除…</string>
+    <string name="dialog_downloading">正在下载…</string>
+    <string name="dialog_exporting">正在导出…</string>
+    <string name="dialog_hint_input">请输入</string>
+    <string name="dialog_importing">正在导入…</string>
+    <string name="dialog_loading">正在加载…</string>
+    <string name="dialog_operating">正在操作…</string>
+    <string name="dialog_photo_album">相册</string>
+    <string name="dialog_prompt">提示</string>
+    <string name="dialog_publishing">正在发布…</string>
+    <string name="dialog_reconnecting">正在重连…</string>
+    <string name="dialog_searching">正在搜索…</string>
+    <string name="dialog_sending">正在发送…</string>
+    <string name="dialog_setting">正在设置…</string>
+    <string name="dialog_take_photo">拍照</string>
+    <string name="email">邮箱</string>
+    <string name="entry_bike_shop">附近实体门店</string>
+    <string name="entry_challenge">挑战</string>
+    <string name="entry_competition">赛事</string>
+    <string name="entry_event">活动</string>
+    <string name="entry_news">行者头条</string>
+    <string name="entry_topic">行者帮</string>
+    <string name="event">活动</string>
+    <string name="event_create_hint_address">[loc] 点击选择位置</string>
+    <string name="event_create_hint_desc">活动简介</string>
+    <string name="event_create_hint_distance">请输入里程</string>
+    <string name="event_create_hint_lushu">选填</string>
+    <string name="event_create_hint_phone">请输入手机号</string>
+    <string name="event_create_hint_time">点击设置</string>
+    <string name="event_create_hint_title">活动名称</string>
+    <string name="event_create_label_address">集合地</string>
+    <string name="event_create_label_cost">费用</string>
+    <string name="event_create_label_desc">描述</string>
+    <string name="event_create_label_distance">里程</string>
+    <string name="event_create_label_level">难度</string>
+    <string name="event_create_label_lushu">路书</string>
+    <string name="event_create_label_member_num">人数</string>
+    <string name="event_create_label_phone">联系方式</string>
+    <string name="event_create_label_start_time">开始时间</string>
+    <string name="event_create_label_stop_time">结束时间</string>
+    <string name="event_create_label_title">标题</string>
+    <string name="event_create_location_dialog_input_address_name">请输入集合地名称</string>
+    <string name="event_create_location_title">选择集结点</string>
+    <string name="event_create_title">创建活动</string>
+    <string name="event_create_toast_create_failure">活动创建失败</string>
+    <string name="event_create_toast_create_successful">活动创建成功</string>
+    <string name="event_create_toast_creating">正在创建活动…</string>
+    <string name="event_create_toast_update_failure">活动更新失败</string>
+    <string name="event_create_toast_update_successful">活动更新成功</string>
+    <string name="event_create_toast_updating">正在更新活动…</string>
+    <string name="event_create_unit_cost">元/人</string>
+    <string name="event_create_unit_member_num">人</string>
+    <string name="event_create_verify_address_name_null">集合地名称不可以为空</string>
+    <string name="event_create_verify_address_null">集合地不可以为空</string>
+    <string name="event_create_verify_desc_null">描述不可以为空</string>
+    <string name="event_create_verify_desc_too_long">描述过长</string>
+    <string name="event_create_verify_input_address">请先选择集合地</string>
+    <string name="event_create_verify_input_start_time">请设置活动开始时间</string>
+    <string name="event_create_verify_input_stop_time">请设置活动结束时间</string>
+    <string name="event_create_verify_input_valid_phone">请输入正确的手机号码</string>
+    <string name="event_create_verify_start_too_early">开始时间不能早于当前时间！</string>
+    <string name="event_create_verify_title_null">标题不可以为空</string>
+    <string name="event_create_verify_title_too_long">标题过长</string>
+    <string name="event_list_date_label_doing">进行中</string>
+    <string name="event_list_date_label_finish">已结束</string>
+    <string name="event_list_date_label_will_begin">即将开始</string>
+    <string name="event_list_member_num">%1$d / %2$d 人</string>
+    <string name="event_list_title">我的活动</string>
+    <string name="event_member_list_title">成员列表</string>
+    <string name="event_notes_content">"活动须知和免责声明：
+
+    1. 参加活动，必须佩戴头盔，夜骑必须配前后灯；
+    2. 参加活动前或者活动过程中严禁饮用含酒精饮料；
+    4. 活动的发起人和领队不对任何由自行车运动本身以及往返路途中发生的危险承担责任。
+    5. 活动的参加者必须遵守并按照活动内容及路线的安排进行相应的活动，不得违反相关的法律法规、交通法规。参加者因违反相关法律法规而导致的一切法律后果均由参加者自行承担；
+    6. 对于不服从安排、不同意劝退的人员，领队和活动发起人不承担任何责任；
+    7. 不满18周岁参加活动的，须由其监护人陪同；"</string>
+    <string name="event_search_hint">搜索活动名称或编号</string>
+    <string name="event_search_toast_no_result">没有搜索到任何匹配的活动。</string>
+    <string name="event_tab_mine">我的</string>
+    <string name="event_tab_nearby">附近</string>
+    <string name="exit">退出</string>
+    <string name="finish">完成</string>
+    <string name="huawei">华为</string>
+    <string name="input_search">请输入搜索内容</string>
+    <string name="keep_edit">继续编辑</string>
+    <string name="label_lushu_update">更新路书</string>
+    <string name="label_lushu_upload">上传路书</string>
+    <string name="lushu">路书</string>
+    <string name="lushu_choose_title">选择路书</string>
+    <string name="lushu_create_btn_preview">预览</string>
+    <string name="lushu_create_dialog_exit_prompt">您创建的路书没有保存，是否要退出当前页面？</string>
+    <string name="lushu_create_dialog_title_search">请选择</string>
+    <string name="lushu_create_hint_add_waypoint">添加途经点(可选)</string>
+    <string name="lushu_create_hint_choose_start_point">请选择起点</string>
+    <string name="lushu_create_hint_choose_stop_point">请选择终点</string>
+    <string name="lushu_create_hint_choose_waypoint">请选择途经点</string>
+    <string name="lushu_create_title_create">制作路书</string>
+    <string name="lushu_create_title_edit">编辑路书</string>
+    <string name="lushu_create_toast_choose_start_point_first">请先设置起点</string>
+    <string name="lushu_create_toast_choose_stop_point_first">请先设置终点</string>
+    <string name="lushu_create_toast_create_successful">制作路书成功</string>
+    <string name="lushu_create_toast_search_no_result">没有找到结果，请换个关键词试试</string>
+    <string name="lushu_create_toast_waypoint_limit_23">途径点最多23个</string>
+    <string name="lushu_create_waypoint_index">途经点%1$d</string>
+    <string name="lushu_download_dialog_content">下载完成，请点击导入</string>
+    <string name="lushu_edit_btn_save">保存</string>
+    <string name="lushu_edit_btn_save_upload">保存并上传</string>
+    <string name="lushu_edit_dialog_content_delete">路书被删除后将无法恢复!</string>
+    <string name="lushu_edit_dialog_title_delete">删除确认</string>
+    <string name="lushu_edit_label_desc">描述</string>
+    <string name="lushu_edit_label_title">名称</string>
+    <string name="lushu_edit_label_track">路书路线</string>
+    <string name="lushu_edit_label_type">路书类型</string>
+    <string name="lushu_edit_title">修改路书信息</string>
+    <string name="lushu_edit_toast_empty_title">标题不可以为空。</string>
+    <string name="lushu_import_title">导入路书</string>
+    <string name="lushu_import_toast_cannot_find_file">找不到文件，请将需要导入的GPX文件放到%1$s</string>
+    <string name="lushu_import_toast_no_need_import_file">没有需要导入的路书！</string>
+    <string name="lushu_info_btn_comment">点击评论</string>
+    <string name="lushu_info_download_first">请先下载路书</string>
+    <string name="lushu_info_has_downloaded">已经下载过了</string>
+    <string name="lushu_info_label_collect">收藏</string>
+    <string name="lushu_info_label_comment">评论</string>
+    <string name="lushu_info_label_comment_num">%1$s人评论</string>
+    <string name="lushu_info_label_download">下载</string>
+    <string name="lushu_info_no_comment">这条路书还没有评论噢，赶紧来增加一条</string>
+    <string name="lushu_info_no_desc">暂无备注</string>
+    <string name="lushu_info_not_upload">未同步</string>
+    <string name="lushu_info_tag_altitude_d">海拔落差</string>
+    <string name="lushu_info_tag_elevation_gain">累计爬升</string>
+    <string name="lushu_info_tag_slop">平均坡度</string>
+    <string name="lushu_info_title">路书详情</string>
+    <string name="lushu_info_upload_first">请先上传路书</string>
+    <string name="lushu_point_select_btn_search">搜索</string>
+    <string name="lushu_point_select_dialog_title_please_select">请选择</string>
+    <string name="lushu_point_select_dialog_title_select_start">选择起点</string>
+    <string name="lushu_point_select_dialog_title_select_stop">选择终点</string>
+    <string name="lushu_point_select_hint_start">请输入起点</string>
+    <string name="lushu_point_select_hint_stop">请输入终点</string>
+    <string name="lushu_point_select_label_start">选择起点</string>
+    <string name="lushu_point_select_label_stop">选择终点</string>
+    <string name="lushu_point_select_title">起点终点选取</string>
+    <string name="lushu_point_select_title_start">起点选取</string>
+    <string name="lushu_point_select_title_stop">终点选取</string>
+    <string name="lushu_point_select_toast">必须选择起点或者终点！！</string>
+    <string name="lushu_point_select_toast_error">出错啦！</string>
+    <string name="lushu_search_desc_start_stop_point">根据起终点名称搜索路书</string>
+    <string name="lushu_search_input_hint">名称、编号、创建人搜索</string>
+    <string name="lushu_search_label_start_stop_point">起终点</string>
+    <string name="lushu_search_list_title">路书搜索列表</string>
+    <string name="lushu_search_toast_input_first">请先输入名称、编号或创建人</string>
+    <string name="lushu_tab_local">本地</string>
+    <string name="lushu_tab_nearby">附近</string>
+    <string name="lushu_title_collection">收藏列表</string>
+    <string name="lushu_toast_input_search">请输入搜索的内容。</string>
+    <string name="lushu_toast_lushu_downloading">此路书正在下载中…</string>
+    <string name="lushu_toast_lushu_import_successful">导入路书成功。</string>
+    <string name="lushu_toast_no_lushu">没有找到此路书。</string>
+    <string name="lushu_waypoint_edit_desc">描述</string>
+    <string name="lushu_waypoint_edit_display">显示途经点</string>
+    <string name="lushu_waypoint_edit_name">标题</string>
+    <string name="lushu_waypoint_edit_title">编辑</string>
+    <string name="map_btn_download_offline">离线地图</string>
+    <string name="map_choose_clue_first">请先选择队伍!</string>
+    <string name="map_clear_altitude_info">清除海拔信息</string>
+    <string name="map_clear_distance_info">清除测量距离信息</string>
+    <string name="map_click_measure_distance">点击地图，可以测量距离</string>
+    <string name="map_click_show_altitude">点击地图，可以查看任何一点的海拔</string>
+    <string name="map_dialog_choose_road_book">选择路书</string>
+    <string name="map_duration">运动时间</string>
+    <string name="map_handling_share">正在处理…</string>
+    <string name="map_install_bd_app">您尚未安装百度地图app或app版本过低，点击确认安装？</string>
+    <string name="map_load_road_book_first">需要先加载一条路书~</string>
+    <string name="map_loading_road_book">路书正在加载中，请稍后…</string>
+    <string name="map_loading_track">正在加载轨迹…</string>
+    <string name="map_menu_navigation">导航</string>
+    <string name="map_menu_road_book">路书</string>
+    <string name="map_menu_share">分享</string>
+    <string name="map_navi_need_net">生成导航路线需要联网</string>
+    <string name="map_no_located_start">尚未定位到起点，请稍等</string>
+    <string name="map_none_clue_found">没有队伍列表</string>
+    <string name="map_offline_baidu">百度离线地图</string>
+    <string name="map_offline_btn_download">下载</string>
+    <string name="map_offline_data_list_title">离线列表</string>
+    <string name="map_offline_dialog_content_cancel">确认取消该离线地图下载？</string>
+    <string name="map_offline_dialog_content_delete">确认删除该区域的离线地图？</string>
+    <string name="map_offline_dialog_content_resume">继续下载该离线地图？</string>
+    <string name="map_offline_dialog_title_delete">删除地图</string>
+    <string name="map_offline_download_help">帮助</string>
+    <string name="map_offline_download_manager">管理</string>
+    <string name="map_offline_download_title">离线地图下载</string>
+    <string name="map_offline_download_toast_20_char_limit">最多20个字符</string>
+    <string name="map_offline_download_toast_input_name">请输入名称</string>
+    <string name="map_offline_download_toast_too_large">地图数据过大，建议减小地图层级</string>
+    <string name="map_offline_empty_tips">"行者路书，防止迷路
+提前规划路线，跟随路书前进"</string>
+    <string name="map_offline_g_n">谷歌标准离线地图</string>
+    <string name="map_offline_g_s">谷歌卫星离线地图</string>
+    <string name="map_offline_g_t">谷歌地形离线地图</string>
+    <string name="map_offline_input_name">地图名称</string>
+    <string name="map_offline_manage_title">离线管理</string>
+    <string name="map_offline_map_none">暂无已下载的离线地图</string>
+    <string name="map_offline_menu_add_new">新增</string>
+    <string name="map_offline_search_menu">搜索</string>
+    <string name="map_offline_select_error_point">选择的区域边界不能相交</string>
+    <string name="map_offline_select_no_point">请选择的下载区域</string>
+    <string name="map_offline_select_reset_toast">已清空选择区域</string>
+    <string name="map_offline_select_title">地图选区</string>
+    <string name="map_offline_tiles_count">"瓦片数：%1$s   约 %2$s"</string>
+    <string name="map_offline_zoom_set">地图层级：%1$s级-%2$s级</string>
+    <string name="map_quick_nav">快捷规划路线</string>
+    <string name="map_real_speed">当前速度</string>
+    <string name="map_request_road_book_altitude">正在获取海拔数据…</string>
+    <string name="map_search_et_hint">输入导航目的地</string>
+    <string name="map_search_navi_destination_require">请输入导航目的地</string>
+    <string name="map_search_none_result">没有找到结果，请换个关键词试试</string>
+    <string name="map_search_result_choose_title">选择目的地</string>
+    <string name="map_show_teammate_location">查看队友位置</string>
+    <string name="map_tile_type_bd_normal">百度标准</string>
+    <string name="map_tile_type_bd_satellite">百度卫星</string>
+    <string name="map_tile_type_google_normal">谷歌标准</string>
+    <string name="map_tile_type_google_satellite">谷歌卫星</string>
+    <string name="map_tile_type_google_terrain">谷歌地形</string>
+    <string name="map_title_location_detail">位置信息</string>
+    <string name="map_title_set_point">设置位置</string>
+    <string name="map_toast_no_member_location">当前无网络，无法查看队友位置！</string>
+    <string name="map_toast_no_sensor">手机没有电子罗盘，将使用GPS方向。</string>
+    <string name="map_total_distance">总里程</string>
+    <string name="meizu">魅族</string>
+    <string name="mine_bind_btn_bind">绑定</string>
+    <string name="mine_bind_title_email_bind">邮箱绑定</string>
+    <string name="mine_bind_title_phone_bind">手机绑定</string>
+    <string name="mine_btn_login">立即登录</string>
+    <string name="mine_device_dialog_binding">绑定中…</string>
+    <string name="mine_device_label_connected">已连接</string>
+    <string name="mine_device_label_connecting">正在连接…</string>
+    <string name="mine_device_label_disconnected">已断开</string>
+    <string name="mine_device_label_have_no_device">还没有装备?</string>
+    <string name="mine_device_label_not_connect">未连接</string>
+    <string name="mine_device_label_search_finish">搜索已停止</string>
+    <string name="mine_device_label_searching">正在搜索…</string>
+    <string name="mine_device_label_see_here">来这里看看吧</string>
+    <string name="mine_device_label_stored_device">已有设备</string>
+    <string name="mine_device_label_xingzhe_shop">行者官方商城</string>
+    <string name="mine_device_setting_subtitle_ca_section">踏频区间设置</string>
+    <string name="mine_device_setting_subtitle_hr_section">心率区间设置</string>
+    <string name="mine_device_setting_subtitle_wheel">踏频轮径设置</string>
+    <string name="mine_device_subtitle_alfareal">AlfaReal AR智能运动眼镜</string>
+    <string name="mine_device_subtitle_bici">基本概念智能自行车</string>
+    <string name="mine_device_subtitle_bryton">Bryton码表</string>
+    <string name="mine_device_subtitle_cadence">速度踏频</string>
+    <string name="mine_device_subtitle_fit">Fit文件导入</string>
+    <string name="mine_device_subtitle_heartrate">心率</string>
+    <string name="mine_device_subtitle_igps">iGPSport码表</string>
+    <string name="mine_device_subtitle_qi">鳍</string>
+    <string name="mine_device_subtitle_watch">智能手表</string>
+    <string name="mine_device_subtitle_x1">行者表头</string>
+    <string name="mine_device_toast_android_4_3_limit">此功能需要安卓4.3以上系统才可以使用。</string>
+    <string name="mine_device_toast_bici_bind_failed">BiCi绑定失败</string>
+    <string name="mine_device_toast_bind_failed">蓝牙绑定失败</string>
+    <string name="mine_device_toast_bind_phone_first">请先绑定手机。</string>
+    <string name="mine_device_toast_bind_successful">蓝牙绑定成功</string>
+    <string name="mine_device_toast_connect_failed">蓝牙连接失败</string>
+    <string name="mine_device_toast_connect_successful">蓝牙连接成功</string>
+    <string name="mine_device_toast_connected">设备已连接。</string>
+    <string name="mine_device_toast_searching">正在搜索…</string>
+    <string name="mine_history_label_month">%1$d 月</string>
+    <string name="mine_history_label_year">- %1$d -</string>
+    <string name="mine_history_toast_cannot_share_donot_upload">轨迹还未上传，不能分享！</string>
+    <string name="mine_history_toast_cannot_share_hide">轨迹已被隐藏，不能分享！</string>
+    <string name="mine_history_toast_invalid_workout">此记录为无效轨迹，已删除。</string>
+    <string name="mine_history_toast_no_upload_workout">没有需要同步的历史轨迹</string>
+    <string name="mine_history_toast_not_found">未找到此轨迹</string>
+    <string name="mine_history_toast_stop_sport_first">请先结束运动！</string>
+    <string name="mine_history_toast_sync_bici_first">请先和BICI自行车同步数据！</string>
+    <string name="mine_history_toast_upload">一共需要同步%1$d条记录，正在同步第%2$d条…</string>
+    <string name="mine_history_toast_upload_failed">同步一条轨迹失败。</string>
+    <string name="mine_history_toast_upload_first">请先同步运动数据。</string>
+    <string name="mine_history_toast_upload_in_time">及时同步数据，防止记录丢失。</string>
+    <string name="mine_history_toast_uploading">@string/syncing</string>
+    <string name="mine_label_month_distance">%1$d月 %2$skm</string>
+    <string name="mine_label_total_distance">总距离</string>
+    <string name="mine_login_btn_login">登录</string>
+    <string name="mine_login_dialog_signing">正在登录…</string>
+    <string name="mine_login_hint_account">请输入手机/邮箱</string>
+    <string name="mine_login_label_choose_login_type">选择登陆方式</string>
+    <string name="mine_login_label_find_password">找回密码</string>
+    <string name="mine_login_title_login">登录</string>
+    <string name="mine_login_toast_login_failed">登录失败</string>
+    <string name="mine_login_toast_login_successful">登录成功</string>
+    <string name="mine_message_dialog_content_disable_message_center">【消息中心】可能会耗费较多流量，如果不想使用，可以到右上角【设置】中禁用此功能。</string>
+    <string name="mine_message_dialog_title_warning">注意</string>
+    <string name="mine_message_menu_clear_message">清空通知</string>
+    <string name="mine_message_menu_setting">设置</string>
+    <string name="mine_message_setting_desc_all_notification">开启后将不接收聊天推送</string>
+    <string name="mine_message_setting_desc_message_center">禁用后将不接收任何聊天和通知</string>
+    <string name="mine_message_setting_label_all_notification">免打扰模式</string>
+    <string name="mine_message_setting_label_club_notification">接收俱乐部推送</string>
+    <string name="mine_message_setting_label_group_notification">接收群消息推送</string>
+    <string name="mine_message_setting_label_lushu_notification">接收路书评论推送</string>
+    <string name="mine_message_setting_label_message_center">消息中心</string>
+    <string name="mine_message_setting_label_sound">声音</string>
+    <string name="mine_message_setting_label_topic_notification">接收行者帮消息推送</string>
+    <string name="mine_message_setting_label_vibrate">震动</string>
+    <string name="mine_message_setting_label_workout_notification">接收轨迹评论推送</string>
+    <string name="mine_message_title_chat">聊天中心</string>
+    <string name="mine_message_title_message">通知中心</string>
+    <string name="mine_message_title_message_center_setting">消息中心设置</string>
+    <string name="mine_profile_account_not_null">手机或邮箱不可以为空。</string>
+    <string name="mine_profile_address_not_valid">地址不能为空。</string>
+    <string name="mine_profile_authcode_not_valid">请输入正确的验证码。</string>
+    <string name="mine_profile_btn_logout">退出</string>
+    <string name="mine_profile_card_address">地址</string>
+    <string name="mine_profile_card_birthday">出生日期</string>
+    <string name="mine_profile_card_contact_name">紧急联系人</string>
+    <string name="mine_profile_card_contact_phone">紧急联系人电话</string>
+    <string name="mine_profile_card_email">邮箱</string>
+    <string name="mine_profile_card_gender">性别</string>
+    <string name="mine_profile_card_idcard">身份证</string>
+    <string name="mine_profile_card_name">姓名</string>
+    <string name="mine_profile_card_phone">手机</string>
+    <string name="mine_profile_card_save">保存</string>
+    <string name="mine_profile_card_warning">完善行者报名卡内的资料后，报名行者赛事活动会自动填写个人信息。</string>
+    <string name="mine_profile_desc_bind_email">点击绑定邮箱</string>
+    <string name="mine_profile_desc_bind_phone">点击绑定手机号</string>
+    <string name="mine_profile_desc_change_password">修改密码</string>
+    <string name="mine_profile_desc_set_password">设置密码</string>
+    <string name="mine_profile_dialog_btn_bind_email">绑定邮箱</string>
+    <string name="mine_profile_dialog_btn_bind_phone">绑定手机</string>
+    <string name="mine_profile_dialog_btn_do_logout">确定退出</string>
+    <string name="mine_profile_dialog_btn_not_logout">不退出</string>
+    <string name="mine_profile_dialog_btn_unbind">解绑</string>
+    <string name="mine_profile_dialog_content_logout">退出后部分功能将无法使用，确定要退出吗？</string>
+    <string name="mine_profile_dialog_content_unbind_email_1">您已经绑定了邮箱%1$s，是否需要解除绑定？</string>
+    <string name="mine_profile_dialog_content_unbind_email_2">您已经绑定了邮箱%1$s，解绑邮箱需要先绑定手机。</string>
+    <string name="mine_profile_dialog_content_unbind_phone_1">您已经绑定了手机号%1$s，是否需要解除绑定？</string>
+    <string name="mine_profile_dialog_content_unbind_phone_2">您已经绑定了手机号%1$s，解绑手机需要先绑定邮箱。</string>
+    <string name="mine_profile_dialog_title_change_nickname">修改昵称</string>
+    <string name="mine_profile_dialog_title_change_weight">修改体重</string>
+    <string name="mine_profile_dialog_title_choose_gender">请选择性别</string>
+    <string name="mine_profile_dialog_title_logout">退出</string>
+    <string name="mine_profile_dialog_title_unbind_email">解绑邮箱</string>
+    <string name="mine_profile_dialog_title_unbind_phone">解绑手机</string>
+    <string name="mine_profile_edit_titie">修改资料</string>
+    <string name="mine_profile_email_format_error">邮箱格式不正确。</string>
+    <string name="mine_profile_female">女</string>
+    <string name="mine_profile_gender_not_valid">请选择性别。</string>
+    <string name="mine_profile_idcard_format_error">身份证格式不正确。</string>
+    <string name="mine_profile_label_3rd_unbind">未绑定</string>
+    <string name="mine_profile_label_address">地址</string>
+    <string name="mine_profile_label_age">年龄</string>
+    <string name="mine_profile_label_avatar">头像</string>
+    <string name="mine_profile_label_email">邮箱</string>
+    <string name="mine_profile_label_full_profile">为了您的最佳体验，推荐完善个人信息</string>
+    <string name="mine_profile_label_gender">性别</string>
+    <string name="mine_profile_label_height">身高</string>
+    <string name="mine_profile_label_password">密码</string>
+    <string name="mine_profile_label_phone">手机号</string>
+    <string name="mine_profile_label_username">用户名</string>
+    <string name="mine_profile_label_weight">体重</string>
+    <string name="mine_profile_male">男</string>
+    <string name="mine_profile_password_not_null">密码不可以为空。</string>
+    <string name="mine_profile_password_not_same">两次密码输入不一致。</string>
+    <string name="mine_profile_password_too_long">密码太长。</string>
+    <string name="mine_profile_password_too_short">请至少输入6位密码。</string>
+    <string name="mine_profile_phone_not_null">手机不可以为空。</string>
+    <string name="mine_profile_phone_not_valid">请输入正确的手机号。</string>
+    <string name="mine_profile_subtitle_device_setting">运动装备设置</string>
+    <string name="mine_profile_subtitle_xingzhe_card">行者报名卡</string>
+    <string name="mine_profile_toast_3rd_auth_failed">授权失败</string>
+    <string name="mine_profile_toast_3rd_parse_failed">解析失败</string>
+    <string name="mine_profile_toast_3rd_request_failed">获取第三方平台信息失败。</string>
+    <string name="mine_profile_toast_bind_successful">绑定成功</string>
+    <string name="mine_profile_toast_input_valid_weight">请输入合理的体重</string>
+    <string name="mine_profile_toast_logout_successful">退出成功。</string>
+    <string name="mine_profile_toast_nickname_not_null">昵称不可以为空</string>
+    <string name="mine_profile_toast_nickname_too_long">昵称太长</string>
+    <string name="mine_profile_toast_unbind_successful">解绑成功</string>
+    <string name="mine_profile_toast_user_request_failed">获取用户信息失败。</string>
+    <string name="mine_profile_username_not_valid">请输入正确的姓名。</string>
+    <string name="mine_register_btn_count_down">%1$d秒</string>
+    <string name="mine_register_btn_register">注册</string>
+    <string name="mine_register_btn_reset_password">重置密码</string>
+    <string name="mine_register_btn_verify">验证</string>
+    <string name="mine_register_dialog_registering">正在注册…</string>
+    <string name="mine_register_hint_input_authcode">请输入验证码</string>
+    <string name="mine_register_hint_input_email">请输入邮箱</string>
+    <string name="mine_register_hint_input_password">请输入密码</string>
+    <string name="mine_register_hint_input_password_again">请再次输入密码</string>
+    <string name="mine_register_hint_input_phone">请输入手机号</string>
+    <string name="mine_register_label_cannot_receive_auth_1">收不到验证码，试试</string>
+    <string name="mine_register_label_cannot_receive_auth_2">语音验证</string>
+    <string name="mine_register_title_email_register">邮箱注册</string>
+    <string name="mine_register_toast_get_auth_successful">获取验证码成功。</string>
+    <string name="mine_register_toast_successful">注册成功</string>
+    <string name="mine_section_setting_0">不在区间</string>
+    <string name="mine_section_setting_ca_1">低踏频</string>
+    <string name="mine_section_setting_ca_2">正常踏频</string>
+    <string name="mine_section_setting_ca_3">高踏频</string>
+    <string name="mine_section_setting_ca_4">超高踏频</string>
+    <string name="mine_section_setting_dialog_input">输入区间值</string>
+    <string name="mine_section_setting_hr_1">轻量燃脂</string>
+    <string name="mine_section_setting_hr_2">燃脂</string>
+    <string name="mine_section_setting_hr_3">中等有氧</string>
+    <string name="mine_section_setting_hr_4">强有氧</string>
+    <string name="mine_section_setting_hr_5">无氧</string>
+    <string name="mine_section_setting_hr_warning">心率警报</string>
+    <string name="mine_section_setting_hr_warning_value">警报心率数值设定</string>
+    <string name="mine_setting_desc_auto_front">建议开启，可提高后台记录稳定性</string>
+    <string name="mine_setting_desc_auto_upload">开启后需要使用手机流量</string>
+    <string name="mine_setting_label_auto_front">运动中开屏自动回到前台</string>
+    <string name="mine_setting_label_auto_upload">手机网络自动同步</string>
+    <string name="mine_setting_label_feedback">问题反馈</string>
+    <string name="mine_setting_label_help">使用帮助</string>
+    <string name="mine_setting_label_shop">官方淘宝店</string>
+    <string name="mine_setting_label_sync_qq">同步至qq健康</string>
+    <string name="mine_setting_label_tips">轨迹不完整解决办法</string>
+    <string name="mine_setting_label_version">版本</string>
+    <string name="mine_setting_recommend_btn_send">发送</string>
+    <string name="mine_setting_recommend_content_send">我在使用@行者骑行软件，非常不错，推荐给大家，免费下载地址：http://www.imxingzhe.com/xz/</string>
+    <string name="mine_setting_recommend_dialog_subject">推荐行者骑行软件</string>
+    <string name="mine_setting_recommend_dialog_title">分享给好友</string>
+    <string name="mine_setting_recommend_label_qr_code">也可以扫描二维码直接下载安装</string>
+    <string name="mine_setting_recommend_label_welcome">欢迎推荐行者给认识的朋友 :)</string>
+    <string name="mine_setting_sos_btn_other">其他方式</string>
+    <string name="mine_setting_sos_btn_sms">短信发送</string>
+    <string name="mine_setting_sos_content_send">我在这里，点击查看：%1$s</string>
+    <string name="mine_setting_sos_dialog_subject">我的位置</string>
+    <string name="mine_setting_sos_dialog_title">查看我的位置</string>
+    <string name="mine_setting_sos_label_send_my_location">发送我的当前位置给其他人：</string>
+    <string name="mine_setting_sos_toast_get_location_failed">尚未定位成功，请稍后再试！</string>
+    <string name="mine_setting_subtitle_comment">评分</string>
+    <string name="mine_setting_subtitle_recommend">推荐行者</string>
+    <string name="mine_setting_subtitle_sos">SOS短信</string>
+    <string name="mine_setting_title">设置</string>
+    <string name="mine_title_device">智能设备</string>
+    <string name="mine_title_history">历史记录</string>
+    <string name="mine_title_medal">勋章</string>
+    <string name="mine_title_message">聊天</string>
+    <string name="mine_title_profile">个人信息</string>
+    <string name="mine_title_ranking">排行榜</string>
+    <string name="mine_toast_login_first">请先登录行者</string>
+    <string name="mine_wheel_setting_dialog_item_check_table">查表</string>
+    <string name="mine_wheel_setting_dialog_item_custom">自定义</string>
+    <string name="mine_wheel_setting_hint_input">请输入轮径长度</string>
+    <string name="my_grade">我的积分</string>
+    <string name="my_ranking">我的名次</string>
+    <string name="network_err">网络错误，请检查网络后再尝试。</string>
+    <string name="network_err_data_parse_error">数据解析出错，请检查网络后再尝试。</string>
+    <string name="network_not_connected">当前没有可用的网络。</string>
+    <string name="network_request_failed">请求失败</string>
+    <string name="no_permission">没有权限</string>
+    <string name="not_delete">不删除</string>
+    <string name="off">关闭</string>
+    <string name="offline_map_help_content">"1. 此处下载的是百度离线地图。
+
+2. 行者无法使用百度地图已经下载好的离线地图，这个是百度地图的限制。
+
+3. 离线地图在手机的位置是：SD卡/BaiduMapSDK/ （具体的位置，不同手机会有区别）。
+
+4. 如果下载进度一直是0%，请检查SD卡是否已满，或者使用下面的方式下载离线地图。
+
+5. 行者还支持先把离线地图文件下载到电脑，然后复制到手机，这样不费流量，具体方法可以在电脑上访问行者网站以下网址："</string>
+    <string name="ok">确定</string>
+    <string name="other">其他</string>
+    <string name="other_sport">自由行</string>
+    <string name="params_error">参数错误</string>
+    <string name="parse_data_error">数据解析错误</string>
+    <string name="password_hint">登录密码</string>
+    <string name="phone_hint">手机号码</string>
+    <string name="qq">QQ</string>
+    <string name="ranking_group_tag_all">排名</string>
+    <string name="ranking_tag_club">俱乐部</string>
+    <string name="ranking_tag_country">全国</string>
+    <string name="ranking_title_month">月度</string>
+    <string name="ranking_title_year">年度</string>
+    <string name="running">跑步</string>
+    <string name="sdcard_null">SD卡没有插入或者空间已满。</string>
+    <string name="search_address_failed">搜索地址失败。</string>
+    <string name="segment_best_grade">最佳成绩</string>
+    <string name="segment_best_rank_placeholder">最佳：%1$d名</string>
+    <string name="segment_detail_beat_number">超越的挑战者</string>
+    <string name="segment_detail_best_grade">个人最佳成绩</string>
+    <string name="segment_detail_best_rank">个人最佳排名</string>
+    <string name="segment_detail_title">赛段详情</string>
+    <string name="segment_grade">成绩</string>
+    <string name="segment_lushu">赛段路书</string>
+    <string name="segment_lushu_similarity">路书匹配率</string>
+    <string name="segment_mine_title">我的赛段</string>
+    <string name="segment_rank_challenge">%1$d人已挑战</string>
+    <string name="segment_rank_grade">完成成绩</string>
+    <string name="segment_rank_placeholder">%1$s 名</string>
+    <string name="segment_rank_rank_title">排名：</string>
+    <string name="segment_rank_time_title">最佳成绩：</string>
+    <string name="segment_rank_title">赛段排名</string>
+    <string name="segment_see_whole_workout">查看完整轨迹</string>
+    <string name="share_QQ">QQ</string>
+    <string name="share_QQ_zone">QQ空间</string>
+    <string name="share_chat">聊天</string>
+    <string name="share_circle">朋友圈</string>
+    <string name="share_local">保存到本地</string>
+    <string name="share_other">其他</string>
+    <string name="share_web">网页分享</string>
+    <string name="share_wechat">微信</string>
+    <string name="share_weibo">微博</string>
+    <string name="signin">登录</string>
+    <string name="signup">注册</string>
+    <string name="skip">跳过</string>
+    <string name="sport_btn_map">运动地图</string>
+    <string name="sport_btn_start">开始</string>
+    <string name="sport_btn_start_cycling">开始骑行</string>
+    <string name="sport_btn_start_running">开始跑步</string>
+    <string name="sport_btn_start_walking">开始徒步</string>
+    <string name="sport_btn_stop">结束</string>
+    <string name="sport_dialog_auto_upload_content">手机网络下运动轨迹自动同步已开启，可以在【我的】->【更多】中设置。</string>
+    <string name="sport_dialog_auto_upload_title">手机网络自动同步</string>
+    <string name="sport_dialog_continue_btn_goon_last">继续上次</string>
+    <string name="sport_dialog_continue_btn_start">开始新的</string>
+    <string name="sport_dialog_continue_content_1">你上次已{0}{1,number,#.##}km，用时{2}，是否继续？</string>
+    <string name="sport_dialog_continue_content_2">上次记录的距离已经超过1000km，距离过长的路线在地图上显示可能会花费较长时间，是否确定继续？</string>
+    <string name="sport_dialog_continue_content_3">上次记录的时间是一周之前，是否确定继续？</string>
+    <string name="sport_dialog_continue_title">是否继续</string>
+    <string name="sport_dialog_continue_title_again">是否确定继续</string>
+    <string name="sport_dialog_stop_btn_goon">继续运动</string>
+    <string name="sport_dialog_stop_btn_stop">结束运动</string>
+    <string name="sport_dialog_stop_content_1"><br>一共运动了{0,number,#.##}km，花费了{1}。</br></string>
+    <string name="sport_dialog_stop_content_2">&lt;br>&lt;font color=red>本次运动距离过短将不会被保存。&lt;/font>&lt;/br></string>
+    <string name="sport_dialog_stop_content_3"><br>确定要结束本次运动吗？</br></string>
+    <string name="sport_dialog_stop_title">结束运动</string>
+    <string name="sport_dialog_stopping">正在结束运动…</string>
+    <string name="sport_dialog_unfinish_btn_goon">继续</string>
+    <string name="sport_dialog_unfinish_btn_stop">结束</string>
+    <string name="sport_dialog_unfinish_content">您上次的运动未正常结束，有可能是由于行者在后台异常退出了，查看解决办法点击这里.</string>
+    <string name="sport_dialog_unfinish_title">发现未完成的运动，是否要继续？</string>
+    <string name="sport_lable_auto_pause">自动暂停</string>
+    <string name="sport_lable_gps_searching">正在定位…</string>
+    <string name="sport_lable_sporting">正在运动…</string>
+    <string name="sport_lable_training_mode">室内训练</string>
+    <string name="sport_setting_altitude_dialog_gps">GPS</string>
+    <string name="sport_setting_altitude_dialog_pressure">气压计</string>
+    <string name="sport_setting_altitude_dialog_title">输入海拔校准偏移量（米）</string>
+    <string name="sport_setting_altitude_label_auto_adjust">自动校准</string>
+    <string name="sport_setting_altitude_label_manual_adjust">手动校准</string>
+    <string name="sport_setting_altitude_label_source">海拔来源</string>
+    <string name="sport_setting_altitude_setting">海拔设置</string>
+    <string name="sport_setting_battery_dialog_content">省电模式开启后会显著减少行者的电量消耗，但是在部分情况下会降低数据的精准性。</string>
+    <string name="sport_setting_battery_dialog_title">省电模式已开启</string>
+    <string name="sport_setting_battery_saving">省电模式</string>
+    <string name="sport_setting_bike_trainer_mode">骑行台模式</string>
+    <string name="sport_setting_cadence_train">踏频训练</string>
+    <string name="sport_setting_desc_sporting_message">关闭后可提高轨迹记录稳定性</string>
+    <string name="sport_setting_gps_sound">定位提示音</string>
+    <string name="sport_setting_help">使用帮助</string>
+    <string name="sport_setting_label_sporting_message">运动中接收消息</string>
+    <string name="sport_setting_location_share">位置共享</string>
+    <string name="sport_setting_night_mode">夜间模式</string>
+    <string name="sport_setting_offline_map">离线地图下载</string>
+    <string name="sport_setting_show_detail">显示详细数据</string>
+    <string name="sport_setting_toast_sport_has_started">运动已经开始，请结束运动后再修改。</string>
+    <string name="sport_setting_tts">语音播报</string>
+    <string name="sport_setting_tts_distance">距离</string>
+    <string name="sport_setting_tts_duration">时间</string>
+    <string name="sport_setting_tts_toast_init_exception">初始化语音异常！</string>
+    <string name="sport_setting_tts_toast_init_failed">初始化语音失败！</string>
+    <string name="sport_tag_altitude">海拔</string>
+    <string name="sport_tag_avg_pace">平均配速</string>
+    <string name="sport_tag_avg_speed">均速</string>
+    <string name="sport_tag_calorie">热量</string>
+    <string name="sport_tag_distance">里程</string>
+    <string name="sport_tag_duration">时间</string>
+    <string name="sport_tag_elevation_gain">爬升</string>
+    <string name="sport_tag_gradient">坡度</string>
+    <string name="sport_tag_max_speed">极速</string>
+    <string name="sport_tag_pace">配速</string>
+    <string name="sport_tag_speed">时速</string>
+    <string name="sport_toast_open_camera_failed">打开相机失败，请检查相机是否可用。</string>
+    <string name="sport_toast_open_camera_failed2">权限被禁止，打开水印相机失败。</string>
+    <string name="sport_toast_open_gps_first">请先开启系统GPS，再点击开始。</string>
+    <string name="sport_toast_sport_types">当前为%1$s模式</string>
+    <string name="sport_toast_upload_bici">请及时同步BICI数据！</string>
+    <string name="start_point">起点</string>
+    <string name="stop_point">终点</string>
+    <string name="str_fm_segment_challenge_caption">人挑战</string>
+    <string name="str_fm_segment_distance_caption">公里/小时</string>
+    <string name="str_fm_segment_ranking_caption">名</string>
+    <string name="str_fm_unit_b_with_space">%1$s b</string>
+    <string name="str_fm_unit_c_with_space">%1$s ℃</string>
+    <string name="str_fm_unit_hPa_with_space">%1$s hPa</string>
+    <string name="str_fm_unit_kPa_with_space">%1$s kPa</string>
+    <string name="str_fm_unit_km_cn">%1$s 公里</string>
+    <string name="str_fm_unit_km_h">%1$s km/h</string>
+    <string name="str_fm_unit_m_with_space">%1$s m</string>
+    <string name="str_fm_unit_pa_with_space">%1$s pa</string>
+    <string name="str_fm_unit_rpm">%1$s rpm</string>
+    <string name="str_lushu_collected_lushu">我收藏的路书</string>
+    <string name="str_lushu_created_lushu">我创建的路书</string>
+    <string name="str_lushu_downloaded">已下载</string>
+    <string name="str_lushu_favorite">收藏</string>
+    <string name="str_lushu_fm_like_num_recommendation_lushu">%1$d人觉得行</string>
+    <string name="str_lushu_fm_like_num_recommendation_lushu_detail">+%1$d</string>
+    <string name="str_lushu_hint_summary">简介</string>
+    <string name="str_lushu_like_fail">点赞失败</string>
+    <string name="str_lushu_like_successful">点赞成功</string>
+    <string name="str_lushu_my">我的</string>
+    <string name="str_lushu_nearby">附近路书</string>
+    <string name="str_lushu_rating_hint">评分:</string>
+    <string name="str_lushu_recommendation_hot">热门推荐</string>
+    <string name="str_lushu_recommended">推荐</string>
+    <string name="str_lushu_request_fail">获取数据失败</string>
+    <string name="str_lushu_search">搜索路书</string>
+    <string name="str_lushu_search_lushu">搜索路书</string>
+    <string name="str_lushu_segment">赛段</string>
+    <string name="str_lushu_title_created_lushu_list">@string/str_lushu_created_lushu</string>
+    <string name="str_lushu_title_recommendation_lushu_detail">路线集合</string>
+    <string name="str_lushu_title_segment">赛段路书</string>
+    <string name="str_rankg_more_segment">查看更多</string>
+    <string name="str_sync_already_exists">导入成功</string>
+    <string name="str_sync_cancel">取消</string>
+    <string name="str_sync_confirm">确认</string>
+    <string name="str_sync_device_connection_lose">请检查设备连接</string>
+    <string name="str_sync_exit_confirm">正在同步数据，确定退出？</string>
+    <string name="str_sync_failed">同步失败</string>
+    <string name="str_sync_fm_progress">%1$d%%</string>
+    <string name="str_sync_get_files_fail">获取文件失败</string>
+    <string name="str_sync_import_data">导入数据</string>
+    <string name="str_sync_no_data">没有可导入的数据</string>
+    <string name="str_sync_not_exists">未导入</string>
+    <string name="str_sync_parse_fit_file">解析文件</string>
+    <string name="str_sync_running_in_background">后台</string>
+    <string name="str_sync_service_label">Device Sync Service</string>
+    <string name="switch_off">关闭</string>
+    <string name="switch_off_2">禁用</string>
+    <string name="switch_off_3">隐藏</string>
+    <string name="switch_on">开启</string>
+    <string name="switch_on_3">显示</string>
+    <string name="sync_one_workout_fail">同步一条轨迹失败</string>
+    <string name="sync_waiting">正在等待上次同步任务完成，请稍后再试…</string>
+    <string name="sync_workout_fail_result">同步完成，%1$d条轨迹同步失败</string>
+    <string name="sync_workout_none">没有需要同步的历史轨迹</string>
+    <string name="sync_workout_sync_progress">总共需同步%1$d条记录，正在同步第%2$d条…</string>
+    <string name="tab_club">俱乐部</string>
+    <string name="tab_discovery">发现</string>
+    <string name="tab_lushu">路书</string>
+    <string name="tab_mine">我的</string>
+    <string name="tab_sport">运动</string>
+    <string name="toast_already_liked">已经赞过了</string>
+    <string name="toast_collect_cancel">已取消收藏</string>
+    <string name="toast_collect_successful">收藏成功</string>
+    <string name="toast_comment_failed">评论失败</string>
+    <string name="toast_comment_success">评论成功</string>
+    <string name="toast_create_failed">创建失败</string>
+    <string name="toast_create_successful">创建成功</string>
+    <string name="toast_delete_failed">删除失败</string>
+    <string name="toast_delete_successful">删除成功</string>
+    <string name="toast_download_failed">下载失败</string>
+    <string name="toast_download_finish">下载完成</string>
+    <string name="toast_edit_failed">修改失败</string>
+    <string name="toast_edit_successful">修改成功</string>
+    <string name="toast_find_no_browser">未找到浏览器应用！</string>
+    <string name="toast_find_no_image_app">找不到可以处理图片的应用。</string>
+    <string name="toast_find_no_result">没有找到结果，请换个关键词试试</string>
+    <string name="toast_image_chooser_max">最多只能选择%1$d张图片</string>
+    <string name="toast_import_failed">导入失败</string>
+    <string name="toast_operate_failed">操作失败</string>
+    <string name="toast_operate_successful">操作成功</string>
+    <string name="toast_publish_failed">发布失败</string>
+    <string name="toast_publish_successful">发布成功</string>
+    <string name="toast_reply_successful">回复成功</string>
+    <string name="toast_request_image_failed">获取图片失败</string>
+    <string name="toast_save_successful">保存成功</string>
+    <string name="toast_share_canceled">取消分享</string>
+    <string name="toast_share_failed">分享失败</string>
+    <string name="toast_share_success">分享成功</string>
+    <string name="toast_upload_image_failed">图片上传失败</string>
+    <string name="toast_upload_image_successful">图片上传成功</string>
+    <string name="toast_upload_successful">上传成功</string>
+    <string name="toast_uploading_avatar">正在上传头像…</string>
+    <string name="topic_btn_reply">回复</string>
+    <string name="topic_create_btn_publish">发布</string>
+    <string name="topic_create_hint_content">说点什么吧。。。</string>
+    <string name="topic_create_label_content">内容</string>
+    <string name="topic_create_label_title">标题</string>
+    <string name="topic_create_label_type">板块</string>
+    <string name="topic_create_title">发布主题</string>
+    <string name="topic_create_toast_choose_type">请选择您的帖子板块！</string>
+    <string name="topic_create_toast_content_empty">发布的内容不允许为空！</string>
+    <string name="topic_image_num">共%1$d张</string>
+    <string name="topic_my_main_invitation">我发布的</string>
+    <string name="topic_my_reply">回复我的</string>
+    <string name="topic_popup_plate_keywords">热门话题</string>
+    <string name="topic_popup_plate_title">切换板块</string>
+    <string name="topic_popup_type_cream">只看精华</string>
+    <string name="topic_popup_type_mine">我的帖子</string>
+    <string name="topic_post_reply_to">回复%1$s</string>
+    <string name="topic_tag_cream">精华</string>
+    <string name="topic_tag_top">置顶</string>
+    <string name="topic_title_cream">行者帮精华帖</string>
+    <string name="topic_toast_no_topic">未找到帖子</string>
+    <string name="topic_toast_reply_empty">回复不能为空</string>
+    <string name="unit_bpm">bpm</string>
+    <string name="unit_credits">积分</string>
+    <string name="unit_hh_mm_ss">hh:mm:ss</string>
+    <string name="unit_kcal">kcal</string>
+    <string name="unit_km">km</string>
+    <string name="unit_km_h">km/h</string>
+    <string name="unit_km_placeholder">%1$s公里</string>
+    <string name="unit_m">m</string>
+    <string name="unit_min_km">min/km</string>
+    <string name="unit_min_placeholder">%1$s分钟</string>
+    <string name="unit_mm_ss">mm:ss</string>
+    <string name="unit_rpm">rpm</string>
+    <string name="update">更新</string>
+    <string name="upload">上传</string>
+    <string name="value_has_setting">已设置</string>
+    <string name="value_not_setting">未设置</string>
+    <string name="value_null">--</string>
+    <string name="walking">徒步</string>
+    <string name="wechat">微信</string>
+    <string name="weibo">微博</string>
+    <string name="workout">轨迹</string>
+    <string name="workout_btn_comment">评论</string>
+    <string name="workout_btn_like">点赞</string>
+    <string name="workout_btn_share">分享</string>
+    <string name="workout_chart_axis_altitude">海拔(m)</string>
+    <string name="workout_chart_axis_cadence">踏频(rpm)</string>
+    <string name="workout_chart_axis_cadence_foot">步频(rpm)</string>
+    <string name="workout_chart_axis_heartrate">心率(bpm)</string>
+    <string name="workout_chart_axis_power">功率(w)</string>
+    <string name="workout_chart_axis_speed">速度(km/h)</string>
+    <string name="workout_chart_label_avg_cadence">平均踏频</string>
+    <string name="workout_chart_label_avg_cadence_foot">平均步频</string>
+    <string name="workout_chart_label_avg_heartrate">平均心率</string>
+    <string name="workout_chart_label_avg_pace">平均配速</string>
+    <string name="workout_chart_label_avg_power">平均功率</string>
+    <string name="workout_chart_label_max_altitude">最高海拔</string>
+    <string name="workout_chart_label_max_cadence">最大踏频</string>
+    <string name="workout_chart_label_max_cadence_foot">最大步频</string>
+    <string name="workout_chart_label_max_heartrate">最大心率</string>
+    <string name="workout_chart_label_max_pace">最快配速</string>
+    <string name="workout_chart_label_max_power">最大功率</string>
+    <string name="workout_chart_label_max_speed">最快速度</string>
+    <string name="workout_chart_pace_full_marathon">全马</string>
+    <string name="workout_chart_pace_half_marathon">半马</string>
+    <string name="workout_chart_pace_table_title_duration">累计用时</string>
+    <string name="workout_chart_pace_table_title_km">公里</string>
+    <string name="workout_chart_pace_table_title_pace">配速</string>
+    <string name="workout_chart_road_down">下坡</string>
+    <string name="workout_chart_road_flat">平地</string>
+    <string name="workout_chart_road_up">上坡</string>
+    <string name="workout_chart_title_cadence">踏频</string>
+    <string name="workout_chart_title_cadence_foot">步频</string>
+    <string name="workout_chart_title_cadence_section">踏频区间</string>
+    <string name="workout_chart_title_heartrate">心率</string>
+    <string name="workout_chart_title_heartrate_section">心率区间</string>
+    <string name="workout_chart_title_pace">配速</string>
+    <string name="workout_chart_title_power">估算功率</string>
+    <string name="workout_chart_title_speed">海拔/速度</string>
+    <string name="workout_detail_label_altitude">海拔范围</string>
+    <string name="workout_detail_label_avg_cadence">平均踏频</string>
+    <string name="workout_detail_label_avg_cadence_foot">平均步频</string>
+    <string name="workout_detail_label_avg_heartrate">平均心率</string>
+    <string name="workout_detail_label_avg_pace">平均配速</string>
+    <string name="workout_detail_label_calorie">卡路里</string>
+    <string name="workout_detail_label_distance">运动里程</string>
+    <string name="workout_detail_label_elevation_gain">累计上升</string>
+    <string name="workout_detail_label_elevation_loss">累计下降</string>
+    <string name="workout_detail_label_grade">坡度范围</string>
+    <string name="workout_detail_label_id">轨迹编号</string>
+    <string name="workout_detail_label_max_cadence">最大踏频</string>
+    <string name="workout_detail_label_max_cadence_foot">最大步频</string>
+    <string name="workout_detail_label_max_heartrate">最大心率</string>
+    <string name="workout_detail_label_max_pace">最快配速</string>
+    <string name="workout_detail_label_max_speed">最快速度</string>
+    <string name="workout_detail_label_no_desc">暂无备注</string>
+    <string name="workout_detail_label_sport_avg_speed">运动均速</string>
+    <string name="workout_detail_label_sport_duration">运动时间</string>
+    <string name="workout_detail_label_sport_type">运动类型</string>
+    <string name="workout_detail_label_start_duration">开始时间</string>
+    <string name="workout_detail_label_stop_duration">结束时间</string>
+    <string name="workout_detail_label_total_avg_speed">全程均速</string>
+    <string name="workout_detail_label_total_duration">全程时间</string>
+    <string name="workout_detail_tag_altitude">海拔</string>
+    <string name="workout_detail_tag_cadence">踏频</string>
+    <string name="workout_detail_tag_cadence_foot">步频</string>
+    <string name="workout_detail_tag_desc">备注</string>
+    <string name="workout_detail_tag_distance">里程</string>
+    <string name="workout_detail_tag_duration">时间</string>
+    <string name="workout_detail_tag_general">综合</string>
+    <string name="workout_detail_tag_heartrate">心率</string>
+    <string name="workout_detail_tag_pace">配速</string>
+    <string name="workout_detail_tag_speed">速度</string>
+    <string name="workout_detail_title">轨迹详情</string>
+    <string name="workout_dialog_delete_content">历史轨迹被删除后将无法恢复！</string>
+    <string name="workout_dialog_delete_title">删除确认</string>
+    <string name="workout_dialog_segment">选择一个赛段：</string>
+    <string name="workout_label_not_upload">未同步</string>
+    <string name="workout_like_count_fm">等%1$s人觉得行</string>
+    <string name="workout_menu_edit">编辑</string>
+    <string name="workout_menu_export">转路书</string>
+    <string name="workout_menu_hide">隐藏轨迹</string>
+    <string name="workout_menu_show">显示轨迹</string>
+    <string name="workout_mine_title">运动详情</string>
+    <string name="workout_segment_item_title">排行榜</string>
+    <string name="workout_toast_cancel_like">取消点赞</string>
+    <string name="workout_toast_invalid">此记录为无效轨迹，建议删除。</string>
+    <string name="workout_toast_lushu_exist">此路书已存在</string>
+    <string name="workout_toast_sporting_cannot_delete">运动正在进行中不可以被删除。</string>
+    <string name="workout_toast_upload_first">此记录还未同步，请先同步。</string>
+    <string name="xiaomi">小米</string>
+    <string name="Application_and_notify">Invitation and notification</string>
+    <string name="Current_version">Current version</string>
+    <string name="Empty_the_chat_record">Clear conversation</string>
+    <string name="Exit_the_group_chat">Exit the group</string>
+    <string name="Group_chat">Group chat</string>
+    <string name="Group_chat_information">The group description</string>
+    <string name="Group_chat_profile">Group profile</string>
+    <string name="Group_of_Lord">The group owner</string>
+    <string name="Hands_free">Hands free</string>
+    <string name="Introduction">Brief</string>
+    <string name="Not_Set">Not set</string>
+    <string name="Open_group_chat">Public group</string>
+    <string name="Open_group_members_invited">Allow members to invite</string>
+    <string name="Please_enter_a_username">Please enter a username</string>
+    <string name="Select_the_contact">Select the contact</string>
+    <string name="Shielding_of_the_message">Block message</string>
+    <string name="The_new_group_chat">Create new group</string>
+    <string name="To_join_the_chat">Join the group</string>
+    <string name="Upload_the_log">Uploading the log</string>
+    <string name="Whether_the_public">Is public</string>
+    <string name="add_friend">Add friends</string>
+    <string name="address_book">Address book</string>
+    <string name="agree">Agree</string>
+    <string name="answer">Answer</string>
+    <string name="attach_file">File</string>
+    <string name="attach_location">Location</string>
+    <string name="attach_picture">Image</string>
+    <string name="attach_smile">Emoticon</string>
+    <string name="attach_take_pic">Capture</string>
+    <string name="attach_voice_call">Voice call</string>
+    <string name="back">返回</string>
+    <string name="black_item">Black list</string>
+    <string name="blacklist">Black list</string>
+    <string name="book_black">Black list</string>
+    <string name="button_add">Add</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_pushtotalk">Hold to talk</string>
+    <string name="button_save">Save</string>
+    <string name="button_search">Find</string>
+    <string name="button_send">Send</string>
+    <string name="button_uploadlog">Upload the log</string>
+    <string name="chatset">Chat settings</string>
+    <string name="clear_all_records">Clear all conversations？</string>
+    <string name="clear_records">Clear conversation?</string>
+    <string name="confirm_forward_to">Confirm to forward to：%1$s ?</string>
+    <string name="confirm_resend">Confirm to resend？</string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="connect_conflict">The same account was loggedin in other device</string>
+    <string name="connect_failuer_toast">Please check the network or try again later</string>
+    <string name="copy">Copy</string>
+    <string name="copy_message">Copy message</string>
+    <string name="delete_message">Delete message</string>
+    <string name="delete_video">Delete video</string>
+    <string name="delete_voice">Delete voice</string>
+    <string name="diagnose">Diagnose</string>
+    <string name="dismiss_group">Dismiss group</string>
+    <string name="dissolution_group_hint">The group will be dismissed after exiting</string>
+    <string name="downwaiting">Downloading the file, please try again later</string>
+    <string name="ease_user_remove">This user has been removed</string>
+    <string name="exit_group">Exit</string>
+    <string name="exit_group_hint">The group messages will not be received after exiting the group</string>
+    <string name="file">[file]</string>
+    <string name="forward">Forward</string>
+    <string name="group_chat">Group chat</string>
+    <string name="group_name">Group name</string>
+    <string name="hang_up">Hang up</string>
+    <string name="is_down_please_wait">Downloading video, please try again later</string>
+    <string name="location_message">The location information</string>
+    <string name="location_prefix">[my location]</string>
+    <string name="location_recv">[%1$s location]</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="logout_hint">Logout will never clear the chat history, this account can be used on next login</string>
+    <string name="move_up_to_cancel">Finger up to cancel sending</string>
+    <string name="mute">Mute</string>
+    <string name="network_isnot_available">The network is not available</string>
+    <string name="network_unavailable">The network connection is not available, please check the network</string>
+    <string name="newchat">Create new group</string>
+    <string name="newnotify">Receiving a new message</string>
+    <string name="not_download">Did not download:</string>
+    <string name="notify">New message notification</string>
+    <string name="now_refresh_list">Refreshing contact list</string>
+    <string name="password">Password</string>
+    <string name="picture">[Picture]</string>
+    <string name="prompt">Prompt</string>
+    <string name="recoding_fail">The recording failure, please try again！</string>
+    <string name="recording_video">Record video</string>
+    <string name="register">Register</string>
+    <string name="release_to_cancel">Finger release to cancel sending</string>
+    <string name="resend">Resend</string>
+    <string name="save">Save</string>
+    <string name="search">搜索</string>
+    <string name="search_header">Search</string>
+    <string name="select_contacts">Select the contact</string>
+    <string name="send_fail">Send failed</string>
+    <string name="session">Conversation</string>
+    <string name="set">Settings</string>
+    <string name="setting">Settings</string>
+    <string name="shake">Shake</string>
+    <string name="text_ack_msg">Read</string>
+    <string name="text_delivered_msg">Delivered</string>
+    <string name="unable_to_connect">Unable to connect to the server</string>
+    <string name="user_card">Business card</string>
+    <string name="user_name">User name</string>
+    <string name="video">[Video]</string>
+    <string name="voice">Voice</string>
+    <string name="voice_call">[Voice call]</string>
+    <string name="yangshengqi">Use speaker</string>
+    <string name="Add_a_button_was_clicked">Add a button was clicked</string>
+    <string name="Add_a_friend">Let me to be your friend!</string>
+    <string name="Add_group_members_fail">Add group members fail:</string>
+    <string name="Agree_with_failure">Failed to accept</string>
+    <string name="Agreed_to_your_group_chat_application">Accepted your group application</string>
+    <string name="Apply_to_the_group_of">Apply to join the group</string>
+    <string name="Are_agree_with">Accepting</string>
+    <string name="Are_connected_to_each_other">Connecting to peer..</string>
+    <string name="Are_logged_out">Logging out</string>
+    <string name="Are_moving_to_blacklist">Moving to blacklist</string>
+    <string name="Are_removed">Removing</string>
+    <string name="Cant_chat_with_yourself">cannot chat with yourself</string>
+    <string name="Change_the_group_name">Change group name</string>
+    <string name="Confirm_password_cannot_be_empty">Confirm password cannot be empty!</string>
+    <string name="Connection_failure">Connection failed!</string>
+    <string name="Delete_failed">Failed to delete</string>
+    <string name="Delete_the_contact">Delete the contact</string>
+    <string name="Did_not_download">Not yet downloaded</string>
+    <string name="Dissolve_group_chat_tofail">Failed to dismiss the group:</string>
+    <string name="Download_the_pictures">Download the pictures: 0%</string>
+    <string name="Download_the_pictures_new">Download the pictures:</string>
+    <string name="Exit_the_group_chat_failure">Failed to exit the group:</string>
+    <string name="Failed_to_create_groups">Failed to create groups</string>
+    <string name="Failed_to_download_file">Failed to download file:</string>
+    <string name="Failed_to_get_group_chat_information">Failed to get group information:</string>
+    <string name="Failed_to_join_the_group_chat">Failed to join the group</string>
+    <string name="File_does_not_exist">File does not exist</string>
+    <string name="Group_name_cannot_be_empty">Group name cannot be empty</string>
+    <string name="Has_agreed_to">Accepted</string>
+    <string name="Has_agreed_to_your_friend_request">Accepted your request</string>
+    <string name="Has_been_cancelled">Cancelled</string>
+    <string name="Has_refused_to">Refused</string>
+    <string name="Have_downloaded">Already downloaded</string>
+    <string name="In_the_call">In the call..</string>
+    <string name="Into_the_blacklist">Move to the blacklist?</string>
+    <string name="Invite_you_to_join_a_group_chat">Invite you to join this group</string>
+    <string name="Is_download_voice_click_later">Downloading the voice message, click later</string>
+    <string name="Is_landing">logining..</string>
+    <string name="Is_moved_into_blacklist">Moving to blacklist..</string>
+    <string name="Is_not_yet_connected_to_the_server">Not connect to server</string>
+    <string name="Is_sending_a_request">Sending the request..</string>
+    <string name="Is_the_registered">Registering..</string>
+    <string name="Is_to_create_a_group_chat">Creating the group</string>
+    <string name="Is_unblock">Unblocking group</string>
+    <string name="Join_the_group_chat">Join the group</string>
+    <string name="Log_Upload_failed">Failed to upload the log</string>
+    <string name="Log_uploaded_successfully">Log was uploaded successfully</string>
+    <string name="Login_failed">Login failed:</string>
+    <string name="Logoff_notification">Logoff notification</string>
+    <string name="Making_sure_your_location">Making sure your location..</string>
+    <string name="Modify_the_group_name_successful">Modify the group name successful</string>
+    <string name="Move_into_blacklist_failure">Move into blacklist failure</string>
+    <string name="Move_into_blacklist_success">Move into blacklist success</string>
+    <string name="Move_into_the_blacklist_new">Move into the blacklist</string>
+    <string name="Network_error">Network error</string>
+    <string name="Open_the_equipment_failure">Open the equipment failure!</string>
+    <string name="Password_cannot_be_empty">Password cannot be empty!</string>
+    <string name="Recording_without_permission">Recording without permission</string>
+    <string name="Refused">Refused</string>
+    <string name="Registered_successfully">Registered successfully</string>
+    <string name="Registration_failed">Registration failed:</string>
+    <string name="Remove_the_notification">Remove the notification</string>
+    <string name="Removed_from_the_failure">Removed fail</string>
+    <string name="Request_add_buddy_failure">Request add buddy failure:</string>
+    <string name="Request_to_add_you_as_a_friend">You got a friend request</string>
+    <string name="Request_to_join">Apply to join</string>
+    <string name="Send_the_following_pictures">Send the following pictures?</string>
+    <string name="Send_voice_need_sdcard_support">Send voice need sdcard support</string>
+    <string name="The_delete_button_is_clicked">The delete button is clicked</string>
+    <string name="The_file_is_not_greater_than_10_m">The file is not greater than 10 m</string>
+    <string name="The_other_is_hang_up">The peer has ended the call</string>
+    <string name="The_other_is_not_online">The peer is not online</string>
+    <string name="The_other_is_on_the_phone">The peer is on the phone</string>
+    <string name="The_other_is_on_the_phone_please">The peer is busy now, please try later</string>
+    <string name="The_other_party_did_not_answer">The peer did not answer</string>
+    <string name="The_other_party_did_not_answer_new">The peer did not answer</string>
+    <string name="The_other_party_has_refused_to">Call was refused</string>
+    <string name="The_other_party_is_not_online">The peer is not online now, please try later</string>
+    <string name="The_other_party_refused_to_accept">The call was refused</string>
+    <string name="The_recording_time_is_too_short">The recording time is too short</string>
+    <string name="The_video_to_start">The video to start</string>
+    <string name="This_user_is_already_your_friend">This user is already your friend</string>
+    <string name="Two_input_password">Inconsistent password, please enter again!</string>
+    <string name="User_already_exists">User already existed!</string>
+    <string name="User_name_cannot_be_empty">User name cannot be empty!</string>
+    <string name="Version_number_is_wrong">Version number is wrong</string>
+    <string name="Video_footage">Video record</string>
+    <string name="Whether_to_empty_all_chats">Clear all messages?</string>
+    <string name="Whether_to_send">Are you sure to send?</string>
+    <string name="add_public_group_chat">Add public group</string>
+    <string name="are_empty_group_of_news">Clearing messages</string>
+    <string name="attach_video">Video</string>
+    <string name="attach_video_call">Video call</string>
+    <string name="be_removing">Be removing</string>
+    <string name="being_added">added</string>
+    <string name="call_duration">call duration</string>
+    <string name="can_not_connect_chat_server_connection">Cannot connect to server</string>
+    <string name="cant_find_pictures">"Can't find pictures"</string>
+    <string name="change_the_group_name_failed_please">Failed to change the group name, please check the network or try again later</string>
+    <string name="chat_room">Chat room</string>
+    <string name="chatroom_allow_owner_leave">Allow chatroom owner leave</string>
+    <string name="chatting_is_dissolution">Dismissing group</string>
+    <string name="confirm_the_members">Move this member to group blacklist?</string>
+    <string name="delete_conversation">Delete conversation</string>
+    <string name="delete_conversation_messages">Delete conversation and messages</string>
+    <string name="deleting">Deleting..</string>
+    <string name="did_not_answer">did not answer</string>
+    <string name="direct_call">Direct</string>
+    <string name="dl_cancel">Cancel</string>
+    <string name="dl_msg_local_upload">Local Upload</string>
+    <string name="dl_msg_take_photo">Task Photo</string>
+    <string name="dl_ok">OK</string>
+    <string name="dl_title_upload_photo">Upload Photo</string>
+    <string name="dl_update_nick">update nickname</string>
+    <string name="dl_update_photo">update photo</string>
+    <string name="dl_waiting">waiting...</string>
+    <string name="error_send_invalid_content">The message content is not allowed to be sent!</string>
+    <string name="error_send_not_in_the_group">You already were not in the group</string>
+    <string name="expression">[expression]</string>
+    <string name="failed_to_load_data">Failed to load data, please check network or try again later</string>
+    <string name="failed_to_move_into">Failed to move to the blacklist, please check the network or try again later</string>
+    <string name="get_failed_please_check">Failed to retrieve, please check the network or try again later</string>
+    <string name="gorup_not_found">Can not find this group</string>
+    <string name="group_id">Group id</string>
+    <string name="group_is_blocked">Blocking the group..</string>
+    <string name="group_not_existed">The group does not exist</string>
+    <string name="group_of_shielding">Group of shielding failure, please check the network or try again later</string>
+    <string name="group_search_failed">Search failed</string>
+    <string name="hanging_up">Hanging up..</string>
+    <string name="have_connected_with">Connected to the peer and waiting for the peer to accept</string>
+    <string name="have_you_removed">Have you removed from his buddy list</string>
+    <string name="illegal_user_name">Illegal user name</string>
+    <string name="input_new_nick_hint">Input a new nick</string>
+    <string name="is_modify_the_group_name">Modifying the group name..</string>
+    <string name="is_quit_the_group_chat">Exiting group</string>
+    <string name="list_is_for">Retrieving the groups and contacts</string>
+    <string name="login_failure_failed">Logon failure: failed to retrieve contacts or groups</string>
+    <string name="move_out_backlist">Remove from blacklist</string>
+    <string name="network_anomalies">Network is not available, please check the network!</string>
+    <string name="nickname">NickName</string>
+    <string name="nickname_description">Once this nick is set, this nick will be used in push notification (by default this is HuanXin id ) when the receiver is using the IOS device.</string>
+    <string name="no_more_messages">no more messages</string>
+    <string name="not_add_myself">"Can't add myself"</string>
+    <string name="not_connect_to_server">Not connect to server, please try again later</string>
+    <string name="not_delete_myself">Cannot delete myself</string>
+    <string name="people">people</string>
+    <string name="please_check">key validation error!Please on AndroidManifest.xml file check the key set</string>
+    <string name="please_set_the_current">"Please set the current user's nickname n to ios offline push not userid but Nick, see comments"</string>
+    <string name="push_nick">IOS offline push nick</string>
+    <string name="receive_the_passthrough">Receive cmd message : action：</string>
+    <string name="refreshing_group_list">Refreshing group list</string>
+    <string name="registration_failed_without_permission">Registration failed, without permission!</string>
+    <string name="relay_call">Relay</string>
+    <string name="remove_group_of">Remove group of shielding failure, please check the network or try again later</string>
+    <string name="robot_chat">Robot chat</string>
+    <string name="save_new_nickname">Save new nickname</string>
+    <string name="sd_card_does_not_exist">"SD card does not exist, can't take pictures"</string>
+    <string name="search_new">Search</string>
+    <string name="search_pubic_group">Search public group</string>
+    <string name="searching">searching</string>
+    <string name="send_failure_please">Send failure, please test whether the server connection</string>
+    <string name="send_successful">Request was sent, waiting for the peer to accept</string>
+    <string name="send_the_request_is">The request was sent and waiting for owner approval</string>
+    <string name="setting_nickname">Setting nickname</string>
+    <string name="sure_to_empty_this">Clear all messages?</string>
+    <string name="temporary_does_not">Currently the video size greater than 10M is not supported!</string>
+    <string name="the_current_group">The current group has been dismissed</string>
+    <string name="the_current_network">The current network is not available, please check the network Settings</string>
+    <string name="title_user_profile">User Profile</string>
+    <string name="toast_nick_not_isnull">nick cannot be empty!</string>
+    <string name="toast_no_support">No Support!</string>
+    <string name="toast_updatenick_fail">update nickname fail!</string>
+    <string name="toast_updatenick_success">update nickname success!</string>
+    <string name="toast_updatephoto_fail">update photo fail!</string>
+    <string name="toast_updatephoto_success">update photo success!</string>
+    <string name="unable_to_get_loaction">Unable to get to your location information!</string>
+    <string name="voice_prefix">[Voice]</string>
+    <string name="you_are_group">You have been kicked off from the group</string>
+    <string name="app_upgrade_doc_title">v%1$s 版本说明</string>
+    <string name="app_upgrade_dont_ask_again">不再提示</string>
+    <string name="app_upgrade_new_version_title">发现新版本</string>
+    <string name="app_upgrade_not_now">不更新</string>
+    <string name="app_upgrade_update_now">更新</string>
+    <string name="app_upgrade_version_desc">"更新日志:
+%1$s"</string>
+    <string name="app_upgrade_version_name_currently">当前版本: %1$s</string>
+    <string name="app_upgrade_version_name_newest">最新版本: %1$s</string>
+    <string name="avg_speed">均速</string>
+    <string name="calorie">卡路里</string>
+    <string name="circle_counting">计圈</string>
+    <string name="distance">里程</string>
+    <string name="elevation_gain">爬升</string>
+    <string name="hot_not_upload">未上传</string>
+    <string name="load_lushu">加载路书</string>
+    <string name="lushu_title_default">起点 至 终点</string>
+    <string name="lushu_title_placeholder">%1$s(起点)至%2$s(终点)</string>
+    <string name="lushu_view_3d_version">查看3D路书</string>
+    <string name="make_workout_view_3d">生成3D轨迹</string>
+    <string name="map_cancel_nav_plan">已退出路线规划</string>
+    <string name="map_clear_altitude_hint">点击右下角退出测量按钮，清除海拔信息</string>
+    <string name="map_clear_distance_hint">点击右下角退出测量按钮，清除测量距离信息</string>
+    <string name="map_clear_sos_hint">您已经处于SOS状态,取消点击左上角退出按钮</string>
+    <string name="map_dialog_choose_nav_road_book">选择导航路书</string>
+    <string name="map_dialog_string_sos_clear">正在取消…</string>
+    <string name="map_dialog_string_sos_request">正在求助…</string>
+    <string name="map_end_nav_first_tips">请先结束导航！</string>
+    <string name="map_layer">地图</string>
+    <string name="map_measure_altitude_text">点击地图测量海拔</string>
+    <string name="map_measure_distance_text">点击地图测量距离</string>
+    <string name="map_nav_plan_first">请先完成路线规划</string>
+    <string name="map_nav_search_hint">搜索目的地</string>
+    <string name="map_request_sos_failed">SOS求助失败，不要着急，再次重试</string>
+    <string name="map_request_sos_success">SOS求助成功…</string>
+    <string name="map_setup_nav_end_tips">拖动地图，选择路线目的地</string>
+    <string name="map_sos_close_confirm">再想想</string>
+    <string name="map_sos_close_tips">是否要退出SOS紧急求助模式？</string>
+    <string name="map_sos_open_confirm">请确认你是否真的需要求助？</string>
+    <string name="map_team">队友</string>
+    <string name="map_text_cancel_sos">取消求助</string>
+    <string name="map_text_quit_measure">退出测量</string>
+    <string name="map_text_quit_nav">退出规划</string>
+    <string name="map_tool_altitude_info">海拔：%1$s</string>
+    <string name="map_tool_box">工具箱</string>
+    <string name="map_tool_box_altitude">测量海拔</string>
+    <string name="map_tool_box_distance">测量距离</string>
+    <string name="map_tool_box_sos">紧急求助</string>
+    <string name="map_tool_distance_info">距离：%1$s</string>
+    <string name="mine_device_subtitle_gpx">GPX文件导入</string>
+    <string name="mine_profile_edit_info">编辑个人信息</string>
+    <string name="mine_profile_level_permission_detail">等级特权详情</string>
+    <string name="mine_profile_no_team">未设置主俱乐部</string>
+    <string name="mine_profile_total_distance">总里程(km)</string>
+    <string name="mine_profile_total_grade">总积分</string>
+    <string name="mine_profile_total_rank">全国排名</string>
+    <string name="mine_segment_desc">赛段说明</string>
+    <string name="month">月</string>
+    <string name="my_list_medal_title">我的勋章</string>
+    <string name="nav_end">您已到达目的地，本次导航结束</string>
+    <string name="nav_keep_going">请沿当前道路，继续行驶</string>
+    <string name="nav_road">路</string>
+    <string name="nav_start">导航现在开始。</string>
+    <string name="nav_step_changed">约%1$s后，%2$s</string>
+    <string name="nav_step_changed_ahead">进入%1$s</string>
+    <string name="nav_stop">已退出路书导航</string>
+    <string name="nav_voice">导航语音</string>
+    <string name="nav_yaw_back">您已返回导航路线</string>
+    <string name="nav_yaw_of_route">您已偏离导航路线</string>
+    <string name="navigating">导航中</string>
+    <string name="navigation_resume">继续导航</string>
+    <string name="navigation_road_book">路书导航</string>
+    <string name="no_read_contacts_permission">未获取读联系人权限</string>
+    <string name="pace">配速</string>
+    <string name="pop_metal_activity_title">恭喜您获得勋章！</string>
+    <string name="quick_nav_route">快捷规划路线</string>
+    <string name="rank_placeholder">第%1$d名</string>
+    <string name="relation_can_not_follow_yourself">里不要关注里记几辣~</string>
+    <string name="relation_cancel_follow">取消关注</string>
+    <string name="relation_fans">粉丝</string>
+    <string name="relation_follow_add">+ 关注</string>
+    <string name="relation_follow_cancel">取消关注</string>
+    <string name="relation_follow_friend_failed">关注失败</string>
+    <string name="relation_follow_friend_succeed">关注成功</string>
+    <string name="relation_follows">关注</string>
+    <string name="relation_import_contacts">导入通讯录好友</string>
+    <string name="relation_import_sina">导入微博好友</string>
+    <string name="relation_local_friend">同城大神</string>
+    <string name="relation_no_follow_friend_failed">取消关注失败</string>
+    <string name="relation_no_follow_friend_succeed">已取消关注</string>
+    <string name="relation_possible_friend">可能认识的人</string>
+    <string name="relation_recommend_see_more">查看更多>></string>
+    <string name="relation_search_friend">搜索好友</string>
+    <string name="relation_search_hint">搜索好友昵称</string>
+    <string name="relation_search_text_required">请输入好友昵称</string>
+    <string name="relation_search_title">添加关注</string>
+    <string name="relation_sina_not_bind">您还未绑定微博账号</string>
+    <string name="relation_state_follow_already">已关注</string>
+    <string name="relation_state_follow_both">互相关注</string>
+    <string name="relation_state_none">关注</string>
+    <string name="report_success">举报成功</string>
+    <string name="segment_beat_placeholder">超越了%1$s的挑战者</string>
+    <string name="segment_comment_title">赛段评论</string>
+    <string name="segment_lap_desc">注：计圈成绩来源于赛段，同一赛段连续骑了2次或2次以上才会有计圈成绩。</string>
+    <string name="send">发送</string>
+    <string name="send_message">发消息</string>
+    <string name="sport_btn_start_skiing">开始滑雪</string>
+    <string name="sport_btn_start_swimming">开始游泳</string>
+    <string name="sport_btn_start_training">开始训练</string>
+    <string name="sport_lable_training">正在训练…</string>
+    <string name="sport_map_call_phone">拨打电话</string>
+    <string name="sport_map_current_speed">速度: %1$s</string>
+    <string name="sport_map_emergency_help">紧急求助</string>
+    <string name="sport_map_line_distance">直线距离: %1$s</string>
+    <string name="sport_tag_estimate">估</string>
+    <string name="sport_tag_heartrate">心率</string>
+    <string name="sport_tag_max_pace">最快配速</string>
+    <string name="sport_tag_power">功率</string>
+    <string name="sport_tag_step">步数</string>
+    <string name="sport_tag_temperature">温度</string>
+    <string name="sport_toast_gps_permission_fail">未获取GPS权限</string>
+    <string name="sport_toast_too_short">距离太短，不记录本次轨迹！</string>
+    <string name="sport_toast_training_mode_no_map_tips">室内训练模式下无法使用地图</string>
+    <string name="str_fm_unit_m_cn">%1$s 米</string>
+    <string name="str_luhsu_summary_empty">暂无简介</string>
+    <string name="str_luhsu_summary_fm">简介：%1$s</string>
+    <string name="swimming">游泳</string>
+    <string name="sync">同步</string>
+    <string name="syncing">正在同步…</string>
+    <string name="watermark_choose">选择水印</string>
+    <string name="watermark_generate_error">水印生成出错</string>
+    <string name="watermark_save_failed">保存图片失败</string>
+    <string name="watermark_save_progressing">保存图片中…</string>
+    <string name="watermark_save_share">保存/分享</string>
+    <string name="watermark_save_succeed">图片已保存到 %1$s</string>
+    <string name="watermark_share_title">水印照片</string>
+    <string name="watermark_upload">上传</string>
+    <string name="watermark_upload_to_cloud">上传到云端(%1$s)</string>
+    <string name="workout_comment_title">轨迹评论</string>
+    <string name="workout_view_3d_version">查看3D轨迹</string>
+    <string name="year">年</string>
+    <string name="cube_ptr_hours_ago"> hours ago</string>
+    <string name="cube_ptr_last_update">last update: </string>
+    <string name="cube_ptr_minutes_ago"> minutes ago</string>
+    <string name="cube_ptr_pull_down">Pull Down</string>
+    <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
+    <string name="cube_ptr_refresh_complete">Updated.</string>
+    <string name="cube_ptr_refreshing">Updating...</string>
+    <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
+    <string name="cube_ptr_seconds_ago"> seconds ago</string>
+    <string name="CODE_PUSH_APK_BUILD_TIME">1489573813573</string>
+    <string name="UMAppUpdate">应用更新</string>
+    <string name="UMBreak_Network">未联网</string>
+    <string name="UMDialog_InstallAPK">最新版本已下载，是否安装？</string>
+    <string name="UMGprsCondition">（提示：非WIFI环境）</string>
+    <string name="UMIgnore">忽略该版</string>
+    <string name="UMNewVersion">最新版本:</string>
+    <string name="UMNotNow">以后再说</string>
+    <string name="UMTargetSize">新版本大小:</string>
+    <string name="UMToast_IsUpdating">正在更新中....</string>
+    <string name="UMUpdateCheck">2.6.0.1.20150312</string>
+    <string name="UMUpdateContent">更新内容</string>
+    <string name="UMUpdateNow">立即更新</string>
+    <string name="UMUpdateSize">仅需要下载:</string>
+    <string name="UMUpdateTitle">发现新版本</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="add_comment_hint">添加评论…</string>
+    <string name="add_new_segment">提交赛段</string>
+    <string name="all">总</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="base_nl">Netherlands base overlay</string>
+    <string name="bike_add_comment">添加点评...</string>
+    <string name="bike_add_comment_hint">还没有人点评</string>
+    <string name="bike_add_place">添加实体门店</string>
+    <string name="bike_comment_hint">请添加您的点评吧</string>
+    <string name="bike_comment_title">点评</string>
+    <string name="bike_create_verify_name_limit_3">实体门店名称字数不能少于3</string>
+    <string name="bike_create_verify_name_null">实体门店名称不能为空</string>
+    <string name="bike_create_verify_no_location">实体门店位置未设置</string>
+    <string name="bike_discount">实体门店优惠红包</string>
+    <string name="bike_distance">%1$skm</string>
+    <string name="bike_get_discount">领取红包</string>
+    <string name="bike_graded">评分</string>
+    <string name="bike_info">实体门店详情：</string>
+    <string name="bike_list_title">实体门店</string>
+    <string name="bike_my_collection">我的收藏</string>
+    <string name="bike_order_anthen">申请认证</string>
+    <string name="bike_photo">实体门店实景照片</string>
+    <string name="bike_place_add_comment_failed">点评失败</string>
+    <string name="bike_place_add_comment_not_found">找不到实体门店</string>
+    <string name="bike_place_add_comment_success">点评成功</string>
+    <string name="bike_place_add_faile">添加实体门店失败</string>
+    <string name="bike_place_authentication_apply">实体门店认证申请</string>
+    <string name="bike_place_authentication_info">实体门店认证说明</string>
+    <string name="bike_place_authentication_rule">实体门店认证规则</string>
+    <string name="bike_place_cancel_collect_failed">取消失败</string>
+    <string name="bike_place_cancel_collect_success">取消成功</string>
+    <string name="bike_place_choose_address">点击选择位置</string>
+    <string name="bike_place_collect_failed">收藏失败</string>
+    <string name="bike_place_collect_success">收藏成功</string>
+    <string name="bike_place_collection">收藏实体门店</string>
+    <string name="bike_place_comment_count">%1$s人点评</string>
+    <string name="bike_place_comment_word_limit">发布内容超过900字限制</string>
+    <string name="bike_place_coupons_discount">折</string>
+    <string name="bike_place_coupons_free">免</string>
+    <string name="bike_place_coupons_lessen">减</string>
+    <string name="bike_place_delete_failed">实体门店删除失败</string>
+    <string name="bike_place_delete_success">实体门店删除成功</string>
+    <string name="bike_place_desc">实体门店详情:</string>
+    <string name="bike_place_desc_hint">点击输入详情介绍</string>
+    <string name="bike_place_desc_is_null">暂无描述</string>
+    <string name="bike_place_desc_word_limit">实体门店描述超过1200字限制</string>
+    <string name="bike_place_dialog_content">实体门店创建成功，可以在右上角【我的收藏】里找到自己创建的实体门店，在实体门店详情中可以申请【行者认证】来开放更多功能和权益。</string>
+    <string name="bike_place_dialog_title">创建实体门店成功</string>
+    <string name="bike_place_discount">车店红包</string>
+    <string name="bike_place_edit">编辑实体门店</string>
+    <string name="bike_place_get_detail_failed">获取实体门店详情失败</string>
+    <string name="bike_place_go_authentication">前往认证</string>
+    <string name="bike_place_icon">实体门店图标:</string>
+    <string name="bike_place_id">ID:%d</string>
+    <string name="bike_place_image">实体门店实景照片:</string>
+    <string name="bike_place_image_limit">最多10张照片</string>
+    <string name="bike_place_location">实体门店位置:</string>
+    <string name="bike_place_map_navigation">前往实体门店</string>
+    <string name="bike_place_map_show_detail">查看实体门店</string>
+    <string name="bike_place_new_discount">新的红包未领取</string>
+    <string name="bike_place_phone_num">联系电话:</string>
+    <string name="bike_place_shoose_service">选择提供服务:</string>
+    <string name="bike_place_submit_failed">编辑实体门店，提交失败</string>
+    <string name="bike_place_submit_modify">提交修改</string>
+    <string name="bike_place_submit_place_failed">图片上传失败</string>
+    <string name="bike_place_title">实体门店名称:</string>
+    <string name="bike_place_title_word_limit">实体门店名称不得超过20字</string>
+    <string name="bike_place_work_time">营业时间:</string>
+    <string name="bike_service_type">服务项目</string>
+    <string name="bike_submit_comment">提交点评</string>
+    <string name="bike_work_time">营业时间：</string>
+    <string name="bike_xingzhe_authen">行者认证</string>
+    <string name="bing">Bing</string>
+    <string name="block_canary_block_list_title">Blocks in %s</string>
+    <string name="block_canary_class_has_blocked">blocked %s ms</string>
+    <string name="block_canary_delete">Delete</string>
+    <string name="block_canary_delete_all">Delete all</string>
+    <string name="block_canary_display_activity_label">Blocks</string>
+    <string name="block_canary_notification_message">Click for more details</string>
+    <string name="block_canary_share_leak">Share info</string>
+    <string name="block_canary_share_stack_dump">Share stack dump</string>
+    <string name="block_canary_share_with">Share with…</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="camera_zoom_hint">相机不支持缩放</string>
+    <string name="catalyst_copy_button">Copy</string>
+    <string name="catalyst_debugjs">Debug JS Remotely</string>
+    <string name="catalyst_debugjs_off">Stop Remote JS Debugging</string>
+    <string name="catalyst_dismiss_button">"Dismiss
+(ESC)"</string>
+    <string name="catalyst_element_inspector">Toggle Inspector</string>
+    <string name="catalyst_heap_capture">Capture Heap</string>
+    <string name="catalyst_hot_module_replacement">Enable Hot Reloading</string>
+    <string name="catalyst_hot_module_replacement_off">Disable Hot Reloading</string>
+    <string name="catalyst_jsload_error">Unable to download JS bundle. Did you forget to start the development server or connect your device?</string>
+    <string name="catalyst_jsload_message">Fetching JS bundle</string>
+    <string name="catalyst_jsload_title">Please wait…</string>
+    <string name="catalyst_live_reload">Enable Live Reload</string>
+    <string name="catalyst_live_reload_off">Disable Live Reload</string>
+    <string name="catalyst_perf_monitor">Show Perf Monitor</string>
+    <string name="catalyst_perf_monitor_off">Hide Perf Monitor</string>
+    <string name="catalyst_poke_sampling_profiler">Start/Stop Sampling Profiler</string>
+    <string name="catalyst_reload_button">"Reload
+(R, R)"</string>
+    <string name="catalyst_reloadjs">Reload</string>
+    <string name="catalyst_remotedbg_error">Unable to connect with remote debugger</string>
+    <string name="catalyst_remotedbg_message">Connecting to remote debugger</string>
+    <string name="catalyst_report_button">Report</string>
+    <string name="catalyst_settings">Dev Settings</string>
+    <string name="catalyst_settings_title">Catalyst Dev Settings</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="city_data_insert_sql">"INSERT INTO city (id, city_index, province_id, name)
+VALUES
+\u0009(1,1,1,'北京市'),
+\u0009(2,1,2,'天津市'),
+\u0009(3,1,3,'上海市'),
+\u0009(4,1,4,'重庆市'),
+\u0009(5,1,5,'石家庄市'),
+\u0009(6,2,5,'唐山市'),
+\u0009(7,3,5,'秦皇岛市'),
+\u0009(8,4,5,'邯郸市'),
+\u0009(9,5,5,'邢台市'),
+\u0009(10,6,5,'保定市'),
+\u0009(11,7,5,'张家口市'),
+\u0009(12,8,5,'承德市'),
+\u0009(13,9,5,'沧州市'),
+\u0009(14,10,5,'廊坊市'),
+\u0009(15,11,5,'衡水市'),
+\u0009(16,1,6,'太原市'),
+\u0009(17,2,6,'大同市'),
+\u0009(18,3,6,'阳泉市'),
+\u0009(19,4,6,'长治市'),
+\u0009(20,5,6,'晋城市'),
+\u0009(21,6,6,'朔州市'),
+\u0009(22,7,6,'晋中市'),
+\u0009(23,8,6,'运城市'),
+\u0009(24,9,6,'忻州市'),
+\u0009(25,10,6,'临汾市'),
+\u0009(26,11,6,'吕梁市'),
+\u0009(27,1,7,'台北市'),
+\u0009(28,2,7,'高雄市'),
+\u0009(29,3,7,'基隆市'),
+\u0009(30,4,7,'台中市'),
+\u0009(31,5,7,'台南市'),
+\u0009(32,6,7,'新竹市'),
+\u0009(33,7,7,'嘉义市'),
+\u0009(399,24,7,'新北市'),
+\u0009(400,25,7,'桃园市'),
+\u0009(34,0,7,'台北县'),
+\u0009(35,9,7,'宜兰县'),
+\u0009(36,0,7,'桃园县'),
+\u0009(37,11,7,'新竹县'),
+\u0009(38,12,7,'苗栗县'),
+\u0009(39,0,7,'台中县'),
+\u0009(40,14,7,'彰化县'),
+\u0009(41,15,7,'南投县'),
+\u0009(42,16,7,'云林县'),
+\u0009(43,17,7,'嘉义县'),
+\u0009(44,0,7,'台南县'),
+\u0009(45,0,7,'高雄县'),
+\u0009(46,20,7,'屏东县'),
+\u0009(47,21,7,'澎湖县'),
+\u0009(48,22,7,'台东县'),
+\u0009(49,23,7,'花莲县'),
+\u0009(401,26,7,'金门县'),
+\u0009(402,27,7,'连江县'),
+\u0009(50,1,8,'沈阳市'),
+\u0009(51,2,8,'大连市'),
+\u0009(52,3,8,'鞍山市'),
+\u0009(53,4,8,'抚顺市'),
+\u0009(54,5,8,'本溪市'),
+\u0009(55,6,8,'丹东市'),
+\u0009(56,7,8,'锦州市'),
+\u0009(57,8,8,'营口市'),
+\u0009(58,9,8,'阜新市'),
+\u0009(59,10,8,'辽阳市'),
+\u0009(60,11,8,'盘锦市'),
+\u0009(61,12,8,'铁岭市'),
+\u0009(62,13,8,'朝阳市'),
+\u0009(63,14,8,'葫芦岛市'),
+\u0009(64,1,9,'长春市'),
+\u0009(65,2,9,'吉林市'),
+\u0009(66,3,9,'四平市'),
+\u0009(67,4,9,'辽源市'),
+\u0009(68,5,9,'通化市'),
+\u0009(69,6,9,'白山市'),
+\u0009(70,7,9,'松原市'),
+\u0009(71,8,9,'白城市'),
+\u0009(72,9,9,'延边朝鲜族自治州'),
+\u0009(73,1,10,'哈尔滨市'),
+\u0009(74,2,10,'齐齐哈尔市'),
+\u0009(75,3,10,'鹤岗市'),
+\u0009(76,4,10,'双鸭山市'),
+\u0009(77,5,10,'鸡西市'),
+\u0009(78,6,10,'大庆市'),
+\u0009(79,7,10,'伊春市'),
+\u0009(80,8,10,'牡丹江市'),
+\u0009(81,9,10,'佳木斯市'),
+\u0009(82,10,10,'七台河市'),
+\u0009(83,11,10,'黑河市'),
+\u0009(84,12,10,'绥化市'),
+\u0009(85,13,10,'大兴安岭地区'),
+\u0009(86,1,11,'南京市'),
+\u0009(87,2,11,'无锡市'),
+\u0009(88,3,11,'徐州市'),
+\u0009(89,4,11,'常州市'),
+\u0009(90,5,11,'苏州市'),
+\u0009(91,6,11,'南通市'),
+\u0009(92,7,11,'连云港市'),
+\u0009(93,8,11,'淮安市'),
+\u0009(94,9,11,'盐城市'),
+\u0009(95,10,11,'扬州市'),
+\u0009(96,11,11,'镇江市'),
+\u0009(97,12,11,'泰州市'),
+\u0009(98,13,11,'宿迁市'),
+\u0009(99,1,12,'杭州市'),
+\u0009(100,2,12,'宁波市'),
+\u0009(101,3,12,'温州市'),
+\u0009(102,4,12,'嘉兴市'),
+\u0009(103,5,12,'湖州市'),
+\u0009(104,6,12,'绍兴市'),
+\u0009(105,7,12,'金华市'),
+\u0009(106,8,12,'衢州市'),
+\u0009(107,9,12,'舟山市'),
+\u0009(108,10,12,'台州市'),
+\u0009(109,11,12,'丽水市'),
+\u0009(110,1,13,'合肥市'),
+\u0009(111,2,13,'芜湖市'),
+\u0009(112,3,13,'蚌埠市'),
+\u0009(113,4,13,'淮南市'),
+\u0009(114,5,13,'马鞍山市'),
+\u0009(115,6,13,'淮北市'),
+\u0009(116,7,13,'铜陵市'),
+\u0009(117,8,13,'安庆市'),
+\u0009(118,9,13,'黄山市'),
+\u0009(119,10,13,'滁州市'),
+\u0009(120,11,13,'阜阳市'),
+\u0009(121,12,13,'宿州市'),
+\u0009(122,13,13,'巢湖市'),
+\u0009(123,14,13,'六安市'),
+\u0009(124,15,13,'亳州市'),
+\u0009(125,16,13,'池州市'),
+\u0009(126,17,13,'宣城市'),
+\u0009(127,1,14,'福州市'),
+\u0009(128,2,14,'厦门市'),
+\u0009(129,3,14,'莆田市'),
+\u0009(130,4,14,'三明市'),
+\u0009(131,5,14,'泉州市'),
+\u0009(132,6,14,'漳州市'),
+\u0009(133,7,14,'南平市'),
+\u0009(134,8,14,'龙岩市'),
+\u0009(135,9,14,'宁德市'),
+\u0009(136,1,15,'南昌市'),
+\u0009(137,2,15,'景德镇市'),
+\u0009(138,3,15,'萍乡市'),
+\u0009(139,4,15,'九江市'),
+\u0009(140,5,15,'新余市'),
+\u0009(141,6,15,'鹰潭市'),
+\u0009(142,7,15,'赣州市'),
+\u0009(143,8,15,'吉安市'),
+\u0009(144,9,15,'宜春市'),
+\u0009(145,10,15,'抚州市'),
+\u0009(146,11,15,'上饶市'),
+\u0009(147,1,16,'济南市'),
+\u0009(148,2,16,'青岛市'),
+\u0009(149,3,16,'淄博市'),
+\u0009(150,4,16,'枣庄市'),
+\u0009(151,5,16,'东营市'),
+\u0009(152,6,16,'烟台市'),
+\u0009(153,7,16,'潍坊市'),
+\u0009(154,8,16,'济宁市'),
+\u0009(155,9,16,'泰安市'),
+\u0009(156,10,16,'威海市'),
+\u0009(157,11,16,'日照市'),
+\u0009(158,12,16,'莱芜市'),
+\u0009(159,13,16,'临沂市'),
+\u0009(160,14,16,'德州市'),
+\u0009(161,15,16,'聊城市'),
+\u0009(162,16,16,'滨州市'),
+\u0009(163,17,16,'菏泽市'),
+\u0009(164,1,17,'郑州市'),
+\u0009(165,2,17,'开封市'),
+\u0009(166,3,17,'洛阳市'),
+\u0009(167,4,17,'平顶山市'),
+\u0009(168,5,17,'安阳市'),
+\u0009(169,6,17,'鹤壁市'),
+\u0009(170,7,17,'新乡市'),
+\u0009(171,8,17,'焦作市'),
+\u0009(172,9,17,'濮阳市'),
+\u0009(173,10,17,'许昌市'),
+\u0009(174,11,17,'漯河市'),
+\u0009(175,12,17,'三门峡市'),
+\u0009(176,13,17,'南阳市'),
+\u0009(177,14,17,'商丘市'),
+\u0009(178,15,17,'信阳市'),
+\u0009(179,16,17,'周口市'),
+\u0009(180,17,17,'驻马店市'),
+\u0009(181,18,17,'济源市'),
+\u0009(182,1,18,'武汉市'),
+\u0009(183,2,18,'黄石市'),
+\u0009(184,3,18,'十堰市'),
+\u0009(185,4,18,'荆州市'),
+\u0009(186,5,18,'宜昌市'),
+\u0009(187,6,18,'襄樊市'),
+\u0009(188,7,18,'鄂州市'),
+\u0009(189,8,18,'荆门市'),
+\u0009(190,9,18,'孝感市'),
+\u0009(191,10,18,'黄冈市'),
+\u0009(192,11,18,'咸宁市'),
+\u0009(193,12,18,'随州市'),
+\u0009(194,13,18,'仙桃市'),
+\u0009(195,14,18,'天门市'),
+\u0009(196,15,18,'潜江市'),
+\u0009(197,16,18,'神农架林区'),
+\u0009(198,17,18,'恩施土家族苗族自治州'),
+\u0009(199,1,19,'长沙市'),
+\u0009(200,2,19,'株洲市'),
+\u0009(201,3,19,'湘潭市'),
+\u0009(202,4,19,'衡阳市'),
+\u0009(203,5,19,'邵阳市'),
+\u0009(204,6,19,'岳阳市'),
+\u0009(205,7,19,'常德市'),
+\u0009(206,8,19,'张家界市'),
+\u0009(207,9,19,'益阳市'),
+\u0009(208,10,19,'郴州市'),
+\u0009(209,11,19,'永州市'),
+\u0009(210,12,19,'怀化市'),
+\u0009(211,13,19,'娄底市'),
+\u0009(212,14,19,'湘西土家族苗族自治州'),
+\u0009(213,1,20,'广州市'),
+\u0009(214,2,20,'深圳市'),
+\u0009(215,3,20,'珠海市'),
+\u0009(216,4,20,'汕头市'),
+\u0009(217,5,20,'韶关市'),
+\u0009(218,6,20,'佛山市'),
+\u0009(219,7,20,'江门市'),
+\u0009(220,8,20,'湛江市'),
+\u0009(221,9,20,'茂名市'),
+\u0009(222,10,20,'肇庆市'),
+\u0009(223,11,20,'惠州市'),
+\u0009(224,12,20,'梅州市'),
+\u0009(225,13,20,'汕尾市'),
+\u0009(226,14,20,'河源市'),
+\u0009(227,15,20,'阳江市'),
+\u0009(228,16,20,'清远市'),
+\u0009(229,17,20,'东莞市'),
+\u0009(230,18,20,'中山市'),
+\u0009(231,19,20,'潮州市'),
+\u0009(232,20,20,'揭阳市'),
+\u0009(233,21,20,'云浮市'),
+\u0009(234,1,21,'兰州市'),
+\u0009(235,2,21,'金昌市'),
+\u0009(236,3,21,'白银市'),
+\u0009(237,4,21,'天水市'),
+\u0009(238,5,21,'嘉峪关市'),
+\u0009(239,6,21,'武威市'),
+\u0009(240,7,21,'张掖市'),
+\u0009(241,8,21,'平凉市'),
+\u0009(242,9,21,'酒泉市'),
+\u0009(243,10,21,'庆阳市'),
+\u0009(244,11,21,'定西市'),
+\u0009(245,12,21,'陇南市'),
+\u0009(246,13,21,'临夏回族自治州'),
+\u0009(247,14,21,'甘南藏族自治州'),
+\u0009(248,1,22,'成都市'),
+\u0009(249,2,22,'自贡市'),
+\u0009(250,3,22,'攀枝花市'),
+\u0009(251,4,22,'泸州市'),
+\u0009(252,5,22,'德阳市'),
+\u0009(253,6,22,'绵阳市'),
+\u0009(254,7,22,'广元市'),
+\u0009(255,8,22,'遂宁市'),
+\u0009(256,9,22,'内江市'),
+\u0009(257,10,22,'乐山市'),
+\u0009(258,11,22,'南充市'),
+\u0009(259,12,22,'眉山市'),
+\u0009(260,13,22,'宜宾市'),
+\u0009(261,14,22,'广安市'),
+\u0009(262,15,22,'达州市'),
+\u0009(263,16,22,'雅安市'),
+\u0009(264,17,22,'巴中市'),
+\u0009(265,18,22,'资阳市'),
+\u0009(266,19,22,'阿坝藏族羌族自治州'),
+\u0009(267,20,22,'甘孜藏族自治州'),
+\u0009(268,21,22,'凉山彝族自治州'),
+\u0009(269,1,23,'贵阳市'),
+\u0009(270,2,23,'六盘水市'),
+\u0009(271,3,23,'遵义市'),
+\u0009(272,4,23,'安顺市'),
+\u0009(273,5,23,'铜仁地区'),
+\u0009(274,6,23,'毕节地区'),
+\u0009(275,7,23,'黔西南布依族苗族自治州'),
+\u0009(276,8,23,'黔东南苗族侗族自治州'),
+\u0009(277,9,23,'黔南布依族苗族自治州'),
+\u0009(278,1,24,'海口市'),
+\u0009(279,2,24,'三亚市'),
+\u0009(280,3,24,'五指山市'),
+\u0009(281,4,24,'琼海市'),
+\u0009(282,5,24,'儋州市'),
+\u0009(283,6,24,'文昌市'),
+\u0009(284,7,24,'万宁市'),
+\u0009(285,8,24,'东方市'),
+\u0009(286,9,24,'澄迈县'),
+\u0009(287,10,24,'定安县'),
+\u0009(288,11,24,'屯昌县'),
+\u0009(289,12,24,'临高县'),
+\u0009(290,13,24,'白沙黎族自治县'),
+\u0009(291,14,24,'昌江黎族自治县'),
+\u0009(292,15,24,'乐东黎族自治县'),
+\u0009(293,16,24,'陵水黎族自治县'),
+\u0009(294,17,24,'保亭黎族苗族自治县'),
+\u0009(295,18,24,'琼中黎族苗族自治县'),
+\u0009(296,1,25,'昆明市'),
+\u0009(297,2,25,'曲靖市'),
+\u0009(298,3,25,'玉溪市'),
+\u0009(299,4,25,'保山市'),
+\u0009(300,5,25,'昭通市'),
+\u0009(301,6,25,'丽江市'),
+\u0009(302,7,25,'思茅市'),
+\u0009(303,8,25,'临沧市'),
+\u0009(304,9,25,'文山壮族苗族自治州'),
+\u0009(305,10,25,'红河哈尼族彝族自治州'),
+\u0009(306,11,25,'西双版纳傣族自治州'),
+\u0009(307,12,25,'楚雄彝族自治州'),
+\u0009(308,13,25,'大理白族自治州'),
+\u0009(309,14,25,'德宏傣族景颇族自治州'),
+\u0009(310,15,25,'怒江傈傈族自治州'),
+\u0009(311,16,25,'迪庆藏族自治州'),
+\u0009(312,1,26,'西宁市'),
+\u0009(313,2,26,'海东地区'),
+\u0009(314,3,26,'海北藏族自治州'),
+\u0009(315,4,26,'黄南藏族自治州'),
+\u0009(316,5,26,'海南藏族自治州'),
+\u0009(317,6,26,'果洛藏族自治州'),
+\u0009(318,7,26,'玉树藏族自治州'),
+\u0009(319,8,26,'海西蒙古族藏族自治州'),
+\u0009(320,1,27,'西安市'),
+\u0009(321,2,27,'铜川市'),
+\u0009(322,3,27,'宝鸡市'),
+\u0009(323,4,27,'咸阳市'),
+\u0009(324,5,27,'渭南市'),
+\u0009(325,6,27,'延安市'),
+\u0009(326,7,27,'汉中市'),
+\u0009(327,8,27,'榆林市'),
+\u0009(328,9,27,'安康市'),
+\u0009(329,10,27,'商洛市'),
+\u0009(330,1,28,'南宁市'),
+\u0009(331,2,28,'柳州市'),
+\u0009(332,3,28,'桂林市'),
+\u0009(333,4,28,'梧州市'),
+\u0009(334,5,28,'北海市'),
+\u0009(335,6,28,'防城港市'),
+\u0009(336,7,28,'钦州市'),
+\u0009(337,8,28,'贵港市'),
+\u0009(338,9,28,'玉林市'),
+\u0009(339,10,28,'百色市'),
+\u0009(340,11,28,'贺州市'),
+\u0009(341,12,28,'河池市'),
+\u0009(342,13,28,'来宾市'),
+\u0009(343,14,28,'崇左市'),
+\u0009(344,1,29,'拉萨市'),
+\u0009(345,2,29,'那曲地区'),
+\u0009(346,3,29,'昌都地区'),
+\u0009(347,4,29,'山南地区'),
+\u0009(348,5,29,'日喀则地区'),
+\u0009(349,6,29,'阿里地区'),
+\u0009(350,7,29,'林芝地区'),
+\u0009(351,1,30,'银川市'),
+\u0009(352,2,30,'石嘴山市'),
+\u0009(353,3,30,'吴忠市'),
+\u0009(354,4,30,'固原市'),
+\u0009(355,5,30,'中卫市'),
+\u0009(356,1,31,'乌鲁木齐市'),
+\u0009(357,2,31,'克拉玛依市'),
+\u0009(358,3,31,'石河子市　'),
+\u0009(359,4,31,'阿拉尔市'),
+\u0009(360,5,31,'图木舒克市'),
+\u0009(361,6,31,'五家渠市'),
+\u0009(362,7,31,'吐鲁番市'),
+\u0009(363,8,31,'阿克苏市'),
+\u0009(364,9,31,'喀什市'),
+\u0009(365,10,31,'哈密市'),
+\u0009(366,11,31,'和田市'),
+\u0009(367,12,31,'阿图什市'),
+\u0009(368,13,31,'库尔勒市'),
+\u0009(369,14,31,'昌吉市　'),
+\u0009(370,15,31,'阜康市'),
+\u0009(371,16,31,'米泉市'),
+\u0009(372,17,31,'博乐市'),
+\u0009(373,18,31,'伊宁市'),
+\u0009(374,19,31,'奎屯市'),
+\u0009(375,20,31,'塔城市'),
+\u0009(376,21,31,'乌苏市'),
+\u0009(377,22,31,'阿勒泰市'),
+\u0009(378,1,32,'呼和浩特市'),
+\u0009(379,2,32,'包头市'),
+\u0009(380,3,32,'乌海市'),
+\u0009(381,4,32,'赤峰市'),
+\u0009(382,5,32,'通辽市'),
+\u0009(383,6,32,'鄂尔多斯市'),
+\u0009(384,7,32,'呼伦贝尔市'),
+\u0009(385,8,32,'巴彦淖尔市'),
+\u0009(386,9,32,'乌兰察布市'),
+\u0009(387,10,32,'锡林郭勒盟'),
+\u0009(388,11,32,'兴安盟'),
+\u0009(389,12,32,'阿拉善盟'),
+\u0009(390,1,33,'澳门特别行政区'),
+\u0009(391,1,34,'香港特别行政区'),
+\u0009(392,-1,18,'湖北省直辖县级行政单位'),
+\u0009(393,-1,31,'巴音郭楞蒙古自治州'),
+\u0009(394,-1,31,'博尔塔拉蒙古自治州'),
+\u0009(395,-1,31,'克孜勒苏柯尔克孜自治州'),
+\u0009(396,-1,31,'伊犁哈萨克自治州'),
+\u0009(397,-1,25,'普洱市'),
+\u0009(398,-1,18,'襄阳市');"</string>
+    <string name="club_detail_month_hots">月热度</string>
+    <string name="club_detail_year_hots">年热度</string>
+    <string name="club_dialog_setup_main_club_desc">挑选一个您喜爱的俱乐部，设为您的主 俱乐部，参与更多俱乐部活动，和队员 一起互动，与俱乐部一起成长！</string>
+    <string name="club_list_recommended_hot_locally">本地热门俱乐部</string>
+    <string name="club_list_recommended_hot_nationwide">全国热门俱乐部</string>
+    <string name="club_list_recommended_nearby">附近俱乐部</string>
+    <string name="club_list_search_hot_locally">本地热门</string>
+    <string name="club_list_search_hot_nationwide">全国热门</string>
+    <string name="club_list_search_nearby">附近</string>
+    <string name="club_member_list_group_tag_month_hots_with_unit">月贡献热度(℃)</string>
+    <string name="club_member_list_group_tag_month_miles_with_unit">月度里程(km)</string>
+    <string name="club_member_list_group_tag_total_hots_with_unit">总贡献热度(℃)</string>
+    <string name="club_member_list_group_tag_year_hots_with_unit">年贡献热度(℃)</string>
+    <string name="club_member_list_group_tag_year_miles_with_unit">年度里程(km)</string>
+    <string name="club_member_list_hots_unit">℃</string>
+    <string name="club_menu_all_clubs">所有俱乐部</string>
+    <string name="club_menu_setup_main_club">设置主俱乐部</string>
+    <string name="club_month_hots">本月热度：%d℃</string>
+    <string name="club_no_desc">俱乐部暂无简介。</string>
+    <string name="club_see_more">查看更多》</string>
+    <string name="comment_delete">删除评论</string>
+    <string name="comment_report">举报内容</string>
+    <string name="compass">Compass</string>
+    <string name="device_cadence_label_crank_mode">踏频模式</string>
+    <string name="device_cadence_label_wheel_and_crank">速度&amp;踏频模式</string>
+    <string name="device_cadence_label_wheel_mode">速度模式</string>
+    <string name="device_list_toast_has_connected">设备已经连接~~</string>
+    <string name="device_wingsbtn_send_file">发送文件</string>
+    <string name="dfu_action_abort">Abort</string>
+    <string name="dfu_status_aborted">Aborted</string>
+    <string name="dfu_status_aborted_msg">Application upload has been canceled.</string>
+    <string name="dfu_status_aborting">Aborting…</string>
+    <string name="dfu_status_completed">Done</string>
+    <string name="dfu_status_completed_msg">Application has been sent successfully.</string>
+    <string name="dfu_status_connecting">Connecting…</string>
+    <string name="dfu_status_connecting_msg">Connecting to %s…</string>
+    <string name="dfu_status_disconnecting">Disconnecting…</string>
+    <string name="dfu_status_disconnecting_msg">Disconnecting from %s…</string>
+    <string name="dfu_status_error">Upload failed</string>
+    <string name="dfu_status_error_msg">DFU process failed.</string>
+    <string name="dfu_status_initializing">Initializing…</string>
+    <string name="dfu_status_starting">Starting DFU…</string>
+    <string name="dfu_status_starting_msg">Initializing DFU process…</string>
+    <string name="dfu_status_switching_to_dfu">Starting bootloader…</string>
+    <string name="dfu_status_switching_to_dfu_msg">Waiting for bootloader…</string>
+    <string name="dfu_status_uploading">Uploading…</string>
+    <string name="dfu_status_uploading_msg">Transmitting firmware to %s…</string>
+    <string name="dfu_status_uploading_part" formatted="false">Uploading part %d/%d…</string>
+    <string name="dfu_status_validating">Validating…</string>
+    <string name="dfu_status_validating_msg">Validating…</string>
+    <string name="dfu_unknown_name">unnamed device</string>
+    <string name="dialog_btn_goto_follow">前往关注</string>
+    <string name="dialog_btn_goto_review">前往查看</string>
+    <string name="dialog_btn_goto_setting">前往设置</string>
+    <string name="dialog_btn_i_known">我知道了</string>
+    <string name="dialog_btn_view_detail">查看详情</string>
+    <string name="dialog_do_not_prompt">不再提示</string>
+    <string name="dialog_message_report_segment">确认举报该条赛段数据？</string>
+    <string name="dialog_title_report">举报</string>
+    <string name="direction_east">正东</string>
+    <string name="direction_left">向左转</string>
+    <string name="direction_north">正北</string>
+    <string name="direction_northeast">东北</string>
+    <string name="direction_northwest">西北</string>
+    <string name="direction_right">向右转</string>
+    <string name="direction_sharp_left">向左急转弯</string>
+    <string name="direction_sharp_right">向右急转</string>
+    <string name="direction_slight_left">稍向左转</string>
+    <string name="direction_slight_right">稍向右转</string>
+    <string name="direction_south">正南</string>
+    <string name="direction_southeast">东南</string>
+    <string name="direction_southwest">西南</string>
+    <string name="direction_straight">直行</string>
+    <string name="direction_west">正西</string>
+    <string name="duration">时间</string>
+    <string name="estimate_power">估</string>
+    <string name="event_create_add_image">添加图片</string>
+    <string name="event_create_continue_adding">继续添加</string>
+    <string name="event_create_event">确认发布</string>
+    <string name="event_create_hint_emd_time">选择活动结束时间</string>
+    <string name="event_create_hint_input_member_num">填写活动人数限制</string>
+    <string name="event_create_hint_input_phone">填写您的联系方式</string>
+    <string name="event_create_hint_person">人</string>
+    <string name="event_create_hint_start_time">选择活动开始时间</string>
+    <string name="event_detail_base">集合地</string>
+    <string name="event_detail_cellphone">电话</string>
+    <string name="event_detail_cost">费用</string>
+    <string name="event_detail_date">时间</string>
+    <string name="event_detail_delete_event">删除活动</string>
+    <string name="event_detail_disclaimer">活动须知和免责条款</string>
+    <string name="event_detail_display_close">关闭</string>
+    <string name="event_detail_display_member">地图上显示队友位置</string>
+    <string name="event_detail_display_open">显示</string>
+    <string name="event_detail_exit_event">退出活动</string>
+    <string name="event_detail_finished">已结束</string>
+    <string name="event_detail_group_chat">群聊</string>
+    <string name="event_detail_group_chat_with_msg_count">群聊(%s)</string>
+    <string name="event_detail_id">编号</string>
+    <string name="event_detail_join">立刻加入</string>
+    <string name="event_detail_label_edit">编辑</string>
+    <string name="event_detail_label_share">分享</string>
+    <string name="event_detail_no_summary">暂无简介</string>
+    <string name="event_detail_purchase_insurance">购买保险</string>
+    <string name="event_edit_event">更新活动</string>
+    <string name="event_update_event">确认更新</string>
+    <string name="fiets_nl">OpenFietsKaart overlay</string>
+    <string name="first_fix_message">Got the first fix</string>
+    <string name="format_distance_feet">%s ft</string>
+    <string name="format_distance_kilometers">%s km</string>
+    <string name="format_distance_meters">%s m</string>
+    <string name="format_distance_miles">%s mi</string>
+    <string name="format_distance_nautical_miles">%s nm</string>
+    <string name="history_month_total">%1$s月里程(km)</string>
+    <string name="hot_placeholder">%1$s ℃</string>
+    <string name="hot_value">℃</string>
+    <string name="hot_value_unit">热度(℃)</string>
+    <string name="join_public_group">Join public group</string>
+    <string name="label_lushu_got_it">知道了</string>
+    <string name="label_newest_fw">新固件:%1$s</string>
+    <string name="lushu_info_use">使用</string>
+    <string name="lushu_info_view">查看</string>
+    <string name="mapbox">MapBox</string>
+    <string name="mapnik">Mapnik</string>
+    <string name="mapquest_aerial">Mapquest Aerial</string>
+    <string name="mapquest_osm">Mapquest</string>
+    <string name="medal_title_challenge">月度挑战</string>
+    <string name="medal_title_competition">线上赛事</string>
+    <string name="medal_title_event">限时活动</string>
+    <string name="medal_title_xingzhe">常规挑战</string>
+    <string name="message_fm_using_credit">是否使用%1$d分兑换红包</string>
+    <string name="message_lushu_collected">收藏的路书可以在&lt;strong>【路书】-【我的】-【我的收藏】&lt;/strong>中找到。</string>
+    <string name="message_lushu_created">自己制作的路书可以在&lt;strong>【路书】-【我的】-【我制作的】&lt;/strong>中找到。</string>
+    <string name="message_lushu_downlaoded">下载到本地的路书可以在&lt;strong>【路书】-【我的】-【已下载】&lt;/strong>中找到。</string>
+    <string name="message_reconnect_to_device">重新连接设备</string>
+    <string name="message_upgrade_fw_confirm">是否将%1$s更新到最新固件?</string>
+    <string name="message_upgrade_fw_connected">连接成功</string>
+    <string name="message_upgrade_fw_connecting">连接设备</string>
+    <string name="message_upgrade_fw_disconnected">断开连接成功</string>
+    <string name="message_upgrade_fw_disconnecting">断开连接</string>
+    <string name="message_upgrade_fw_exit">如果需要再次连接设备，请先重启蓝牙设备再执行连接操作。</string>
+    <string name="message_upgrade_fw_fail">更新失败，是否重试？</string>
+    <string name="message_upgrade_fw_failed_to_enter_dfu_mode">无法进入升级模式</string>
+    <string name="message_upgrade_fw_in_progress">升级中：%1$d%%</string>
+    <string name="message_upgrade_fw_not_found_fw">未找到固件文件</string>
+    <string name="message_upgrade_fw_on_success">更新成功，本页面将会关闭稍后请手动连接设备。</string>
+    <string name="message_upgrade_fw_preparing">正在进入升级模式</string>
+    <string name="message_upgrade_fw_starting">开始升级固件</string>
+    <string name="mine_device_subtitle_wings">Wing</string>
+    <string name="mine_level_permission_coupon_entry_content">行者特惠礼包，享受更多优惠</string>
+    <string name="mine_level_permission_coupon_entry_title">等级特惠礼包</string>
+    <string name="mine_level_permission_coupon_title">行者等级特惠礼包</string>
+    <string name="mine_level_permission_cur_hot">当前总热度：</string>
+    <string name="mine_level_permission_grade_tag">等级成长</string>
+    <string name="mine_level_permission_level_hots">Lv.%1$d 需要总热度达到 %2$d℃</string>
+    <string name="mine_level_permission_level_tag">当前等级</string>
+    <string name="mine_level_permission_title">等级权限说明</string>
+    <string name="mine_level_toast_consume_count">剩余免费次数%1$d</string>
+    <string name="mine_level_toast_consume_credits">积分-%1$d</string>
+    <string name="mine_level_toast_download_lushu_failed">下载路书失败！</string>
+    <string name="mine_level_toast_download_lushu_successful">下载路书成功！</string>
+    <string name="mine_level_toast_export_to_lushu_failed">转路书失败！</string>
+    <string name="mine_level_toast_export_to_lushu_successful">转路书成功！</string>
+    <string name="mine_level_toast_workout_3d_failed">生成3D轨迹失败！</string>
+    <string name="mine_level_toast_workout_3d_successful">生成3D轨迹成功！</string>
+    <string name="mine_level_upgrade_dialog_title">行者等级提升到Lv.%1$d</string>
+    <string name="mine_medal_add_title">设置展示勋章</string>
+    <string name="mine_medal_level_one">达到%1$d级开启第一个展示位</string>
+    <string name="mine_medal_level_select">点击选择展示勋章</string>
+    <string name="mine_medal_level_three">达到%1$d级开启第三个展示位</string>
+    <string name="mine_medal_level_two">达到%1$d级开启第二个展示位</string>
+    <string name="mine_medal_select_title">选择展示勋章</string>
+    <string name="mine_medal_toast_add_failed">勋章挂件添加失败</string>
+    <string name="mine_medal_toast_add_successful">勋章挂件添加成功</string>
+    <string name="mine_message_setting_label_bike_place_notification">接收实体门店推送</string>
+    <string name="nav_first_step">从起点向%1$s方向出发，骑行%2$s</string>
+    <string name="navigation_yaw">偏航中</string>
+    <string name="offline">Offline mode</string>
+    <string name="pay_result_callback_msg">微信支付结果：%s</string>
+    <string name="province_data_insert_sql">"INSERT INTO province (id, name, city_count)
+VALUES
+\u0009(1,'北京市',1),
+\u0009(2,'天津市',1),
+\u0009(3,'上海市',1),
+\u0009(4,'重庆市',1),
+\u0009(5,'河北省',11),
+\u0009(6,'山西省',11),
+\u0009(7,'台湾省',23),
+\u0009(8,'辽宁省',14),
+\u0009(9,'吉林省',9),
+\u0009(10,'黑龙江省',13),
+\u0009(11,'江苏省',13),
+\u0009(12,'浙江省',11),
+\u0009(13,'安徽省',17),
+\u0009(14,'福建省',9),
+\u0009(15,'江西省',11),
+\u0009(16,'山东省',17),
+\u0009(17,'河南省',18),
+\u0009(18,'湖北省',17),
+\u0009(19,'湖南省',14),
+\u0009(20,'广东省',21),
+\u0009(21,'甘肃省',14),
+\u0009(22,'四川省',21),
+\u0009(23,'贵州省',9),
+\u0009(24,'海南省',18),
+\u0009(25,'云南省',16),
+\u0009(26,'青海省',8),
+\u0009(27,'陕西省',10),
+\u0009(28,'广西壮族自治区',14),
+\u0009(29,'西藏自治区',7),
+\u0009(30,'宁夏回族自治区',5),
+\u0009(31,'新疆维吾尔自治区',22),
+\u0009(32,'内蒙古自治区',12),
+\u0009(33,'澳门特别行政区',1),
+\u0009(34,'香港特别行政区',1);"</string>
+    <string name="public_transport">Public transport</string>
+    <string name="pull_to_refresh_pull_label">向下拉动可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中…</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_tap_label">点击刷新</string>
+    <string name="roads_nl">Netherlands roads overlay</string>
+    <string name="samples">Samples</string>
+    <string name="set_mode_hide_me">hiding my current location</string>
+    <string name="set_mode_offline">Set to offline mode</string>
+    <string name="set_mode_online">Set to online mode</string>
+    <string name="set_mode_show_me">showing and tracking my current location</string>
+    <string name="skiing">滑雪</string>
+    <string name="sport_dialog_connect_ble_btn_connect">前往连接</string>
+    <string name="sport_dialog_connect_ble_content">使用室内训练模式，需要先连接踏频器或者心率带。</string>
+    <string name="sport_dialog_connect_ble_title">连接智能设备</string>
+    <string name="sport_dialog_other_sport_tips">&lt;small>*&lt;font color=#007ac2>自由行&lt;/font>模式下不限交通工具或者运动类型，随时随地记录出行轨迹，留下你的足迹。&lt;br>&lt;br>*在该模式下记录的轨迹将&lt;font color=#007ac2>不会产生积分&lt;/font>。&lt;/small></string>
+    <string name="sport_dialog_sport_type_tips_content">当前运动类型和上次不一致，请到历史记录中修改后再继续运动。</string>
+    <string name="sport_dialog_sport_type_tips_title">运动类型不一致</string>
+    <string name="sport_dialog_training_tips">&lt;small>*&lt;font color=#007ac2>室内训练&lt;/font>模式供室内训练记录使用，在该模式下记录的轨迹将&lt;font color=#007ac2>不会产生积分&lt;/font>。&lt;br>&lt;br>*由于在室内无法获取准确的GPS信号，因此将&lt;font color=#007ac2>不会记录运动过程中产生的轨迹&lt;/font>。&lt;/small></string>
+    <string name="sport_tag_cadence">踏频</string>
+    <string name="str_fm_unit_calorie">%1$s kcal</string>
+    <string name="str_fm_unit_km_with_space">%1$s km</string>
+    <string name="str_lushu_created_by_myself">我制作的</string>
+    <string name="tb_munion_tip_download_prefix">正在下载:</string>
+    <string name="title_activity_bici_file_synchronise">BiciFileSynchroniseActivity</string>
+    <string name="title_activity_bici_info">BiciInfoActivity</string>
+    <string name="title_activity_bici_location">BiciLocationActivity</string>
+    <string name="title_activity_bici_setting">BiciSettingActivity</string>
+    <string name="title_activity_bici_status">BiciStatusActivity</string>
+    <string name="title_activity_cadence_status">CadenceStatusActivity</string>
+    <string name="title_activity_city_choose">CityChooseActivity</string>
+    <string name="title_activity_club">ClubActivity</string>
+    <string name="title_activity_club_detail">ClubDetailActivity</string>
+    <string name="title_activity_club_mange">ClubSearchActivity</string>
+    <string name="title_activity_club_notify">ClubNotifyActivity</string>
+    <string name="title_activity_club_search">ClubSearchActivity</string>
+    <string name="title_activity_club_simple">ClubSimpleActivity</string>
+    <string name="title_activity_common_web">CommonWebActivity</string>
+    <string name="title_activity_crash_tips">CrashTipsActivity</string>
+    <string name="title_activity_device_list_activiy">DeviceListActiviy</string>
+    <string name="title_activity_email_bind">EmailBindActivity</string>
+    <string name="title_activity_email_register">EmailRegisterActivity</string>
+    <string name="title_activity_event_and_club_list">EventAndClubListActivity</string>
+    <string name="title_activity_event_create">EventCreateActivity</string>
+    <string name="title_activity_event_detail">EventDetailActivity</string>
+    <string name="title_activity_event_location">EventLocationActivity</string>
+    <string name="title_activity_event_search">EventSearchActivity</string>
+    <string name="title_activity_event_user_list">EventUserListActivity</string>
+    <string name="title_activity_firmware_upgrade">FirmwareUpgradeActivity</string>
+    <string name="title_activity_gps_detail">GpsDetailActivity</string>
+    <string name="title_activity_guide">GuideActivity</string>
+    <string name="title_activity_heart_rate_status">HeartRateStatusActivity</string>
+    <string name="title_activity_history_detail">HistoryDetailActivity</string>
+    <string name="title_activity_history_search">HistorySearchActivity</string>
+    <string name="title_activity_intro_actviity">IntroActviity</string>
+    <string name="title_activity_local_lushu_search">LocalLushuSearchActivity</string>
+    <string name="title_activity_location_share">伴我行</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_lushu">LushuActivity</string>
+    <string name="title_activity_lushu_create">LushuCreateActivity</string>
+    <string name="title_activity_lushu_edit">LushuEditActivity</string>
+    <string name="title_activity_lushu_for_event">LushuForEventActivity</string>
+    <string name="title_activity_lushu_search">LushuSearchActivity</string>
+    <string name="title_activity_lushu_waypoint_edit">LushuWaypointEditActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_medal_activtiy">MedalActivtiy</string>
+    <string name="title_activity_medal_detail">MedalDetailActivity</string>
+    <string name="title_activity_member_list">MemberListActivity</string>
+    <string name="title_activity_new_club">NewClubActivity</string>
+    <string name="title_activity_new_lushu">NewLushuActivity</string>
+    <string name="title_activity_new_more">NewMoreActivity</string>
+    <string name="title_activity_new_tts">NewTtsActivity</string>
+    <string name="title_activity_password_setting">PasswordSettingActivity</string>
+    <string name="title_activity_personal">PersonalActivity</string>
+    <string name="title_activity_phone_bind">PhoneBindActivity</string>
+    <string name="title_activity_photo_album">PhotoAlbumActivity</string>
+    <string name="title_activity_photo_viewer">PhotoViewerActivity</string>
+    <string name="title_activity_point_display">PointDisplayActivity</string>
+    <string name="title_activity_point_select">PointSelectActivity</string>
+    <string name="title_activity_profile_edit">ProfileEditActivity</string>
+    <string name="title_activity_rank_team">RankTeamActivity</string>
+    <string name="title_activity_ranking">RankingActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_route">RouteActivity</string>
+    <string name="title_activity_route_detail">RouteDetailActivity</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_sos">SosActivity</string>
+    <string name="title_activity_sport_edit">SportEditActivity</string>
+    <string name="title_activity_sport_map">SportMapActivity</string>
+    <string name="title_activity_team">TeamActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+    <string name="title_activity_watchs">WatchsActivity</string>
+    <string name="title_activity_wheel_length_setting">WheelLengthSetting</string>
+    <string name="title_activity_workout_detail">WorkoutDetailActivity</string>
+    <string name="title_activity_xingzhe_x1">XingzheX1Activity</string>
+    <string name="toast_comment_delete_on_failure">删除失败</string>
+    <string name="toast_comment_delete_on_successful">删除成功</string>
+    <string name="toast_export_failed">导出失败</string>
+    <string name="toast_export_lushu_successful">导出成功，已保存到本地路书</string>
+    <string name="toast_message_report_segment">已收到您的举报，行者工作人员随后会进行处理</string>
+    <string name="training">室内训练</string>
+    <string name="umeng_common_action_cancel">取消</string>
+    <string name="umeng_common_action_continue">继续</string>
+    <string name="umeng_common_action_info_exist">正在下载中.</string>
+    <string name="umeng_common_action_pause">暂停</string>
+    <string name="umeng_common_download_failed">下载失败</string>
+    <string name="umeng_common_download_finish">下载完成，请点击安装</string>
+    <string name="umeng_common_download_notification_prefix">正在下载:</string>
+    <string name="umeng_common_icon">icon</string>
+    <string name="umeng_common_info_interrupt">下载出错啦，请检查网络后继续。</string>
+    <string name="umeng_common_network_break_alert">请连接网络后再尝试！</string>
+    <string name="umeng_common_patch_finish">更新完成，请点击安装</string>
+    <string name="umeng_common_pause_notification_prefix">暂停:</string>
+    <string name="umeng_common_silent_download_finish">新版本已经准备好，请点击安装</string>
+    <string name="umeng_common_start_download_notification">正在下载应用</string>
+    <string name="umeng_common_start_patch_notification">正在更新安装包</string>
+    <string name="umeng_example_home_btn_plus">社交分享</string>
+    <string name="umeng_fb_back">返回</string>
+    <string name="umeng_fb_change_contact_title">更改联系信息</string>
+    <string name="umeng_fb_contact_email">邮箱</string>
+    <string name="umeng_fb_contact_info">联系方式</string>
+    <string name="umeng_fb_contact_info_hint">QQ, 电话等我们能联系您的联系方式</string>
+    <string name="umeng_fb_contact_key_email">email</string>
+    <string name="umeng_fb_contact_key_other">plain</string>
+    <string name="umeng_fb_contact_key_phone">phone</string>
+    <string name="umeng_fb_contact_key_qq">qq</string>
+    <string name="umeng_fb_contact_other">其他</string>
+    <string name="umeng_fb_contact_phone">手机</string>
+    <string name="umeng_fb_contact_qq">QQ</string>
+    <string name="umeng_fb_contact_save">保存</string>
+    <string name="umeng_fb_count_down">限时倒数</string>
+    <string name="umeng_fb_feedback">意见反馈</string>
+    <string name="umeng_fb_no_record_permission">没有录音权限</string>
+    <string name="umeng_fb_notification_content_formatter_multiple_msg">收到来自开发者的 %d 条回复。</string>
+    <string name="umeng_fb_notification_content_formatter_single_msg">新回复: %s</string>
+    <string name="umeng_fb_notification_ticker_text">有新的回复</string>
+    <string name="umeng_fb_please_select_picture">请选择图片</string>
+    <string name="umeng_fb_press_speech">按住说话</string>
+    <string name="umeng_fb_record_fail">录音失败</string>
+    <string name="umeng_fb_record_time_short">录音时间太短</string>
+    <string name="umeng_fb_release_cancel">松开手指,取消发送</string>
+    <string name="umeng_fb_release_send">松开发送</string>
+    <string name="umeng_fb_reply_content_default">你好， 我是产品经理，欢迎您反馈使用产品的感受和建议</string>
+    <string name="umeng_fb_send">发送</string>
+    <string name="umeng_fb_send_fail">发送失败</string>
+    <string name="umeng_fb_sending">正在发送…</string>
+    <string name="umeng_fb_slide_up_cancel">向上滑动,取消发送</string>
+    <string name="umeng_fb_time_minutes_ago">%d分钟前</string>
+    <string name="umeng_fb_time_pre_year_format">yy/MM/dd HH:mm:ss</string>
+    <string name="umeng_fb_time_right_now">刚刚</string>
+    <string name="umeng_fb_time_this_year_format">MM/dd HH:mm:ss</string>
+    <string name="umeng_fb_title">用户反馈</string>
+    <string name="umeng_fb_write_contact_title">填写联系信息</string>
+    <string name="umeng_socialize_back">返回</string>
+    <string name="umeng_socialize_cancel_btn_str">取消</string>
+    <string name="umeng_socialize_comment">评论</string>
+    <string name="umeng_socialize_comment_detail">评论详情</string>
+    <string name="umeng_socialize_content_hint">说点啥…</string>
+    <string name="umeng_socialize_friends">关注的好友</string>
+    <string name="umeng_socialize_img_des" />
+    <string name="umeng_socialize_login">登录</string>
+    <string name="umeng_socialize_login_qq">QQ空间</string>
+    <string name="umeng_socialize_mail">邮件</string>
+    <string name="umeng_socialize_msg_hor">小时前</string>
+    <string name="umeng_socialize_msg_min">分钟前</string>
+    <string name="umeng_socialize_msg_sec">秒前</string>
+    <string name="umeng_socialize_near_At">最近@的好友</string>
+    <string name="umeng_socialize_network_break_alert">请连接网络后再尝试！</string>
+    <string name="umeng_socialize_send">发布</string>
+    <string name="umeng_socialize_send_btn_str">发送</string>
+    <string name="umeng_socialize_share">分享</string>
+    <string name="umeng_socialize_share_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能，我们简化了社交平台的接入，为开发者提供坚实的基础服务。（一）支持各大主流社交平台， （二）支持图片、文字、gif动图、音频、视频；@好友，关注官方微博等功能。 （三）提供详尽的后台用户社交行为分析。www.umeng.com/social</string>
+    <string name="umeng_socialize_sina">新浪</string>
+    <string name="umeng_socialize_sms">短信</string>
+    <string name="umeng_socialize_text_add_custom_platform">请配置用户平台</string>
+    <string name="umeng_socialize_text_alipay_key">支付宝</string>
+    <string name="umeng_socialize_text_authorize">授权</string>
+    <string name="umeng_socialize_text_choose_account">选择已有帐号登录</string>
+    <string name="umeng_socialize_text_comment_hint">说点什么吧…</string>
+    <string name="umeng_socialize_text_douban_key">豆瓣网</string>
+    <string name="umeng_socialize_text_evernote_key">印象笔记</string>
+    <string name="umeng_socialize_text_facebook_key">facebook</string>
+    <string name="umeng_socialize_text_flickr_key">Flickr</string>
+    <string name="umeng_socialize_text_foursquare_key">Foursquare</string>
+    <string name="umeng_socialize_text_friend_list">好友列表</string>
+    <string name="umeng_socialize_text_googleplus_key">GooglePlus</string>
+    <string name="umeng_socialize_text_instagram_key">instagram</string>
+    <string name="umeng_socialize_text_kakao_key">Kakao Talk</string>
+    <string name="umeng_socialize_text_laiwangdynamic_key">来往动态</string>
+    <string name="umeng_socialize_text_line_key">LINE</string>
+    <string name="umeng_socialize_text_linkedin_key">Linkedin</string>
+    <string name="umeng_socialize_text_loading_message">载入中,请稍候...</string>
+    <string name="umeng_socialize_text_login_fail">登录失败了，请重试</string>
+    <string name="umeng_socialize_text_more_key">更多</string>
+    <string name="umeng_socialize_text_pinterest_key">pinterest</string>
+    <string name="umeng_socialize_text_pocket_key">pocket</string>
+    <string name="umeng_socialize_text_qq_key">QQ</string>
+    <string name="umeng_socialize_text_qq_zone_key">QQ空间</string>
+    <string name="umeng_socialize_text_renren_key">人人网</string>
+    <string name="umeng_socialize_text_sina_key">微博</string>
+    <string name="umeng_socialize_text_tencent_key">腾讯微博</string>
+    <string name="umeng_socialize_text_tencent_no_connection">无法连接到腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_no_install">未安装腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_oauth_login_fail">授权登录失败</string>
+    <string name="umeng_socialize_text_tencent_version_no_match">版本不匹配，SSO只对微博客户端V3.8.1及以上的版本提供支持</string>
+    <string name="umeng_socialize_text_tumblr_key">Tumblr</string>
+    <string name="umeng_socialize_text_twitter_key">twitter</string>
+    <string name="umeng_socialize_text_ucenter">个人中心</string>
+    <string name="umeng_socialize_text_unauthorize">未授权</string>
+    <string name="umeng_socialize_text_visitor">游客</string>
+    <string name="umeng_socialize_text_waitting">请稍候...</string>
+    <string name="umeng_socialize_text_waitting_message">,请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qq">跳转QQ中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qzone">跳转QZone中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_redirect">跳转</string>
+    <string name="umeng_socialize_text_waitting_share">分享中…</string>
+    <string name="umeng_socialize_text_waitting_weixin">跳转微信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_weixin_circle">跳转朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin">跳转易信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin_circle">跳转易信朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_weixin_circle_key">微信朋友圈</string>
+    <string name="umeng_socialize_text_weixin_fav_key">微信收藏</string>
+    <string name="umeng_socialize_text_weixin_key">微信</string>
+    <string name="umeng_socialize_text_wenxin_fav">微信收藏</string>
+    <string name="umeng_socialize_text_whatsapp_key">WhatsApp</string>
+    <string name="umeng_socialize_text_ydnote_key">有道云笔记</string>
+    <string name="umeng_socialize_text_yixin_key">易信</string>
+    <string name="umeng_socialize_text_yixincircle_key">易信朋友圈</string>
+    <string name="umeng_socialize_tip_blacklist">对不起，因为违反了用户协议您已被禁言.</string>
+    <string name="umeng_socialize_tip_loginfailed">登录失败…</string>
+    <string name="umeng_socialize_ucenter_login_title_guide">游客登录</string>
+    <string name="umeng_socialize_ucenter_login_title_platform">登录帐号</string>
+    <string name="unit_hots">℃</string>
+    <string name="unit_percent">%</string>
+    <string name="unit_power">w</string>
+    <string name="value_level_format">Lv.%1$d</string>
+    <string name="watermark_camera">水印相机</string>
+</resources>
